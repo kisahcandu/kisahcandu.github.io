@@ -1,10 +1,11 @@
 {
-  "name": "Kisah Candu",
-  "short_name": "Cerita",
-  "description": "Baca cerita pilihan yang menggoda dan memikat.",
+  "name": "300+ Cerita Jos 🔥",
+  "short_name": "Cerita Jos",
+  "description": "Baca lebih dari 300 cerita pilihan yang menggoda dan bikin nagih. Rasakan kisah-kisah jos dalam satu klik.",
+  "lang": "id",
   "start_url": "/miniapp/index.html",
   "display": "standalone",
-  "theme_color": "#111827",
+  "theme_color": "#1f2937",
   "background_color": "#000000",
   "icons": [
     {
