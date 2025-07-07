@@ -3,9 +3,7 @@ import os
 import re
 import json
 import datetime
-import time # Untuk menambahkan delay pada retry
-import google.generativeai as genai
-from google.generativeai import GenerativeModel
+import time # Meskipun tidak ada retry AI, ini bisa tetap berguna jika ada delay lain
 
 # --- Konfigurasi ---
 # Gunakan GitHub Secrets untuk WORDPRESS_BLOG_ID agar lebih aman
@@ -14,13 +12,7 @@ API_BASE_URL = f"https://public-api.wordpress.com/rest/v1.1/sites/{BLOG_ID}/post
 POST_DIR = '_posts'
 STATE_FILE = 'published_posts.json' # File untuk melacak postingan yang sudah diterbitkan
 
-# Konfigurasi Gemini API
-GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
-if not GEMINI_API_KEY:
-    raise ValueError("GEMINI_API_KEY belum diatur di variabel lingkungan. Harap atur di GitHub Secrets.")
-
-genai.configure(api_key=GEMINI_API_KEY)
-GEMINI_MODEL = GenerativeModel('gemini-1.5-flash') # Menggunakan model yang terbukti jalan
+# Bagian konfigurasi Gemini API sudah dihapus
 
 os.makedirs(POST_DIR, exist_ok=True)
 
@@ -76,74 +68,8 @@ def replace_custom_words(text):
         processed_text = pattern.sub(new_word, processed_text)
     return processed_text
 
-# --- Gemini AI Integration ---
-def paraphrase_text_with_gemini(text_content, max_retries=5, chunk_size=3000, retry_delay=5): # Max retries ditingkatkan, ada delay
-    """
-    Melakukan paraphrase teks menggunakan Gemini AI, memecah teks menjadi chunk jika terlalu panjang,
-    dan mengatur alur dinamis agar artikel unik dan tidak terdeteksi sebagai duplikat.
-    """
-    if not text_content or text_content.strip() == "":
-        print("Skipping paraphrase: text content is empty.")
-        return ""
-
-    chunks = []
-    current_chunk = []
-    current_length = 0
-    
-    # Memisahkan berdasarkan dua newline untuk paragraf
-    paragraphs = text_content.split('\n\n') 
-
-    for para in paragraphs:
-        # Cek jika paragraf saat ini akan melebihi chunk_size
-        if current_length + len(para) + 2 > chunk_size and current_chunk: # +2 untuk '\n\n'
-            chunks.append('\n\n'.join(current_chunk))
-            current_chunk = [para]
-            current_length = len(para)
-        else:
-            current_chunk.append(para)
-            current_length += len(para) + 2 # Tambah panjang paragraf dan pemisah
-
-    if current_chunk:
-        chunks.append('\n\n'.join(current_chunk))
-
-    paraphrased_chunks = []
-    print(f"Jumlah bagian teks yang akan diparafrase: {len(chunks)}")
-
-    for i, chunk in enumerate(chunks):
-        # Prompt yang dimodifikasi untuk gaya informal dan tanpa sastra
-        prompt = (
-            "Parafrase ulang teks berikut agar jadi unik dan tidak terdeteksi duplikat. "
-            "Gunakan bahasa yang **santai, informal, dan mudah dimengerti**, seperti obrolan sehari-hari. "
-            "**Hindari diksi atau gaya bahasa yang puitis, kiasan, atau terlalu sastra.** "
-            "Pastikan semua informasi dan fakta penting tetap ada dan alur cerita asli tidak berubah. "
-            "Pertahankan struktur paragraf dan sub-judul (jika ada). "
-            "Teks asli:\n\n"
-            f"'{chunk}'" # Menggunakan chunk di sini
-        )
-        
-        retries = 0
-        while retries < max_retries:
-            try:
-                print(f"Memproses parafrase bagian {i+1}/{len(chunks)}... (Percobaan {retries+1}/{max_retries})")
-                response = GEMINI_MODEL.generate_content(prompt)
-                
-                if response and response.text:
-                    paraphrased_chunks.append(response.text.strip())
-                    break # Berhasil, keluar dari loop retry
-                else:
-                    print(f"⚠️ Respon kosong dari Gemini untuk bagian {i+1}. Menunggu {retry_delay} detik sebelum mencoba lagi...")
-                    time.sleep(retry_delay) # Tambahkan delay
-                    retries += 1
-            except Exception as e:
-                print(f"❌ Error saat memparafrase bagian {i+1}: {e}. Menunggu {retry_delay} detik sebelum mencoba lagi...")
-                time.sleep(retry_delay) # Tambahkan delay
-                retries += 1
-        
-        if retries == max_retries:
-            print(f"🚫 Gagal memparafrase bagian {i+1} setelah {max_retries} percobaan. Menggunakan teks asli.")
-            paraphrased_chunks.append(chunk) # Gunakan teks asli jika gagal
-
-    return "\n\n".join(paraphrased_chunks)
+# --- Fungsi paraphrase_text_with_gemini Dihapus ---
+# Tidak ada lagi fungsi untuk parafrase dengan Gemini AI di sini.
 
 
 def load_published_posts_state():
@@ -165,12 +91,15 @@ def save_published_posts_state(published_ids):
 
 # === Ambil semua postingan dari WordPress.com API ===
 def fetch_all_and_process_posts():
-    """Mengambil semua postingan dari WordPress.com API dan memprosesnya."""
+    """
+    Mengambil semua postingan dari WordPress.com API, membersihkan,
+    dan menerapkan penggantian kata khusus (TANPA PARAFRASE AI).
+    """
     all_posts_raw = []
     offset = 0
     per_request_limit = 100
 
-    print("📥 Mengambil semua artikel dari WordPress.com API untuk identifikasi...")
+    print("📥 Mengambil semua artikel dari WordPress.com API...")
 
     while True:
         params = {
@@ -199,26 +128,18 @@ def fetch_all_and_process_posts():
             
     processed_posts = []
     for post in all_posts_raw:
-        # --- Pemrosesan Judul ---
+        # --- Pemrosesan Judul (Tanpa Parafrase AI) ---
         original_title = post.get('title', '')
-        # Parafrase judul terlebih dahulu (menggunakan fungsi paraphrase yang diadaptasi)
-        paraphrased_title = paraphrase_text_with_gemini(original_title, chunk_size=200) # Ukuran chunk lebih kecil untuk judul
-        # Lalu terapkan penggantian kata khusus
-        processed_title = replace_custom_words(paraphrased_title)
+        processed_title = replace_custom_words(original_title) # Langsung terapkan penggantian kata
         post['processed_title'] = processed_title # Simpan judul yang sudah bersih
 
-        # --- Pemrosesan Konten ---
+        # --- Pemrosesan Konten (Tanpa Parafrase AI) ---
         raw_content = post.get('content', '')
-        clean_text_before_paraphrase = remove_anchor_tags(raw_content)
-        # Menggunakan strip_html_and_divs untuk mengubah <p> menjadi \n\n
-        clean_text_before_paraphrase = strip_html_and_divs(clean_text_before_paraphrase)
+        clean_text_before_processing = remove_anchor_tags(raw_content)
+        clean_text_before_processing = strip_html_and_divs(clean_text_before_processing)
         
-        # Parafrase konten dengan Gemini AI
-        print(f"Memulai parafrase konten untuk '{processed_title}'...")
-        paraphrased_content = paraphrase_text_with_gemini(clean_text_before_paraphrase)
-        
-        # Langsung terapkan penggantian kata khusus pada konten yang sudah diparafrase
-        final_processed_text = replace_custom_words(paraphrased_content) 
+        # Langsung terapkan penggantian kata khusus pada konten yang sudah bersih
+        final_processed_text = replace_custom_words(clean_text_before_processing) 
         post['processed_markdown_content'] = final_processed_text
 
         snippet_text = final_processed_text
@@ -293,10 +214,10 @@ def generate_jekyll_markdown_post(post):
 # === Eksekusi Utama ===
 if __name__ == '__main__':
     print(f"[{datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}] Starting Jekyll post generation process...")
-    print("🚀 Mengambil artikel WordPress TERBARU untuk diproses.")
+    print("🚀 Mengambil artikel WordPress TERBARU.")
     print("🗓️ Tanggal postingan Jekyll akan mengikuti tanggal saat ini (saat GitHub Action dijalankan).")
     print("✨ Penggantian kata khusus diterapkan pada judul dan konten (termasuk imbuhan).")
-    print("💡 Konten akan diparafrase menggunakan Gemini AI dengan gaya informal dan tanpa diksi/sastra.")
+    print("⛔ Fitur Parafrase AI (Gemini) DINONAKTIFKAN.")
     print("✍️ Menggunakan format paragraf standar dari WordPress (tag <p> diubah jadi double newline).")
     
     try:
@@ -304,9 +225,7 @@ if __name__ == '__main__':
         published_ids = load_published_posts_state()
         print(f"Ditemukan {len(published_ids)} postingan yang sudah diterbitkan sebelumnya.")
 
-        # 2. Ambil semua postingan dari API
-        # PENTING: Fungsi ini sekarang akan memproses parafrase dan penggantian kata untuk SEMUA artikel yang diambil.
-        # Ini dilakukan agar kita bisa memfilter mana yang BARU diproses setelah semua siap.
+        # 2. Ambil semua postingan dari API WordPress dan proses (TANPA parafrase AI)
         all_posts = fetch_all_and_process_posts()
         print(f"Total {len(all_posts)} artikel ditemukan dari WordPress API.")
 
