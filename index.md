@@ -1,61 +1,31 @@
 ---
 layout: home
+title: Beranda
+pagination:
+  enabled: true
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+# Postingan Terbaru
 
-  {{ content }}
+<ul class="space-y-4">
+  {% for post in paginator.posts %}
+    <li class="border-b pb-3">
+      <a href="{{ post.url | relative_url }}" class="text-lg font-semibold text-blue-600 hover:underline">
+        {{ post.title }}
+      </a>
+      <p class="text-sm text-gray-500">{{ post.date | date: "%d %B %Y" }}</p>
+    </li>
+  {% endfor %}
+</ul>
 
-{% assign posts = paginator.posts %} <--- BARIS INI YANG BERUBAH
+<div class="mt-8 flex justify-between text-sm text-blue-700">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="hover:underline">← Halaman Sebelumnya</a>
+  {% else %}
+    <span></span>
+  {% endif %}
 
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.minima.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li>
-            <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page" title="Go to Page {{ paginator.previous_page }}">
-              {{ paginator.previous_page }}
-            </a>
-          </li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li>
-            <a href="{{ paginator.next_page_path | relative_url }}" class="next-page" title="Go to Page {{ paginator.next_page }}">
-              {{ paginator.next_page }}
-            </a>
-          </li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
-      </div>
-    {%- endif %}
-  {%- endif -%}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="hover:underline">Halaman Berikutnya →</a>
+  {% endif %}
 </div>
