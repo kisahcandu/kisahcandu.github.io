@@ -1,6 +1,28 @@
 <!DOCTYPE html>
 <html lang="id" class="dark">
 <head>
+  <style>
+  #title {
+    @apply text-3xl font-extrabold mb-6 text-center text-white;
+  }
+
+  #content p {
+    @apply mb-4 leading-relaxed text-lg;
+  }
+
+  #content {
+    @apply prose prose-invert max-w-none;
+  }
+
+  a.btn {
+    @apply bg-gray-700 text-white px-4 py-2 rounded hover:bg-gray-600 transition;
+  }
+
+  #random-btn {
+    @apply bg-blue-600 hover:bg-blue-500;
+  }
+</style>
+
   <link rel="manifest" href="manifest.json" />
 <link rel="icon" href="icon.png" type="image/png" />
   <meta charset="UTF-8" />
