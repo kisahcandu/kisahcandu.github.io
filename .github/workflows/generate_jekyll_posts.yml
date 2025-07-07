@@ -1,0 +1,45 @@
+name: Generate Jekyll Posts from WordPress
+
+on:
+  workflow_dispatch: # Mengizinkan trigger manual dari UI GitHub Actions
+  # push:
+  #   branches:
+  #     - main # Uncomment ini jika ingin otomatis setiap push ke branch main
+  # schedule:
+  #   - cron: '0 0 * * *' # Uncomment dan sesuaikan cron jika ingin otomatis terjadwal (contoh: setiap hari tengah malam UTC)
+
+jobs:
+  generate_and_push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # Gunakan versi Python yang stabil dan kompatibel
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Python script to generate Jekyll posts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # Mengambil API Key dari GitHub Secrets
+          WORDPRESS_BLOG_ID: '143986468' # Ganti dengan ID blog WordPress Anda yang sebenarnya
+        run: |
+          python generate_jekyll_posts.py
+
+      - name: Commit and push generated _posts
+        # Ini akan mengcommit hanya folder _posts yang baru/diperbarui
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add _posts/
+          # Gunakan '|| true' agar action tidak gagal jika tidak ada perubahan untuk di-commit
+          git commit -m "Generate and update Jekyll posts from WordPress" || true
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token otomatis untuk push
