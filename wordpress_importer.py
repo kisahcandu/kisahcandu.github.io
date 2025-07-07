@@ -3,19 +3,9 @@ import os
 import re
 import json
 import datetime
+import time # Untuk menambahkan delay pada retry
 import google.generativeai as genai
 from google.generativeai import GenerativeModel
-import nltk
-from nltk.tokenize import sent_tokenize
-
-# --- Download NLTK punkt tokenizer (hanya perlu sekali) ---
-# Jalankan ini secara lokal pertama kali atau pastikan di GitHub Actions
-try:
-    nltk.data.find('tokenizers/punkt')
-except nltk.downloader.DownloadError:
-    print("Downloading NLTK punkt tokenizer...")
-    nltk.download('punkt')
-    print("NLTK punkt tokenizer downloaded.")
 
 # --- Konfigurasi ---
 # Gunakan GitHub Secrets untuk WORDPRESS_BLOG_ID agar lebih aman
@@ -82,13 +72,12 @@ def replace_custom_words(text):
     
     for old_word, new_word in sorted_replacements:
         # Menghilangkan \b (word boundary) agar penggantian berlaku juga untuk imbuhan
-        # Contoh: "memeknya" akan menjadi "serambi lempitnya"
         pattern = re.compile(re.escape(old_word), re.IGNORECASE)
         processed_text = pattern.sub(new_word, processed_text)
     return processed_text
 
 # --- Gemini AI Integration ---
-def paraphrase_text_with_gemini(text_content, max_retries=3, chunk_size=3000):
+def paraphrase_text_with_gemini(text_content, max_retries=5, chunk_size=3000, retry_delay=5): # Max retries ditingkatkan, ada delay
     """
     Melakukan paraphrase teks menggunakan Gemini AI, memecah teks menjadi chunk jika terlalu panjang,
     dan mengatur alur dinamis agar artikel unik dan tidak terdeteksi sebagai duplikat.
@@ -121,12 +110,13 @@ def paraphrase_text_with_gemini(text_content, max_retries=3, chunk_size=3000):
     print(f"Jumlah bagian teks yang akan diparafrase: {len(chunks)}")
 
     for i, chunk in enumerate(chunks):
-        # Menggunakan prompt Anda yang sudah terbukti jalan
+        # Prompt yang dimodifikasi untuk gaya informal dan tanpa sastra
         prompt = (
-            "Paraphrase teks berikut agar menjadi unik, segar, dan tidak terdeteksi sebagai duplikat. "
-            "Pertahankan semua informasi, fakta, dan alur cerita asli. "
-            "Gunakan gaya penulisan yang dinamis dan bervariasi, seolah-olah ditulis oleh seorang narator yang menarik. "
-            "Pastikan struktur paragraf dan sub-judul (jika ada) tetap terjaga. "
+            "Parafrase ulang teks berikut agar jadi unik dan tidak terdeteksi duplikat. "
+            "Gunakan bahasa yang **santai, informal, dan mudah dimengerti**, seperti obrolan sehari-hari. "
+            "**Hindari diksi atau gaya bahasa yang puitis, kiasan, atau terlalu sastra.** "
+            "Pastikan semua informasi dan fakta penting tetap ada dan alur cerita asli tidak berubah. "
+            "Pertahankan struktur paragraf dan sub-judul (jika ada). "
             "Teks asli:\n\n"
             f"'{chunk}'" # Menggunakan chunk di sini
         )
@@ -134,17 +124,19 @@ def paraphrase_text_with_gemini(text_content, max_retries=3, chunk_size=3000):
         retries = 0
         while retries < max_retries:
             try:
-                print(f"Memproses parafrase bagian {i+1}/{len(chunks)}...")
+                print(f"Memproses parafrase bagian {i+1}/{len(chunks)}... (Percobaan {retries+1}/{max_retries})")
                 response = GEMINI_MODEL.generate_content(prompt)
                 
                 if response and response.text:
                     paraphrased_chunks.append(response.text.strip())
                     break # Berhasil, keluar dari loop retry
                 else:
-                    print(f"⚠️ Respon kosong dari Gemini untuk bagian {i+1}. Mencoba lagi ({retries+1}/{max_retries})...")
+                    print(f"⚠️ Respon kosong dari Gemini untuk bagian {i+1}. Menunggu {retry_delay} detik sebelum mencoba lagi...")
+                    time.sleep(retry_delay) # Tambahkan delay
                     retries += 1
             except Exception as e:
-                print(f"❌ Error saat memparafrase bagian {i+1}: {e}. Mencoba lagi ({retries+1}/{max_retries})...")
+                print(f"❌ Error saat memparafrase bagian {i+1}: {e}. Menunggu {retry_delay} detik sebelum mencoba lagi...")
+                time.sleep(retry_delay) # Tambahkan delay
                 retries += 1
         
         if retries == max_retries:
@@ -154,35 +146,6 @@ def paraphrase_text_with_gemini(text_content, max_retries=3, chunk_size=3000):
     return "\n\n".join(paraphrased_chunks)
 
 
-def limit_sentences_per_paragraph(text, max_sentences=2):
-    """
-    Membatasi setiap paragraf agar hanya memiliki maksimal 'max_sentences' kalimat.
-    Mempertahankan pemisah paragraf asli dan menambahkan pemisah paragraf baru jika diperlukan.
-    """
-    if not text.strip():
-        return ""
-
-    processed_paragraphs = []
-    original_paragraphs = text.split('\n\n')
-
-    for para in original_paragraphs:
-        if not para.strip():
-            processed_paragraphs.append("")
-            continue
-
-        sentences = sent_tokenize(para.strip(), language='indonesian')
-
-        current_paragraph_sentences = []
-        for i, sentence in enumerate(sentences):
-            current_paragraph_sentences.append(sentence.strip())
-
-            if len(current_paragraph_sentences) == max_sentences or i == len(sentences) - 1:
-                processed_paragraphs.append(" ".join(current_paragraph_sentences))
-                current_paragraph_sentences = []
-
-    return "\n\n".join(processed_paragraphs).strip()
-
-
 def load_published_posts_state():
     """Memuat daftar ID postingan yang sudah diterbitkan dari state file."""
     if os.path.exists(STATE_FILE):
@@ -190,6 +153,8 @@ def load_published_posts_state():
             try:
                 return set(json.load(f))
             except json.JSONDecodeError:
+                # Jika file corrupt, mulai dari set kosong
+                print(f"Warning: {STATE_FILE} is corrupted or empty. Starting with an empty published posts list.")
                 return set()
     return set()
 
@@ -245,18 +210,15 @@ def fetch_all_and_process_posts():
         # --- Pemrosesan Konten ---
         raw_content = post.get('content', '')
         clean_text_before_paraphrase = remove_anchor_tags(raw_content)
+        # Menggunakan strip_html_and_divs untuk mengubah <p> menjadi \n\n
         clean_text_before_paraphrase = strip_html_and_divs(clean_text_before_paraphrase)
         
-        # Parafrase konten dengan Gemini AI (menggunakan fungsi paraphrase yang diadaptasi)
+        # Parafrase konten dengan Gemini AI
         print(f"Memulai parafrase konten untuk '{processed_title}'...")
         paraphrased_content = paraphrase_text_with_gemini(clean_text_before_paraphrase)
         
-        # --- Batasi kalimat per paragraf setelah parafrase ---
-        print(f"Membatasi kalimat per paragraf untuk '{processed_title}'...")
-        formatted_content_with_sentence_limit = limit_sentences_per_paragraph(paraphrased_content, max_sentences=2)
-
-        # Lalu terapkan penggantian kata khusus pada konten yang sudah diparafrase dan diformat
-        final_processed_text = replace_custom_words(formatted_content_with_sentence_limit) 
+        # Langsung terapkan penggantian kata khusus pada konten yang sudah diparafrase
+        final_processed_text = replace_custom_words(paraphrased_content) 
         post['processed_markdown_content'] = final_processed_text
 
         snippet_text = final_processed_text
@@ -274,6 +236,7 @@ def generate_jekyll_markdown_post(post):
     Tanggal postingan akan mengikuti tanggal saat skrip dijalankan.
     """
     # Mengatur tanggal postingan ke tanggal dan waktu saat ini (lokal atau UTC)
+    # Ini akan selalu menggunakan tanggal saat GitHub Action dijalankan
     post_date_obj = datetime.datetime.now(datetime.timezone.utc) 
 
     # Format tanggal untuk Jekyll
@@ -329,30 +292,36 @@ def generate_jekyll_markdown_post(post):
 
 # === Eksekusi Utama ===
 if __name__ == '__main__':
-    print("🚀 Memulai proses generasi postingan Jekyll (.md) terjadwal dari TERBARU ke TERLAMA...")
-    print("🗓️ Tanggal postingan akan diatur ke tanggal saat ini (saat artikel diproses).")
-    print("✨ Penggantian kata khusus diterapkan pada judul dan konten.")
-    print("💡 Konten akan diparafrase menggunakan Gemini AI untuk keunikan.")
-    print("✍️ Setiap paragraf konten akan dibatasi hingga maksimal 2 kalimat.")
+    print(f"[{datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}] Starting Jekyll post generation process...")
+    print("🚀 Mengambil artikel WordPress TERBARU untuk diproses.")
+    print("🗓️ Tanggal postingan Jekyll akan mengikuti tanggal saat ini (saat GitHub Action dijalankan).")
+    print("✨ Penggantian kata khusus diterapkan pada judul dan konten (termasuk imbuhan).")
+    print("💡 Konten akan diparafrase menggunakan Gemini AI dengan gaya informal dan tanpa diksi/sastra.")
+    print("✍️ Menggunakan format paragraf standar dari WordPress (tag <p> diubah jadi double newline).")
+    
     try:
         # 1. Muat daftar postingan yang sudah diterbitkan
         published_ids = load_published_posts_state()
         print(f"Ditemukan {len(published_ids)} postingan yang sudah diterbitkan sebelumnya.")
 
         # 2. Ambil semua postingan dari API
+        # PENTING: Fungsi ini sekarang akan memproses parafrase dan penggantian kata untuk SEMUA artikel yang diambil.
+        # Ini dilakukan agar kita bisa memfilter mana yang BARU diproses setelah semua siap.
         all_posts = fetch_all_and_process_posts()
         print(f"Total {len(all_posts)} artikel ditemukan dari WordPress API.")
 
-        # 3. Filter postingan yang belum diterbitkan
+        # 3. Filter postingan yang belum diterbitkan berdasarkan ID dari file state
         unpublished_posts = [post for post in all_posts if str(post['ID']) not in published_ids]
         print(f"Ditemukan {len(unpublished_posts)} artikel yang belum diterbitkan.")
         
         if not unpublished_posts:
             print("\n🎉 Tidak ada artikel baru yang tersedia untuk diterbitkan hari ini. Proses selesai.")
-            print("GitHub Actions akan melakukan commit jika ada perubahan pada state file.")
+            # Commit diperlukan meskipun tidak ada postingan baru, untuk push perubahan pada published_posts.json
+            print("GitHub Actions akan melakukan commit jika ada perubahan pada state file (misal, pertama kali dijalankan).")
             exit()
 
         # 4. Urutkan postingan yang belum diterbitkan dari yang TERBARU ke TERLAMA
+        # Ini memastikan kita selalu mempublikasikan artikel terbaru yang belum pernah diproses
         unpublished_posts.sort(key=lambda x: datetime.datetime.fromisoformat(x['date'].replace('Z', '+00:00')), reverse=True)
 
         # 5. Pilih satu postingan untuk diterbitkan hari ini (yang paling baru dari yang belum diterbitkan)
@@ -360,7 +329,7 @@ if __name__ == '__main__':
         
         print(f"🌟 Menerbitkan artikel berikutnya: '{post_to_publish.get('title')}' (ID: {post_to_publish.get('ID')})")
         
-        # 6. Hasilkan file Markdown
+        # 6. Hasilkan file Markdown untuk postingan yang dipilih
         generate_jekyll_markdown_post(post_to_publish) 
         
         # 7. Tambahkan ID postingan ke daftar yang sudah diterbitkan dan simpan state
