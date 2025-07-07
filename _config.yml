@@ -19,7 +19,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
+  - jekyll-paginate-v2 # Tambahkan ini
 
 # Exclude from processing.
 # exclude:
