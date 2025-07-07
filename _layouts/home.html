@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+<ul class="post-list">
+  {% for post in paginator.posts %}
+    <li>
+      <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3><span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
+<p style="text-align:center">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}">« Sebelumnya</a>
+  {% endif %}
+
+  Halaman {{ paginator.page }} dari {{ paginator.total_pages }}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}">Berikutnya »</a>
+  {% endif %}
+</p>
+</div>
