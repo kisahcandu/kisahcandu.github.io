@@ -4,7 +4,8 @@ import re
 import json
 import datetime
 import google.generativeai as genai
-import nltk # Untuk tokenisasi kalimat
+from google.generativeai import GenerativeModel
+import nltk
 from nltk.tokenize import sent_tokenize
 
 # --- Download NLTK punkt tokenizer (hanya perlu sekali) ---
@@ -17,7 +18,8 @@ except nltk.downloader.DownloadError:
     print("NLTK punkt tokenizer downloaded.")
 
 # --- Konfigurasi ---
-BLOG_ID = os.environ.get('WORDPRESS_BLOG_ID', '143986468')
+# Gunakan GitHub Secrets untuk WORDPRESS_BLOG_ID agar lebih aman
+BLOG_ID = os.environ.get('WORDPRESS_BLOG_ID', '143986468') 
 API_BASE_URL = f"https://public-api.wordpress.com/rest/v1.1/sites/{BLOG_ID}/posts"
 POST_DIR = '_posts'
 STATE_FILE = 'published_posts.json' # File untuk melacak postingan yang sudah diterbitkan
@@ -25,11 +27,10 @@ STATE_FILE = 'published_posts.json' # File untuk melacak postingan yang sudah di
 # Konfigurasi Gemini API
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 if not GEMINI_API_KEY:
-    raise ValueError("GEMINI_API_KEY belum diatur di variabel lingkungan. Harap atur di GitHub Secrets atau lingkungan lokal Anda.")
+    raise ValueError("GEMINI_API_KEY belum diatur di variabel lingkungan. Harap atur di GitHub Secrets.")
 
 genai.configure(api_key=GEMINI_API_KEY)
-GEMINI_MODEL = genai.GenerativeModel('gemini-pro')
-
+GEMINI_MODEL = GenerativeModel('gemini-1.5-flash') # Menggunakan model yang terbukti jalan
 
 os.makedirs(POST_DIR, exist_ok=True)
 
@@ -71,37 +72,47 @@ def sanitize_filename(title):
     return re.sub(r'[-\s]+', '-', clean_title)
 
 def replace_custom_words(text):
-    """Mengganti kata-kata spesifik dalam teks, judul, atau permalink dengan padanan yang ditentukan."""
+    """
+    Mengganti kata-kata spesifik dalam teks dengan padanan yang ditentukan,
+    termasuk jika ada imbuhan yang menempel.
+    """
     processed_text = text
+    # Mengubah urutan penggantian dari yang lebih panjang ke yang lebih pendek
     sorted_replacements = sorted(REPLACEMENT_MAP.items(), key=lambda item: len(item[0]), reverse=True)
     
     for old_word, new_word in sorted_replacements:
+        # Menghilangkan \b (word boundary) agar penggantian berlaku juga untuk imbuhan
+        # Contoh: "memeknya" akan menjadi "serambi lempitnya"
         pattern = re.compile(re.escape(old_word), re.IGNORECASE)
         processed_text = pattern.sub(new_word, processed_text)
     return processed_text
 
-def paraphrase_text_with_gemini(text, max_retries=3, chunk_size=3000):
+# --- Gemini AI Integration ---
+def paraphrase_text_with_gemini(text_content, max_retries=3, chunk_size=3000):
     """
-    Memparafrasekan teks menggunakan Gemini AI, memecah teks menjadi chunk jika terlalu panjang,
-    dan menerapkan bahasa Indonesia sederhana dengan alur dinamis.
+    Melakukan paraphrase teks menggunakan Gemini AI, memecah teks menjadi chunk jika terlalu panjang,
+    dan mengatur alur dinamis agar artikel unik dan tidak terdeteksi sebagai duplikat.
     """
-    if not text.strip():
+    if not text_content or text_content.strip() == "":
+        print("Skipping paraphrase: text content is empty.")
         return ""
 
     chunks = []
     current_chunk = []
     current_length = 0
     
-    paragraphs = text.split('\n\n') 
+    # Memisahkan berdasarkan dua newline untuk paragraf
+    paragraphs = text_content.split('\n\n') 
 
     for para in paragraphs:
-        if current_length + len(para) + 2 > chunk_size and current_chunk:
+        # Cek jika paragraf saat ini akan melebihi chunk_size
+        if current_length + len(para) + 2 > chunk_size and current_chunk: # +2 untuk '\n\n'
             chunks.append('\n\n'.join(current_chunk))
             current_chunk = [para]
             current_length = len(para)
         else:
             current_chunk.append(para)
-            current_length += len(para) + 2
+            current_length += len(para) + 2 # Tambah panjang paragraf dan pemisah
 
     if current_chunk:
         chunks.append('\n\n'.join(current_chunk))
@@ -110,34 +121,38 @@ def paraphrase_text_with_gemini(text, max_retries=3, chunk_size=3000):
     print(f"Jumlah bagian teks yang akan diparafrase: {len(chunks)}")
 
     for i, chunk in enumerate(chunks):
+        # Menggunakan prompt Anda yang sudah terbukti jalan
         prompt = (
-            f"Parafrasekan teks berikut ke dalam bahasa Indonesia yang sederhana, mudah dipahami, "
-            f"dan memiliki alur yang dinamis. Jaga agar maknanya tetap sama dengan teks asli. "
-            f"Format output harus dalam bentuk paragraf atau daftar, sama seperti inputnya.\n\n"
-            f"Teks asli:\n{chunk}"
+            "Paraphrase teks berikut agar menjadi unik, segar, dan tidak terdeteksi sebagai duplikat. "
+            "Pertahankan semua informasi, fakta, dan alur cerita asli. "
+            "Gunakan gaya penulisan yang dinamis dan bervariasi, seolah-olah ditulis oleh seorang narator yang menarik. "
+            "Pastikan struktur paragraf dan sub-judul (jika ada) tetap terjaga. "
+            "Teks asli:\n\n"
+            f"'{chunk}'" # Menggunakan chunk di sini
         )
         
         retries = 0
         while retries < max_retries:
             try:
-                print(f"Memproses bagian {i+1}/{len(chunks)}...")
+                print(f"Memproses parafrase bagian {i+1}/{len(chunks)}...")
                 response = GEMINI_MODEL.generate_content(prompt)
                 
                 if response and response.text:
                     paraphrased_chunks.append(response.text.strip())
-                    break
+                    break # Berhasil, keluar dari loop retry
                 else:
-                    print(f"⚠️ Respon kosong dari Gemini untuk bagian {i+1}. Mencoba lagi...")
+                    print(f"⚠️ Respon kosong dari Gemini untuk bagian {i+1}. Mencoba lagi ({retries+1}/{max_retries})...")
                     retries += 1
             except Exception as e:
-                print(f"❌ Error saat memparafrase bagian {i+1}: {e}. Mencoba lagi...")
+                print(f"❌ Error saat memparafrase bagian {i+1}: {e}. Mencoba lagi ({retries+1}/{max_retries})...")
                 retries += 1
         
         if retries == max_retries:
             print(f"🚫 Gagal memparafrase bagian {i+1} setelah {max_retries} percobaan. Menggunakan teks asli.")
-            paraphrased_chunks.append(chunk)
+            paraphrased_chunks.append(chunk) # Gunakan teks asli jika gagal
 
     return "\n\n".join(paraphrased_chunks)
+
 
 def limit_sentences_per_paragraph(text, max_sentences=2):
     """
@@ -148,28 +163,23 @@ def limit_sentences_per_paragraph(text, max_sentences=2):
         return ""
 
     processed_paragraphs = []
-    # Memisahkan teks menjadi paragraf berdasarkan double newline,
-    # dan juga mempertahankan newline tunggal di dalam paragraf untuk sent_tokenize
     original_paragraphs = text.split('\n\n')
 
     for para in original_paragraphs:
-        if not para.strip(): # Skip empty paragraphs
+        if not para.strip():
             processed_paragraphs.append("")
             continue
 
-        # Tokenisasi kalimat dalam paragraf ini
-        sentences = sent_tokenize(para.strip(), language='indonesian') # Penting: specify language
+        sentences = sent_tokenize(para.strip(), language='indonesian')
 
         current_paragraph_sentences = []
         for i, sentence in enumerate(sentences):
             current_paragraph_sentences.append(sentence.strip())
 
-            # Jika sudah mencapai max_sentences atau ini kalimat terakhir di paragraf asli
             if len(current_paragraph_sentences) == max_sentences or i == len(sentences) - 1:
                 processed_paragraphs.append(" ".join(current_paragraph_sentences))
-                current_paragraph_sentences = [] # Reset untuk paragraf baru
+                current_paragraph_sentences = []
 
-    # Gabungkan kembali dengan double newline sebagai pemisah paragraf baru
     return "\n\n".join(processed_paragraphs).strip()
 
 
@@ -226,15 +236,18 @@ def fetch_all_and_process_posts():
     for post in all_posts_raw:
         # --- Pemrosesan Judul ---
         original_title = post.get('title', '')
-        paraphrased_title = paraphrase_text_with_gemini(original_title, chunk_size=200)
+        # Parafrase judul terlebih dahulu (menggunakan fungsi paraphrase yang diadaptasi)
+        paraphrased_title = paraphrase_text_with_gemini(original_title, chunk_size=200) # Ukuran chunk lebih kecil untuk judul
+        # Lalu terapkan penggantian kata khusus
         processed_title = replace_custom_words(paraphrased_title)
-        post['processed_title'] = processed_title
+        post['processed_title'] = processed_title # Simpan judul yang sudah bersih
 
         # --- Pemrosesan Konten ---
         raw_content = post.get('content', '')
         clean_text_before_paraphrase = remove_anchor_tags(raw_content)
         clean_text_before_paraphrase = strip_html_and_divs(clean_text_before_paraphrase)
         
+        # Parafrase konten dengan Gemini AI (menggunakan fungsi paraphrase yang diadaptasi)
         print(f"Memulai parafrase konten untuk '{processed_title}'...")
         paraphrased_content = paraphrase_text_with_gemini(clean_text_before_paraphrase)
         
@@ -260,10 +273,15 @@ def generate_jekyll_markdown_post(post):
     Menghasilkan satu file Markdown untuk postingan tunggal.
     Tanggal postingan akan mengikuti tanggal saat skrip dijalankan.
     """
+    # Mengatur tanggal postingan ke tanggal dan waktu saat ini (lokal atau UTC)
     post_date_obj = datetime.datetime.now(datetime.timezone.utc) 
+
+    # Format tanggal untuk Jekyll
     jekyll_date_str = post_date_obj.strftime('%Y-%m-%d %H:%M:%S %z')
 
+    # Gunakan judul yang sudah diproses untuk nama file
     filename_prefix = post_date_obj.strftime('%Y-%m-%d')
+    # Gunakan 'processed_title' yang sudah bersih untuk permalink / nama file
     filename = f"{filename_prefix}-{sanitize_filename(post['processed_title'])}.md"
     filepath = os.path.join(POST_DIR, filename)
 
@@ -278,6 +296,7 @@ def generate_jekyll_markdown_post(post):
 
     description_text = post.get('description_snippet', '')
     
+    # Gunakan 'processed_title' untuk front matter title
     escaped_title = json.dumps(post['processed_title']) 
     escaped_description = json.dumps(description_text)
     escaped_author = json.dumps(author_name)
@@ -286,7 +305,7 @@ def generate_jekyll_markdown_post(post):
     front_matter_lines = [
         "---",
         f"layout: post",
-        f"title: {escaped_title}", 
+        f"title: {escaped_title}", # Judul yang sudah bersih
         f"author: {escaped_author}",
         f"date: {jekyll_date_str}", 
     ]
