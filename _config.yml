@@ -1,23 +1,23 @@
-title: Cerita Dewasa 2025
-email: your-email@example.com
-description: >-
+title: "Cerita Dewasa 2025"
+email: "your-email@example.com"
+description: >
   Baca Kumpulan Cerita Dewasa 2025 Menarik Dan Bikin Tegang Cerita Ini.
 
 baseurl: "" # jangan dikasih slash
 url: "https://kisahcandu.github.io"
 
-permalink: /:title/
+permalink: "/:title/"
 
 # Sosial Media
-twitter_username: -
-github_username: Bang Sugeng
+twitter_username: ""
+github_username: "Bang Sugeng"
 
 # Pagination
 paginate: 10
 paginate_path: "/page/:num/"
 
 # Build
-theme: minima # Nonaktifkan tema default
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -26,7 +26,7 @@ plugins:
 # File dan folder yang tidak perlu diproses
 exclude:
   - README.md
-  - node_modules/
+  - node_modules
   - tailwind.config.js
   - postcss.config.js
   - package.json
