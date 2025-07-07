@@ -9,7 +9,7 @@ layout: default
   {% endfor %}
 </ul>
 
-<div class="pagination">
+<p style="text-align:center">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}">« Sebelumnya</a>
   {% endif %}
@@ -19,4 +19,4 @@ layout: default
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}">Berikutnya »</a>
   {% endif %}
-</div>
+</p>
