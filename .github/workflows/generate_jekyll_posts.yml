@@ -42,4 +42,4 @@ jobs:
           git commit -m "Generate and update Jekyll posts from WordPress" || true
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token otomatis untuk push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token otomatis untuk push 
