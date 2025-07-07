@@ -19,7 +19,7 @@ paginate: 10
 paginate_path: "/page/:num/"
 
 # Build
-theme: null # Nonaktifkan tema default
+theme: minima # Nonaktifkan tema default
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
