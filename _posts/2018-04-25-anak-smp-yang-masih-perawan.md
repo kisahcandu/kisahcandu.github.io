@@ -3,15 +3,16 @@ layout: post
 title: "Anak SMP Yang Masih Perawan"
 author: "Om Sugeng"
 date: 2018-04-25 05:02:48 +0000
-description: "&nbsp; Anak SMP Yang Masih Perawan &nbsp; Cerita bercinta &#8211;\u00a0 Tiba- tiba Kring.. Kring.. HP-ku berbunyi. Siang itu aku berada di kantor sedang membaca surat-surat dan dokumen yang barusan dibawa..."
+description: "&nbsp;  Anak SMP Yang Masih Perawan &nbsp;  Cerita bercinta &#8211;\u00a0 Tiba- tiba Kring.. Kring.. HP-ku berbunyi. Siang itu aku berada di kantor sedang membaca surat-surat dan dokumen yang barusan dibaw..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Ngentot", "Cerita Panas", "Cerita Sex"]
 ---
 
-
 &nbsp;
+
 Anak SMP Yang Masih Perawan
 &nbsp;
+
 Cerita bercinta &#8211;  Tiba- tiba Kring.. Kring.. HP-ku berbunyi. Siang itu aku berada di kantor sedang membaca surat-surat dan dokumen yang barusan dibawa sekreFanisku Via, untuk aku tanda tangani. Kulihat di layar handphone ku tampak sebuah nomor telepon yang sudah kukenal.
 “Hello.. Nita.. Apa kabar” sapaku.
 “Hi.. Pak Andri.. Kok udah lama nih nggak kontak Nita”
@@ -27,7 +28,7 @@ Setelah itu aku tanya lebih lanjut latar belakang gadis itu. Namanya Fani, anak 
 “Minta berapa Nit? ” tanyaku
 “Murah kok Pak.. cuma lima juta”
 Wah.. Pikirku. Murah sekali.. Aku pernah dengar ada orang yang beli keperawanan sampai puluhan juta. Singkat kata, akupun setuju dengan tawaran Nita. Aku berjanji untuk menelponnya lagi setelah aku sampai di lokasi nanti.
-“Via.. Ke sini sebentar” kutelpon sekreFanisku yang sexy itu. Tak lama Via pun masuk ke ruanganku. Sambil tersenyum manis dia pun duduk di kursi di hadapanku.
+“Via.. Ke sini sebentar” kutelpon sekreFanisku yang bercintay itu. Tak lama Via pun masuk ke ruanganku. Sambil tersenyum kenikmatans dia pun duduk di kursi di hadapanku.
 “Ada apa Pak Andri?” tanyanya sambil menyilangkan kakinya memamerkan pahanya yang putih.
 Belahan buah dadanya tampak ranum terlihat dari balik blousenya yang agak tipis. Ingin rasanya aku nikmati dia saat itu juga, tetapi aku lebih ingin menikmati perawan yang Nitawarkan Nita. Toh masih ada hari esok untuk Via, pikirku.
 “Saya perlu uang lima juta untuk entertain klien. Tolong minta ke bagian keuangan ya” kataku.
@@ -75,7 +76,9 @@ Setelah dia duduk, kuelus-elus rambutnya yang berpita dan panjangnya sebahu itu.
 Aku pun makin bernafsu mendengar jawabannya. Yah.. Akulah nantinya yang akan menikmatimu untuk pertama kalinya he.. He.. Kuciumi pipinya sambil kuelus-elus pahanya. Fani nampak tak terbiasa dan bergerak agak menghindar. Pahanya yang putih mulus makin tersibak menampakkan pemandangan yang indah. Tanganku kemudian meraba dadanya yang baru tumbuh itu. Kemudian kupegang wajahnya dan kucium bibirnya. Tampak sekali bahwa dia belum berpengalaman dalam hal seperti ini. Tanganku sudah ingin melucuti tanktopnya ketika tiba-tiba bel kamarku berbunyi.
 “Room Service” terdengar suara di depan kamarku.
 Akupun berdiri meninggalkan Fani untuk membuka pintu. Tampak ada perasaan lega di raut wajah Fani ketika aku beranjak pergi.
+
 Bermain di DominoBet menangkan jackpotnya
+
 “Ada pesanan lagi Pak?” tanya petugas room service setelah meletakkan makanan di meja.
 “Nggak” jawabku
 “Mungkin buat anaknya?” tanyanya lagi
@@ -84,7 +87,7 @@ Aku geli juga mendengar si petugas menyangka Fani adalah anakku. Memang pantas s
 Kamipun lalu menyantap makanan kami. Fani menikmati nasi goreng dan segelas susunya sambil terus menonton kartun kesayangannya.
 “Mau buah Fani?” kataku sambil mengambil buah-buahan dari minibar.
 “Nggak Oom.. Udah kenyang. Dibungkus aja boleh ya Oom.. Untuk adik di rumah” katanya.
-Hm.. Benar-benar manis ini anak, pikirku. Dalam hati aku kasihan juga pada dia, tapi aku tak dapat menahan nafsu birahiku untuk menikmati tubuhnya yang muda itu.
+Hm.. Benar-benar kenikmatans ini anak, pikirku. Dalam hati aku kasihan juga pada dia, tapi aku tak dapat menahan nafsu birahiku untuk menikmati tubuhnya yang muda itu.
 Aku makan satu buah apel dan kuberikan sisanya padanya. Diterimanya buah-buahan itu dan kemudian dimasukkan dalam tasnya. Akupun kembali duduk disampingnya dan kemudian kuambil remote dan kumatikan TVnya.
 “Ayo sayang kita mulai ya..” kataku sambil menciumi pundaknya yang terbuka.
 Aku kemudian beralih menciumi bibirnya sambil tanganku meremas-remas dadanya. Tak ada response darinya. Ketika tangannya yang mungil aku letakkan di atas kemaluanku, dia diam saja.
@@ -95,6 +98,7 @@ Aku kemudian beralih menciumi bibirnya sambil tanganku meremas-remas dadanya. Ta
 Fanipun duduk di atas pangkuanku sambil melihat adegan persetubuhan dimana seorang wanita bule cantik sedang dengan rakusnya mengulum kemaluan orang berkulit hitam.
 Mata Fani tampak takjub melihat adegan yang pasti baru pertama kalinya dia lihat itu. Sementara aku menciumi dan menjilati pundak dan lehernya yang jenjang dari belakang. Tangankupun telah masuk ke dalam tanktopnya dan meremas-remas buah dadanya yang masih tertutup BH itu. KuFanik ke atas cup BHnya sehingga tangankupun leluasa menjelajahi dan meremas buah dadanya yang mulai tumbuh itu. Kupilin perlahan puting dadanya yang mulai mengeras.
 “Oom.. Jangan Oom.. Fani malu” katanya sambil menatap adegan di laptopku dimana si wanita bule sedang mengerang-erang nikmat disetubuhi dari belakang.
+
 “Nggak usah malu sayang” jawabku sambil agak memutar tubuhnya sehingga aku leluasa menikmati dadanya.
 Kulumat buah dada yang baru tumbuh itu dan kujilat lalu kuisap putingnya yang kecil berwarna merah muda itu. Sementara tanganku yang satu telah merambah paha sampai mengenai celana dalamnya.
 “Pelan-pelan Oom.. Sakit” desahnya ketika tanganku mengusap-usap kemaluannya setelah celana dalamnya aku sibak. Mulutku masih sibuk mencari kepuasan dari buah dada anak beVia ini.
@@ -127,13 +131,13 @@ Sekembalinya aku dari toilet, tampak Fani sedang duduk gelisah di sofa. Pandanga
 “Yach kamu istirahat dulu aja sayang” jawabku sambil mencium pipinya.
 Kamipun duduk terdiam. Kusetel kembali TV yang masih menayangkan acara kartun kesukaannya itu. Kuusap-usap tubuhnya yang duduk di sampingku sambil sesekali kuciumi. Aku menunggu hingga kejantananku bangkit kembali.
 Aku beranjak ke meja dimana laptopku masih menayangkan adegan syur semenjak tadi. Di layar sekarang seorang pria bule sedang dihisap kemaluannya oleh dua wanita cantik. Yang satu bule juga, sedangkan yang lain wanita Asia, kalau tidak salah Asia Carrera namanya. Memang film produksi Vivid ini bagus sehingga aku menyimpannya di harddiskku. Melihat adegan demi adegan di layar, kejantananku pun perlahan bangkit kembali. Kudatangi sofa dimana Fani berada. Fani tampak gelisah ketika aku berlutut di depannya.
-“Aku ingin menikmati memekmu sayang” kataku sambil menyibakkan rok mininya. Kuciumi pahanya dan kujilati sampai mengenai celana dalamnya. Kemudian kulepas celana dalamnya itu sehingga vaginanya yang bersih tak berbulu itu tampak mempesonaku.
-“Jangan Oom.. Tolong Oom” kata Fani ketika tanganku mulai meraba kemaluannya. Karena gemas, langsung aku jilati dan isap vaginanya. Lidahku menari-nari dan kumasukkan ke dalam Viangnya yang perawan itu.
-“Uhh.. Ampun Oom..” erangnya ketika aku menemukan klitorisnya dan langsung kuhisap. Sementara tanganku naik ke atas meremas buah dadanya. Kupilin-pilin putingnya sehingga mulai mengeras. Sementara vaginanya pun sudah mengeluarkan lendir tanda dia telah siap untuk disetubuhi.
-“Ayo kita lanjutkan di ranjang, manis..” kataku sambil merengkuh tubuhnya dan menggendongnya. Aku ciumi bibirnya sambil badannya tetap aku gendong menuju kamar tempat tidur.
+“Aku ingin menikmati serambi lempitmu sayang” kataku sambil menyibakkan rok mininya. Kuciumi pahanya dan kujilati sampai mengenai celana dalamnya. Kemudian kulepas celana dalamnya itu sehingga serambi lempitnya yang bersih tak berbulu itu tampak mempesonaku.
+“Jangan Oom.. Tolong Oom” kata Fani ketika tanganku mulai meraba kemaluannya. Karena gemas, langsung aku jilati dan isap serambi lempitnya. Lidahku menari-nari dan kumasukkan ke dalam Viangnya yang perawan itu.
+“Uhh.. Ampun Oom..” erangnya ketika aku menemukan klitorisnya dan langsung kuhisap. Sementara tanganku naik ke atas meremas buah dadanya. Kupilin-pilin putingnya sehingga mulai mengeras. Sementara serambi lempitnya pun sudah mengeluarkan lendir tanda dia telah siap untuk disetubuhi.
+“Ayo kita lanjutkan di ranjang, kenikmatans..” kataku sambil merengkuh tubuhnya dan menggendongnya. Aku ciumi bibirnya sambil badannya tetap aku gendong menuju kamar tempat tidur.
 Kurebahkan tubuhnya di ranjang, dan akupun mulai melucuti pakaianku. Tampak kemaluanku sudah kembali membengkak ingin diberi kenikmatan oleh anak kecil ini. Fani tampak memandangku dengan tatapan mengiba. Matanya menampakkan ketakutan melihat ukuran kemaluanku.
-Langsung kuterkam tubuhnya di ranjang dan kuciumi wajahnya yang manis. Kubuka tanktopnya juga BHnya dan kulempar ke lantai. Langsung kusantap buah dadanya yang masih dalam masa pertumbuhan itu, dan kujilati dan kuisapi putingnya hingga mengeras.
-Lalu kubuka rok mininya, sehingga Fanipun sudah telanjang bulat pasrah di atas ranjang. Jariku kemudian menari merambah vaginanya dan mengusap-usap klitorisnya.
+Langsung kuterkam tubuhnya di ranjang dan kuciumi wajahnya yang kenikmatans. Kubuka tanktopnya juga BHnya dan kulempar ke lantai. Langsung kusantap buah dadanya yang masih dalam masa pertumbuhan itu, dan kujilati dan kuisapi putingnya hingga mengeras.
+Lalu kubuka rok mininya, sehingga Fanipun sudah telanjang bulat pasrah di atas ranjang. Jariku kemudian menari merambah serambi lempitnya dan mengusap-usap klitorisnya.
 “Tolong jangan Oom.. Aduh.. Oom.. Jangan Oom.. Fani masih perawan Oom.” rengeknya. Aku menghentikan kegiatanku dan menatapnya
 “Memangnya Bu Nita bilang apa?” tanyaku
 “Katanya Fani nggak akan diperawani. Cuma dipegang dan diciumi aja” jawabnya terisak. Mendengar itu timbul perasaan iba karena ternyata dia telah dibohongi oleh Nita.
@@ -143,17 +147,19 @@ Lalu kubuka rok mininya, sehingga Fanipun sudah telanjang bulat pasrah di atas r
 Akupun lalu tidur telentang dan Fanipun kuFanik hingga wajahnya berada di depan kemaluanku yang sudah berdiri tegak. Kutekan kepalanya perlahan, hingga Fanipun kembali memberikan kenikmatan mulutnya pada kemaluanku. Tampak dari tatapanku, kepalanya naik turun menghisapi kemaluanku. Tangankupun mengelus-elus rambutnya penuh rasa sayang seperti rasa sayang bapak kepada anaknya.
 “Ya terus.. Sayang” erangku menahan nikmat yang tiada tara.
 Setelah beberapa menit, kuFanik tubuhnya sehingga wajahnya tepat berada diatas wajahku. Kuciumi bibirnya sambil tanganku meremas-remas pantatnya. Kemudian kubalikkan badannya, sehingga badanku yang tinggi besar menindih tubuh beVianya. Kusedot puting buah dadanya dan kugigit-gigit sehingga menimbulkan bekas memerah.
-Lalu kurenggangkan pahanya, dan kuarahkan kemaluanku ke vaginanya.
-“Jangan Oom.. Ampun Oom.. Jangan.. Ampun..” rengek Fani ketika kemaluanku mulai menyentuh bibir vaginanya.
+Lalu kurenggangkan pahanya, dan kuarahkan kemaluanku ke serambi lempitnya.
+“Jangan Oom.. Ampun Oom.. Jangan.. Ampun..” rengek Fani ketika kemaluanku mulai menyentuh bibir serambi lempitnya.
 Aku tambah bernafsu saja mendengar rengekannya, dan kutekan kemaluanku sehingga mulai menerobos Viang serambi lempit perawannya. Terasa sesuatu menghalangi kemaluanku, yang pasti adalah selaput daranya
 “Ahh.. Sakiitt..” jeritnya menahan tangis ketika kutekan kemaluanku merobek selaput daranya.
 Kutahan sebentar menikmati saat aku mengambil keperawanan anak ini, kemudian kugerakkan pantatku maju mundur menyetubuhinya.
-“Ah.. Nikmat.. Ahh.. God.. Memekmu enak Fani.” racauku
+“Ah.. Nikmat.. Ahh.. God.. serambi lempitmu enak Fani.” racauku
 “Oh.. Ampun.. Sakit.. Udah Oom.. Ampun..” Fani merintih kesakitan sambil menangis.
 “Yes.. You naughty girl.. Daddy must punish you.. Yeah..” aku kembali meracau kenikmatan.
 Kugenjot terus kemaluanku, dan aku merasakan nikmatnya jepitan serambi lempit Fani yang sangat sempit itu. Tampak air mata Fani meleleh membasahi pipinya, dan ketika kugenjot kemaluanku tampak wajahnya menyeringai menahan sakit.
+
 Tunjukan keberuntunganmu dengan bermain Domino Qiu Qiu, Raih uang sebanyak-banyaknya
-Kemudian kuFanik pahanya sehingga melingkari pinggangku, dan sambil duduk di ranjang kugenjot lagi vaginanya. Tanganku sibuk menjelajahi buah dadanya.
+
+Kemudian kuFanik pahanya sehingga melingkari pinggangku, dan sambil duduk di ranjang kugenjot lagi serambi lempitnya. Tanganku sibuk menjelajahi buah dadanya.
 Bosan dengan posisi itu, kubalikkan badannya dan kusetubuhi dia dengan gaya “doggy style”. Sudah tak terdengar lagi rengekan Fani, hanya suara erangannya dan isak tangisnya yang memenuhi ruangan itu.
 “Ahh.. Sakit Oom ampun..” rengeknya kembali ketika rambutnya kuFanik sehingga wajahnya terdongak ke atas.
 Sambil kusetubuhi tubuhnya, kadang kuciumi dan kugigiti pundak dan lehernya dari belakang, sambil tanganku memerah buah dadanya.
@@ -171,4 +177,3 @@ Nita pun masuk ke kamar tidur sedangkan aku nonton TV di sofa. Lagi-lagi masih b
 “Beres Pak” jawabnya sambil menggandeng Fani keluar.
 “Ini tasnya ketinggalan” kataku sambil menyerahkan tas Fani yang berisi buah-buahan untuk adiknya itu. Kuperhatikan mata Fani masih sembab, dan jalannya pun agak pincang ketika meninggalkan kamar hotelku.
 Tak lama akupun cek out dari hotel. Dalam perjalanan pulang ke apartemenku, aku mampir di panti pijat langgananku. Tubuhku agak pegal sehabis menyetubuhi Fani tadi. Setelah dipijat, dan mandi air hangat, tubuhku terasa sangat segar. Akupun bergegas pulang dengan mengendarai Mercy silver metalik kesayanganku. Tak lupa kusetel lagu Al Jarreau kesayanganku.
-

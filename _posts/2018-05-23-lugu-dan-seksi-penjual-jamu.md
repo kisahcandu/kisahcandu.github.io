@@ -3,14 +3,14 @@ layout: post
 title: "Lugu dan Seksi Penjual Jamu"
 author: "Om Sugeng"
 date: 2018-05-23 06:24:56 +0000
-description: "Lugu dan Seksi Penjual Jamu Cerita Panas &#8211; Hai, nama saya Andi. Ini kisah saya liburan ke ke rumah ortu saya di suatu kabupaten yang terletak di lereng pegunungan karena lagi libur pergantian s..."
+description: "Lugu dan bercintai Penjual Jamu Cerita Panas &#8211; Hai, nama saya Andi. Ini kisah saya liburan ke ke rumah ortu saya di suatu kabupaten yang terletak di lereng pegunungan karena lagi libur pergantia..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
 
-
-Lugu dan Seksi Penjual Jamu
+Lugu dan bercintai Penjual Jamu
 Cerita Panas &#8211; Hai, nama saya Andi. Ini kisah saya liburan ke ke rumah ortu saya di suatu kabupaten yang terletak di lereng pegunungan karena lagi libur pergantian semester di universitas saya. Tetapi pembantu saya yang biasanya saya jadikan pelampiasan nafsu saya, Paini (baca “Paini, Pembantu Pemuas Nafsu” dan “Nikmatnya Tidur Dengan Pembantu dan Baby Sitter“) sedang pulang kedesanya karena mbahnya sakit. Tapi jangan khawatir para pembaca, karena kali ini saya tidur dengan seorang penjual jamu keliling gendongan.
+
 Pada saat itu saya sedang duduk-duduk di teras sambil menghirup udara segar tidak seperti di bandung yang sekarang sudah mulai tercemar polusi. kemudian setelah berselang beberapa menit, kemudian ada seorang wanita menggunakan capil (topi bambu berbentuk kerucut yang biasanya dipakai petani) dan menggendong sebuat bakul yang berisi botol-botol bekas syrup. Mukanya tidak kelihatan karena ditutupi capil coklatnya tapi terlihat dari tanganya kalau dia berkulit putih. mungkin karena saya lama memerhatikanya dia kemudian dia masuk dari pagar yang terbuka dan masuk keteras.
 “jamunya tuan…..”
 kemudian dia membuka capilnya. terlihat seorang wanita yang kira-kira berumur 28 tahun. mukanya cantik sekali, putih mulus dan tak satupun jerawat hinggap di wajah cantiknya.
@@ -72,7 +72,9 @@ kemudian dia mulai meramu minumannya. tapi perbincangan kami membuatnya berhenti
 “oh, biasanya jamu buat perempuan sama jamu kuat mas”
 “jamu buat perempuan itu apa aja?”
 “jamu pembesar dan pengencang payudara dan pantat, kulit putih dan mulus &amp; jamu rapet mas. biasanya pagi-pagi saja sudah laku mas”
+
 &#8220;Raih keberuntunganmu dengan bermain Dominobet. Game Online kartu dengan menggunakan uang asli, Capsa, Kiyu, Sakong, Pokel dll. Dapatkan Jackpot hingga ratusan juta rupiah&#8221;.
+
 rupanya menedengar begini saya rudal saya sudah berdiri separo
 “oh gitu toh, pantesan yang punya cantik sekali”
 “ah mas bisa aja deh” katanya tersipu malu
@@ -106,7 +108,7 @@ kemudian saya mengambil gelas penuh jamu itu dari tanganya
 kemudian saya meneguk jamunya kembali
 “mas emang udah pernah main gituan ya?”
 “ya, emang kenapa?”
-“nggak mas emang nggak takut hamil”, rupanya gadis ini gapsek (gagap seksual)
+“nggak mas emang nggak takut hamil”, rupanya gadis ini gapsek (gagap bercintaual)
 “mas kan punya ilmu biar nggak hamil”
 “ah mas bisa aja deh…”
 “betulan, mas nggak bohong”
@@ -143,7 +145,7 @@ kemudian dia merem. saya mendekatakan bibir saya ke mulutnya. kemudian saya menc
 “ini ada yang lebih enak, caranya nanti mulut kamu kebuka terus lidah kita ketemu”
 “ih mas jijik”
 “kamu kan belum rasain, kamu coba dulu, pas ti ketagihan”
-kemudian dia membuka mulutnya. kemudian saya memiringkan kepala saya dan mendekatakan kepala saya dan kami melakukan french kiss. “hmpphh…hmpph…” katanya yang membuatku bergelora. rupanya tanganya mendorong keras punggungku seakan-akan tidak ingin melepaskanku. kemudian terasa juga payudaranya dan putingnya di dadaku. konstan penisku naik dan sudah menempel di pinggangnya di balik bajuku. tanganku juga dipunggungnya juga merayap-rayap dan tangan saya surun ke bokongya yang bulat itu.
+kemudian dia membuka mulutnya. kemudian saya memiringkan kepala saya dan mendekatakan kepala saya dan kami melakukan french kiss. “hmpphh…hmpph…” katanya yang membuatku bergelora. rupanya tanganya mendorong keras punggungku seakan-akan tidak ingin melepaskanku. kemudian terasa juga payudaranya dan putingnya di dadaku. konstan rudalku naik dan sudah menempel di pinggangnya di balik bajuku. tanganku juga dipunggungnya juga merayap-rayap dan tangan saya surun ke bokongya yang bulat itu.
 tak puas dengan bibir sensualnya itu, saya naik ke kupingnya. kupingnya saya gigit-gigit kecil dan lidah saya dengan nakalnya saya masukan kelubang telinganya. tercium aroma samponya.
 “mas, geliii mas uhh sshhh ahhh”
 cukup lama saya bermain dengan kupingnya kemudian saya turun ke lehernya dan menggigit kecil lehernya
@@ -154,7 +156,7 @@ tetapi saya terus melanjutkannya sambil menggigit-gigit kecil lehernya. kemudian
 “ochhh… mass geli aduh ahhh…” katanya bertubi-tubi. kemudian saya mulai mengemut payudara kananya dan tangan kiriku melemas gunung satunya. saya mulai menggigit putingnya yang sudah menegeras dan menyedot payudaranya dengan kekuatan vacum cleaner “mas ngilu ahh… enak… terus mas ouch ouch” desahanya sambil menggelinjang tak karuan. setelah cukup lama kemudian saya berpindah kepayudara kirinya dan sekarang tangan kanan saya mulai meremas payudara kanannya yang bahsah terkena air liuruku. bedanya di payudara kiri terasa lebih keras dari pada yang kanan. saya pun bersemangat. kemudian setelah itu kedua tangan saya turun lagi dan menurunkan resletingnya di belakang. kemudian setelah itu saya melepaskan kancingnya dan terlihatlah sebuah pemandangan yang nggak kalah serunya sama bukitnya. Terlihat pahanya mulus tak berbulu dan saya mulai mengelus-elus kedua tangan saya di pahanya. rupanya dia kegelian “mas geli mas uhh” katanya sambil bergoyang. setelah itu saya menurunkan celana dalamnya yang berwarna merah muda dan ada simbol talinya berwarna merah yang terlihat sudah basah di depannya.
 “mas jangan mas”
 tapi tidak saya hirau kan perkataanya dan saya turunkan CD-nya dan tertampaklah sebuah serambi lempit yang sudah basah dan menggembung dan pink merekah serta dihiasi asesoris bulunya yang tipis dan haitam itu dan setelah itu hidungku saya benamkan di lubanganya itu
-“eh mass mau diapain ahhh mas geli mass uhh… ouch… ouch…” dan saya gesekan ke atas dan ke kiri. setelah itu, giliran lidah saya yang beraksi. saya memasukan lidah saya dan menggerayapi vaginanya. dia berdesah lebih keras lagi “mas ach..ach terus mas” katanya sambil menjambakku. kemudian akhirnya saya menemukan klitorisnya. desahan nya lebih keras lagi. “mas terus mas jangan stop mas terus ahhhhh ahhhhh”. kemudian setelah beberapa menit, “mas mau keluar mas” kemudian setelah berselang beberapa detik dia memuncratkan cairanya ke muka saya
+“eh mass mau diapain ahhh mas geli mass uhh… ouch… ouch…” dan saya gesekan ke atas dan ke kiri. setelah itu, giliran lidah saya yang beraksi. saya memasukan lidah saya dan menggerayapi serambi lempitnya. dia berdesah lebih keras lagi “mas ach..ach terus mas” katanya sambil menjambakku. kemudian akhirnya saya menemukan klitorisnya. desahan nya lebih keras lagi. “mas terus mas jangan stop mas terus ahhhhh ahhhhh”. kemudian setelah beberapa menit, “mas mau keluar mas” kemudian setelah berselang beberapa detik dia memuncratkan cairanya ke muka saya
 “mas maaf nggak sengaja”
 “nggak papa kok”
 kemudian saya yang saat itu masih berpakaian lengkap saya buka sampai telanjang bulat. rupanya ia ngeri punya saya yang dihiasi bulu bulu hitam
@@ -169,7 +171,7 @@ kemudian saya yang saat itu masih berpakaian lengkap saya buka sampai telanjang 
 kemudian dia mulai mendekatakan mulutnya dan dia masih taku
 “ayo rah, pegang punya saya”
 “iya mas”
-tetapi tanganya hanya di keatas kan, tapi tidak menyentuhnya, karena tidak sabar, saya menggapai tanganya dan langung mendekatkan tanganya ke penisku dan saya tuntun tanganya untuk mengocok rudal saya. kemudian kepalanya saya pegang dan saya dekatkan ke rudal saya. enak sekali rasanya, meskipun awalnya rada sakit (kena giginya) tapi kemudian teratur, begini rasanya dikocokin sama orang yang biasa megang botol jamu jadi kocokanya lebih enak dan nyaman seperti pengocok profesional, maju mundur maju mundur gerakanya sangat sempurna. “ahh mairah terus, kamu pintar ahh terus mirah uhhhh” saking enaknya. dan beberapa menit kemudian “mairah saya ingin keluar dan akhirnya “crruuut” saya mengeluarkan kenikmatan saya dimulutnya kerena lupa memberitahukannya.
+tetapi tanganya hanya di keatas kan, tapi tidak menyentuhnya, karena tidak sabar, saya menggapai tanganya dan langung mendekatkan tanganya ke rudalku dan saya tuntun tanganya untuk mengocok rudal saya. kemudian kepalanya saya pegang dan saya dekatkan ke rudal saya. enak sekali rasanya, meskipun awalnya rada sakit (kena giginya) tapi kemudian teratur, begini rasanya dikocokin sama orang yang biasa megang botol jamu jadi kocokanya lebih enak dan nyaman seperti pengocok profesional, maju mundur maju mundur gerakanya sangat sempurna. “ahh mairah terus, kamu pintar ahh terus mirah uhhhh” saking enaknya. dan beberapa menit kemudian “mairah saya ingin keluar dan akhirnya “crruuut” saya mengeluarkan kenikmatan saya dimulutnya kerena lupa memberitahukannya.
 “mas kok di mulut saya sih mas?, kan jijik tauk…” katahnya sambil membuang kenikmatan di mulutnya
 “udah di telen aja”
 “mas jangan sembarangan dong, masa ditelen?”
@@ -189,9 +191,10 @@ kemudian setelah itu jamunya jadi saya suruh mirah memasukannya ke mulutnya tapi
 “iya”
 
 &#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
+
 kemudian pertama kali saya menggesek-gesekan terlebih dahulu rudal saya ke sekitar lubangnya
 “mas enak mas udah mass masukin saja mass ahhhhh”
-kemudian saya mulai memasukin liang surgawinya yang sangat kecil itu, bayangkan, saya meniduri seorang wanita yang meminum jamu rapet selama bertahun-tahun padahal tidak pernah behubungan. pasti sangat kecil sekali dan mengalahkan lubang orang perawan. tadi saja hampir tidak terlihat dibalik jembutnya. sehinggga saya juga sedikit kesusahan karena terlau sempit tapi perlahan lahan saya akhirnya berhasil memasukan seperempat dan perlahan-lan akhirnya penuh juga. setelah ful baru saya oper ke gigi 6. dengan gaya konvensional, saya mulai menjalankan kontak sexual. “ah ah ah uh mas och ouc yess ochhhh ahhhh terus mas ahhh” desahanya yang mengundang birahi siapapun yang mendengarkanya. enak sekali dijepit dengan serambi lempit super sempit ini. enak sekali rasanya ahhh. melihat payudaranya yang juga bergerak. menambah semangatku untuk memuaskanya, setelah sepuluh menit, saya minta kepada mirah untuk berposisi doggy style. enak sekali, ini adalah posisi paling enak dengan bakul jamu ini, tak lupa saya meremas pantatnya yang semok itu dan sesekali memukulnya, dan tak lupa juga saya memegang rambutnya dan menariknya seperti naik kuda “yes yess ah ah ah enak terus mirah” genjotanya RUARR BIASA pijatanya yang memijat penisku enak sekali dan beberapa menit kemudian si mirah akhirnya orgasme juga. setelah itu saya capek menggoyangkan pingang saya saya suruh mirah sekarang untuk posisi woman on top. sambil tiduran yang mirah diatas saya sambil bergerak keatas-kebawah tangan saya meremas payudaranya yang extra besar dan extra empuk. beberapa menit kemudian saya ingat janji saya pada mirah, saya yang juga ingin keluar langsung melepaskan rudal saya dan melepaskan kenikmatan saya di lantai. kami berdua mengehentikan permainan ini karena permainan kami cukup lama (40 menit) gara-gara pengaruh jamu kuatnya mirah bahkan mirah orgasme 3kali.
+kemudian saya mulai memasukin liang surgawinya yang sangat kecil itu, bayangkan, saya meniduri seorang wanita yang meminum jamu rapet selama bertahun-tahun padahal tidak pernah behubungan. pasti sangat kecil sekali dan mengalahkan lubang orang perawan. tadi saja hampir tidak terlihat dibalik jembutnya. sehinggga saya juga sedikit kesusahan karena terlau sempit tapi perlahan lahan saya akhirnya berhasil memasukan seperempat dan perlahan-lan akhirnya penuh juga. setelah ful baru saya oper ke gigi 6. dengan gaya konvensional, saya mulai menjalankan kontak bercintaual. “ah ah ah uh mas och ouc yess ochhhh ahhhh terus mas ahhh” desahanya yang mengundang birahi siapapun yang mendengarkanya. enak sekali dijepit dengan serambi lempit super sempit ini. enak sekali rasanya ahhh. melihat payudaranya yang juga bergerak. menambah semangatku untuk memuaskanya, setelah sepuluh menit, saya minta kepada mirah untuk berposisi doggy style. enak sekali, ini adalah posisi paling enak dengan bakul jamu ini, tak lupa saya meremas pantatnya yang semok itu dan sesekali memukulnya, dan tak lupa juga saya memegang rambutnya dan menariknya seperti naik kuda “yes yess ah ah ah enak terus mirah” genjotanya RUARR BIASA pijatanya yang memijat rudalku enak sekali dan beberapa menit kemudian si mirah akhirnya orgasme juga. setelah itu saya capek menggoyangkan pingang saya saya suruh mirah sekarang untuk posisi woman on top. sambil tiduran yang mirah diatas saya sambil bergerak keatas-kebawah tangan saya meremas payudaranya yang extra besar dan extra empuk. beberapa menit kemudian saya ingat janji saya pada mirah, saya yang juga ingin keluar langsung melepaskan rudal saya dan melepaskan kenikmatan saya di lantai. kami berdua mengehentikan permainan ini karena permainan kami cukup lama (40 menit) gara-gara pengaruh jamu kuatnya mirah bahkan mirah orgasme 3kali.
 “gimana mirah, enak kan?”
 “iya mas, betul kata mas”
 “lain kali kalo kamu mau kamu tinggal ke rumah saya kalo sedang liburan kesini”

@@ -3,17 +3,18 @@ layout: post
 title: "Ada Nafsu Di Asrama"
 author: "Om Sugeng"
 date: 2018-05-30 03:16:24 +0000
-description: "Ada Nafsu Di Asrama Cerita Dewasa &#8211; Perkenalkan namaku Boni, Usiaku 34 thn, aq tinggal di daerah jakarta selatan serta aq mau share cerita mengenai pengalaman sexku waktu aq tetap berumur 20 th..."
+description: "Ada Nafsu Di Asrama Cerita Dewasa &#8211; Perkenalkan namaku Boni, Usiaku 34 thn, aq tinggal di daerah jakarta selatan serta aq mau share cerita mengenai pengalaman bercintaku waktu aq tetap berumur 2..."
 categories: ["Pelajar Nakal"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
 
-
 Ada Nafsu Di Asrama
-Cerita Dewasa &#8211; Perkenalkan namaku Boni, Usiaku 34 thn, aq tinggal di daerah jakarta selatan serta aq mau share cerita mengenai pengalaman sexku waktu aq tetap berumur 20 thn, ok here we goo…
+Cerita Dewasa &#8211; Perkenalkan namaku Boni, Usiaku 34 thn, aq tinggal di daerah jakarta selatan serta aq mau share cerita mengenai pengalaman bercintaku waktu aq tetap berumur 20 thn, ok here we goo…
 Ini cerita mengenai pengalamanku waktu di asrama putri univ I*****sia ( ini juga kucing-kucingan sama penjaga asrama) sama pacar aq yang kini udah sehingga istri aq, namanya Nila, sama temenya yang bernama Rita. Serta kebetulan aq dulu tak jarang bolak blik depok-jakarta buat ngapelin Nila.
+
 Nila serta Rita umurnya dua tahun lebih muda dari aq, serta aq dikenalin sama cewe aq ke Rita. Nila berpostur gak terlalu tinggi, badan and payudaranya juga proporsi sama badannya (34b) and nafsunya jg tinggi banget, nah kalo Rita ini nih yang bikin aq penasaran, rajin ibadah, kemana-mana pakai jilbab santun banget, islamik banget deh. Badannya sekel bohay, payudaranya(34C) hampir sama kayak cewe aq cuma kalo dirinya bulet serta kenceng banget bro. Serta ukuran P aq sendiri juga standar kok (15-16cm).
 Cerita ML – Sebuahhari aq ada plan mau ngapelin cewe aq pas weekend, kebeneran anak-anak asrama udah pada libur sehingga pada balik kampung, nah sehingga peluang deh, Nila ngajak aq ke kamarnya dirinya di asrama putri buat nginep bangsa 3 harian. Nah yang bikin kaget, kami pikir asrama udah kosong bro, taunya si Rita tadi belom pulang kampung, serta kata Nila juga dirinya gak keliatan keluar seharian tadi. (buat lebih lanjut aq tulis per karakternya aja).
+
 Nila (N) : beb, aku lagi kepengen deh, .
 Boni (aq): Kepengen apa sayang? ML? hihihi, di asrama loh, mana boleh..
 N : Ahhh.. udah gapapa, aku udah gatel dari tadi pengen kalian genjotin tau huhf..
@@ -24,12 +25,14 @@ N : Auuh.. sayanggg. Udah tau aku udah on gini malah keras kepala . cepet pliss.
 Aq: Iya iya bawelll.. heheheh., *sekejap langsung aq telanjangin doi saking ikut nafsunya
 Langsung aq remes remes payudara doi n jilat-jilat puting coklatnya.
 Aq: aemmhh,., beby.. aku mau nyusu boleh ya?
+
 N: Iya sayang nihh langsung aja isepin sepuas kamuhh ..nyodorin
 Liat dirinya udah ngasih lampu hijau langsung aq isep-isep ganas sampe dirinya nggelinjang-gelinjang keenakan.. –
 N: usshhhhh beby enak bangettt.. uhhhhkk yesss kalian pinter banget nyusunya.. auhhkk remesin yang kanan beby .. Aku mau k0ntolmu sayang,, biar aku sepongin sinihh,,,
 Tanpa babibu serta aq juga tetap asik nenen sama doi dirinya langsung lucutin celana aq ampe tanpa sehelai benangpun
 N: wow honey.. udah panjang gini sih hihihi,, baru juga nenenin aku..ngocok-ngocok pelan
 Aq: ahhh good beby… keep it like it…kocokin ampe max yah sayang…
+
 Tiba-tiba doi langsung nypongin ****** aq dalem-dalem.. dirinya jilat trus dari ujung ampe pangkal . nikmat banget.
 Aq: Omaigaatt! Beby!! Ahhhhhsss… kalian nafsu banget sih ngisepnya .. uhhh…..
 N: Sorry beby aku udah gak tahaann.. *ngocok-ngocok tambah cepet
@@ -37,7 +40,9 @@ Aq: ah ah ah… no beby stoppp itttttt… please…. I cant hold itttt – Sebis
 …… Tiba-tiba pas lagi hot hotnya di dalem kamar.. Nyatanya ada sepasang mata yang ngintipin kami dari tadi sambil ngrangsang sendiri.. Rita..
 Rita (R): mmm…. Nila…
 Seketika itu juga cewe aq kaget setengah mati.
+
 “Raih Keberuntunganmu dengan bermain Dominobet, games kartu online dengan menggunakan uang asli, terdiri permainan Capas, Poker, Kiyu-kiyu, Sakong dan lain-lain. Dapatkan Jackpot hingga ratusan juta rupiah.”
+
 N : RITA!!! Ngg…. Ng.. kok kalian d..di.disini??? aku pkir kamu,… kalian pulang k.kkampung ??
 R: Ngg… tetap 2 hari lagi Nil, kebeneran tadi baru mau cuci piring di belakang, tapi pas lewat kamarmu kok denger suara ndesah-ndesah gitu. Dengan nada tetap tergagap dirinya bengong liatin ****** aq yang hampir maksimum.
 N: Mm… duhh.. Rita… kenapa gak ke kamarku dari tadi?? Duhhh,,, kalian denger kami dari awal?? Ngintipin kami juga??…
@@ -49,6 +54,7 @@ A: Iya gabung aja Rita.. * nada ngarep.
 R: mmmh aku nonton dulu aja deh hehehehe….* padahal dalem hatinya dirinya juga udah horny liatin ****** aq .
 N: hehehe.. oke deh.,.. yuk sayang lanjutin.. wahwah k0ntolmu tetap tegak berdiri nih.. hihihi.
 Kembali si Nila ngocok-ngocok k0ntol aq sampe bener-bener maksimum, aq sendiri udah panas dingin rasanya nahan rangsangan .. doi pinter banget nyepongin nya..
+
 A: ssshh.. ya ampun beby…. Kalo gini caranya aku muncrat duluan deh.. tapiii aku beneran keenakan honey sambil remes-remes payudara Nila yang keliatan makin ngembang aja dari tadi
 N: Sllllrppp.. ssspphhh… how is it like baby?? Sssshhhppp sluurppp emhhhh…… *goyang-goyangin k0ntol – beb… udah keras banget nihhh … entotan aja yuk pliss… doggy in aku ya ..
 A: ahhh…shhhsh.. bentar lagi sayang … isepin yang dalem plis sambil jilatin ujungnya…. U’re so hot,,,
@@ -110,6 +116,7 @@ R: I nyaman it so much honey,,, Mantep banget k0ntolmu,, boleh ga lain kali aku 
 Aq: mmm… boleh aja sih.. cuman tar aku ijin dulu dong sama Nila.
 
 &#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
+
 R: No problem,,, huufhhh lega banget ampe kalah 3 ronde aku heheheh.. Udah lega juga kan liat aku bugil gini??
 Aq: udah sih tapi belom puas heheheh.. payudara mu gede banget sih Rita.. dapat-bisa aku ngaceng lagi kalo megang,,
 R: hhhuuu kalian mah muji mulu,, ya ga tau emang gede dari sananya kok … aku aja kalo tidur ga sempat pake baju.. Cuma selimutan doing,,

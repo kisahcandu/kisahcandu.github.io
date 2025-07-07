@@ -3,81 +3,131 @@ layout: post
 title: "Inilah Pekerjaanku"
 author: "Om Sugeng"
 date: 2018-06-01 03:38:41 +0000
-description: "Inilah Pekerjaanku Cerita Dewasa &#8211; Saat Diriku Bercinta Dengan Cewek Pekerja Model Majalah Dewasa &#8211; insiden itu terjadi sekitar tahun 2002, nama saya Agnes, wajtu usia saya baru berumur 2..."
+description: "Inilah Pekerjaanku Cerita Dewasa &#8211; Saat Diriku Bercinta Dengan Cewek Pekerja Model Majalah Dewasa &#8211; insiden itu terjadi sekitar tahun 2002, nama saya Agnes, wajtu usia saya baru berumur 20..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
 
-
 Inilah Pekerjaanku
 Cerita Dewasa &#8211; Saat Diriku Bercinta Dengan Cewek Pekerja Model Majalah Dewasa &#8211; insiden itu terjadi sekitar tahun 2002, nama saya Agnes, wajtu usia saya baru berumur 20 tahun tapi aku sudah meninggalkan papah dan mamahku karena mereka berdua meninggal karena kecelakaan pesawat yang mereka alami. Setelah papah dan mamahku harus mati, saya tidak punya saudara yang harus saya hidup untuk menjadi mentor kehidupan berikutnya.
+
 Tapi setelah saya semalan berpikir tentang siapa aku harus mengeluh semua aku merasa, tiba-tiba aku teringat dengan seorang teman papah sangat akrab dengan keluarga dan tentu saja dengan saya, nama Pak John. Kembali ketika papahku masih hidup, mereka bekerja sama dengan satu sama lain dan pak sering maen John kerumahku sehingga yohanes paket dengan mamahku dan saya sangat akrab sekali. HOT cerita mesum Model
+
 Setelah jumlah yohanes pak, saya langsung menelepon dia dan aku mengambil sebungkus John untuk bertemu dan membahas lebih lanjut nasibku. Dan setelah saya bertemu dengan yohanes pack dan mengatakan semua yang saya merasa Sir John menawarkan saya untuk tinggal di apartemennya dan ia berjanji untuk membayar sekolah saya sampai saya lulus. Dalam keadaan bingung, akhirnya saya menerima tawarannya. Aku pergi untuk tinggal di apartemennya, sendirian dengan dia. cerita gay Model
-Beberapa bulan kemudian saya tinggal dengan dia, tiba-tiba satu malam, Sir John masuk ke kamar saya. Saat itu saya baru saja memasuki ruangan dan belum terkunci. Saya terkejut karena dia tidak mengetuk kamar saya pertama, dan pada saat itu aku hanya mengenakan polos kuning daster tipis. Dalam hal itu saya tidak mengenakan bra dan hanya mengenakan celana saja. Sesaat Mr. John tersentak pada saya, tapi ia terjebak dengan saya. Saya spontan memeluk bantal untuk menutupi dada saya. &#8220;Ngesex serambi lempit Model HOT&#8221;
+
+Beberapa bulan kemudian saya tinggal dengan dia, tiba-tiba satu malam, Sir John masuk ke kamar saya. Saat itu saya baru saja memasuki ruangan dan belum terkunci. Saya terkejut karena dia tidak mengetuk kamar saya pertama, dan pada saat itu aku hanya mengenakan polos kuning daster tipis. Dalam hal itu saya tidak mengenakan bra dan hanya mengenakan celana saja. Sesaat Mr. John tersentak pada saya, tapi ia terjebak dengan saya. Saya spontan memeluk bantal untuk menutupi dada saya. &#8220;Ngebercinta serambi lempit Model HOT&#8221;
+
 Mr John dan berkata kepada saya, &#8220;Agnes, silakan ayah, anak, istri Anda sudah lama meninggal, Ayah tidak dilayani. Kau tidak meminta segala macam. Ayah hanya meminta Agnes bersedia untuk melayani Anda.&#8221; &#8220;Gay Model Virgin &#8221;
+
 Wajahnya berkaca-kaca dengan keringat di dahinya. Saya tidak tega melihatnya. Saya pikir dia tidak bersedia untuk membiayai sekolah saya. Selain itu, keperawanan saya hilang sejak aku masih kecil ketika ia jatuh dari sepeda. Cerita bercinta Virgin
+
 Mr John terus mencari dan menunggu jawaban saya, sementara saya tidak bisa mengatakan apa-apa. Kemudian Sir John menyambar saya bantal peluk untuk menutupi dada saya dan meletakkannya di tempat tidur. Lalu dia diam dan menatapku.
+
 Aku melihat diam, dia lalu berkata, &#8220;Jika Anak Agnes diam, Mr. Agnes rasa jawabannya &#8216;ya&#8217;.&#8221; Dia masih menatapku. Tiba-tiba ia meraih dan memeluk tubuh saya dan mengusap punggung saya. &#8220;Terima kasih, Nak.&#8221; Katanya sambil menatapku dengan hangat.
+
 Setelah itu ia mulai mencium kening dan pipi saya. Lalu menjulurkan lidah saat berciuman telinga dan bibir saya. Dibersihkan ciuman, lidahnya bermain liar di mulut saya, seperti yang dilakukan tambang. Tangannya telah memeluk punggung saya mulai turun membelai pantat dan meremas. Kemudian kepala ke leher saya, mencium dada masih tertutup daster kuning saya. Aku mulai terangsang. Terutama ketika mulutnya berhenti di puting saya hanya ditutupi dengan polos kuning tipis daster itu. Dia mengisap dan menggigit puting saya.
+
 &#8220;Uuh &#8230; aahh &#8230; Pak &#8230; Uh ..!&#8221; Aku tidak tahan lagi.
-Rasa dada kesemutan ini dimanipulasi seperti itu oleh Sir John. Saya spontan membuka empat tombol daster yang terletak di depan itu, dan melihat kedua bukit kembar saya gemuk, ukuran 36B dengan puting merah muda gelap menempel menantang untuk menghadapi Sir John. Ia langsung tergencet, gigitan kecil, kemudian memasukkannya ke dalam mulutnya. Ternyata mulut Pak Yohanes terlalu lebar, bukti dadaku bukit 36B masuk semua ke dalam mulutnya.
+
+Rasa dada kesemutan ini dikenikmatanpulasi seperti itu oleh Sir John. Saya spontan membuka empat tombol daster yang terletak di depan itu, dan melihat kedua bukit kembar saya gemuk, ukuran 36B dengan puting merah muda gelap menempel menantang untuk menghadapi Sir John. Ia langsung tergencet, gigitan kecil, kemudian memasukkannya ke dalam mulutnya. Ternyata mulut Pak Yohanes terlalu lebar, bukti dadaku bukit 36B masuk semua ke dalam mulutnya.
+
 &#8220;Aduuh &#8230; Pak, geli ah &#8230; enaa..gh ..!&#8221; Aku meraung keenakan.
-Mr John menurunkan daster terus ke bawah dan mencium datar perut saya sering sit-up itu. tangan kirinya bergerak untuk menurunkan daster, dan tangan kanannya membelai bokong dan paha saya yang halus. Daster turun setelah semua, tangan kirinya mengangkat kaki kanan saya dan lipat ke tempat tidur. Lalu ia berjongkok dan membuka tangan kirinya sebagian menutupi celana kain di kemaluan saya. Seketika itu segera melihat kemaluan bulu saya sedikit itu, sehingga dia tidak perlu repot-repot menjilati klitoris saya. &#8220;Ngesex serambi lempit Model HOT&#8221;
+
+Mr John menurunkan daster terus ke bawah dan mencium datar perut saya sering sit-up itu. tangan kirinya bergerak untuk menurunkan daster, dan tangan kanannya membelai bokong dan paha saya yang halus. Daster turun setelah semua, tangan kirinya mengangkat kaki kanan saya dan lipat ke tempat tidur. Lalu ia berjongkok dan membuka tangan kirinya sebagian menutupi celana kain di kemaluan saya. Seketika itu segera melihat kemaluan bulu saya sedikit itu, sehingga dia tidak perlu repot-repot menjilati klitoris saya. &#8220;Ngebercinta serambi lempit Model HOT&#8221;
+
 &#8220;Oohh &#8230; Sir &#8230; enaakkk ..!&#8221; Aku berkata, mencengkeram kepalanya.
+
 “Raih Keberuntunganmu dengan bermain Dominobet, games kartu online dengan menggunakan uang asli, terdiri permainan Capas, Poker, Kiyu-kiyu, Sakong dan lain-lain. Dapatkan Jackpot hingga ratusan juta rupiah.”
+
 Aku tidak peduli lagi siapa dia. Mr John terus menjilati klitoris saya dan memasuki satu jari tangan kanannya ke dalam serambi lempit, dan memindahkannya keluar. Aku benar-benar kenyamanan. pantat saya bergerak naik dan turun mengikuti gerakan jari. Tiba-tiba sesuatu meledak dalam diriku.
+
 &#8220;&#8230; Saya ingin keluarga Aaa..gh panas &#8230; ar ..!&#8221; Saya air kesenangan jari basah dan mulut. Dia inhalasi habis.
+
 Kemudian yang tak terduga, ia sebagian merobek kain celana saya yang menutupi kemaluan saya dan kemudian membuka celana dalamnya. Melihat senjata besar rambut ditumbuhi sangat tebal. Aku tidak tahan melihatnya.
+
 &#8220;Ooh &#8230; masuk, Pak, cepat Pak ..!&#8221; Aku berkata, mengelus kemaluan saya yang sudah basah.
-Ternyata Mr. John sudah tidak kuat. Dia segera menyodorkan penisnya ke dalam serambi lempit saya.
+
+Ternyata Mr. John sudah tidak kuat. Dia segera menyodorkan rudalnya ke dalam serambi lempit saya.
+
 &#8220;Aaah &#8230; sakiit ..! Enaaggh ..!&#8221; Aku mulai merasakan sakit tapi sangat lezat di bawah itu.
-Mr John up dan drop off penisnya. Ternyata melakukan sambil berdiri enak juga. Kedua tangan meremas-remas kedua payudara saya. Tanganku tak mau kalah dan meremas-remas pantat. Segera saya mendapat orgasme kedua, dan segera dia baik. Akhirnya kami jatuh memeluk tertidur di tempat tidur. Hari berikutnya, kami melakukannya lagi di kamar mandi. Kita masing-masing orgasme dua kali. Setelah itu saya pergi ke sekolah dan ia pergi ke kantor. &#8220;Ngesex serambi lempit Model HOT&#8221;
+
+Mr John up dan drop off rudalnya. Ternyata melakukan sambil berdiri enak juga. Kedua tangan meremas-remas kedua payudara saya. Tanganku tak mau kalah dan meremas-remas pantat. Segera saya mendapat orgasme kedua, dan segera dia baik. Akhirnya kami jatuh memeluk tertidur di tempat tidur. Hari berikutnya, kami melakukannya lagi di kamar mandi. Kita masing-masing orgasme dua kali. Setelah itu saya pergi ke sekolah dan ia pergi ke kantor. &#8220;Ngebercinta serambi lempit Model HOT&#8221;
+
 Sejak itu hidup saya telah berubah. Kami mencari layaknya suami istri di apartemen kami. Ternyata untuk orang seusianya, dia masih sangat kuat untuk melakukannya selama berjam-jam. Aku bahkan melarang memakai ketika dalam apartemen. Tapi aku selalu menggodanya hanya mengenakan sehelai kain di tubuh. Misalnya, hari ini saya hanya mengenakan bra saja, sedangkan bagian tubuh lainnya mengoda polos. Lalu aku duduk di depannya dengan selangkangan terbuka lebar, jadi saya menantang alat kelaminnya. Dia selalu tidak tahan dan diundang untuk bermain lagi.
+
 Hari berikutnya aku hanya mengenakan celana berwarna hitam dan bahan yang berlubang, berlubang, sehingga rambut kemaluan keluar dan klitoris merah muda juga terlihat ketika saya mengangkang, sementara payudara saya menggantung indah di dada. Jika demikian, maka dia memeluk dan membawa saya ke tempat tidur, mulutnya mengisap payudara dan tarik puting. Ini kami lakukan hampir setiap hari tampak seperti pengantin baru sampai saya lulus SMA. Tapi Sir John tidak pernah mati kekuatan untuk berhubungan bercinta dengan seorang gadis muda seperti saya, dan saya selalu membuat bahagia dengan itu.
+
 Suatu hari ketika saya baru saja selesai mandi, seperti biasa, aku keluar dari ruangan tanpa pakaian, dan sementara mengeringkan rambut masih basah, saya pergi ke dapur untuk minum. Tanpa saya sadari, ternyata ada dua teman Sir John yang berkunjung. Mereka berdua tampak terkejut melihat saya bulat telanjang itu. Begitu juga I. Tapi shock saya tidak saya menunjukkan dan saya langsung pergi ke dapur cepat. &#8220;Model telanjang Virgin&#8221;
+
 Di malam hari ketika tidur, Mr. John berkata kepada saya.
+
 &#8220;Agnes, tidak akan menjadi model ..?&#8221; Tangannya membelai puting saya.
 &#8220;Model ..? Model seperti di majalah itu ..?&#8221; Tanya saya.
 &#8220;Yah, tapi ini berbeda. Anda lihat, teman ayah saya yang memiliki itu berasal dari Singapura. Satu nama adalah Mr. Michel, yang lain adalah Sir Richard. Mr. Michel masyarakat Indonesia yang sebenarnya, tapi tinggal di Singapura. Dia adalah editor majalah, sementara Mr Richard adalah direktur. &#8221;
+
 &#8220;Tujuannya adalah majalah Singapore ..?&#8221;
 &#8220;Nah jadi. Mereka berdua menjadi tertarik setelah melihat dan menawarkan sebagai model. Tapi Anda tidak perlu pergi ke Singapura. Anda hanya hidup di Indonesia, untuk studio foto di Indonesia.&#8221;
+
 &#8220;Tapi malu Agnes, Agnes telanjang di depan mereka.&#8221;
 &#8220;Em .., jadi Agnes tidak perlu malu, karena .. eh &#8230; majalah mereka majalah porno .. eh tapi itu terserah Agnes, mereka hanya ditawarkan untuk Agnes tertarik. Jika Agnes tidak ingin untuk itu, juga tidak apa-apa. &#8221;
+
 Saya melihat. Mereka telah melihat tubuh saya dan mereka tertarik. Aku begitu bingung.
+
 &#8220;Honornya cukup besar Anda tahu, Sal. Bapak tidak akan bertanya mengapa. Jika nanti ingin Agnes, honorarium tetap untuk Agnes, karena Agnes bekerja. Jadi terserah Pak Agnes sendiri. Jika Anda ingin mencobanya.&#8221; Dia lanjutnya.
 Aku mulai tertarik.
 &#8220;Agnes harus datang di mana, Pak ..?&#8221; Dia tersenyum dan mengatakan alamatnya.
-Keesokan harinya saya datang ke studio foto. Tempat ini seperti rumah biasa, cukup besar untuk menutupi pagar tinggi rumah. Tersebut tidak kantor atau studio foto. Lalu aku pergi dan meminta keinginan resepsionist untuk bertemu dengan Mr. Richard. Seseorang mendorong saya ke kantor Mr. Richard. Mr Richard terseyum menyambut saya. Ternyata dia adalah seorang pemuda berusia 30-an. Tidak begitu tampan tapi di tubuhnya yang putih ditutupi dengan bulu tebal. Dilihat dari tangan dan daerah dada. Tapi senyumnya terlihat menarik. &#8220;Ngesex serambi lempit Model HOT&#8221;
+
+Keesokan harinya saya datang ke studio foto. Tempat ini seperti rumah biasa, cukup besar untuk menutupi pagar tinggi rumah. Tersebut tidak kantor atau studio foto. Lalu aku pergi dan meminta keinginan resepsionist untuk bertemu dengan Mr. Richard. Seseorang mendorong saya ke kantor Mr. Richard. Mr Richard terseyum menyambut saya. Ternyata dia adalah seorang pemuda berusia 30-an. Tidak begitu tampan tapi di tubuhnya yang putih ditutupi dengan bulu tebal. Dilihat dari tangan dan daerah dada. Tapi senyumnya terlihat menarik. &#8220;Ngebercinta serambi lempit Model HOT&#8221;
+
 &#8220;Selamat siang, Agnes, silakan duduk ..!&#8221;
 Aku duduk di depan mejanya. Dia telah duduk.
 &#8220;Secara singkat, sehingga Anda tertarik ..?&#8221;
 &#8220;Ya pak.&#8221;
 &#8220;Jangan panggil aku Pak. Panggil aku kakak sendiri. Aku benar-benar berasal dari Indonesia juga. Semua orang yang disebut Bang Richard.&#8221; Aku tersenyum.
+
 &#8220;Oke, kita kembali ke topik semula. Berikut Agnes, menjadi model ada beberapa persyaratan. Pertama, kita harus mengedit tubuh Anda terlebih dahulu.&#8221;
 &#8220;Mengedit saya ..?&#8221;
 &#8220;Yah, kita harus tahu bagaimana tubuh Anda, apa. Kekurangannya akan ditutupi kekurangannya dan kekuatan, kelebihan akan disorot. Jadi nanti ketika difoto akan melakukannya dengan baik. Mengerti ..?&#8221;
 Aku mengangguk.
 &#8220;Sekarang buka seluruh pakaian Anda, saya akan menelepon editor kami, Michel Bang.&#8221; Dia keluar dari kantornya.
+
 Aku merasa canggung. Tapi akhirnya saya membuka baju satu persatu sampai hanya bra dan celana dalam. Tiba-tiba pergi dan Bang Bang Michel Richard.
+
 &#8220;Mengapa, benar-benar, pakaian dan bra-nya tidak dibuka ..? Tidak perlu malu. Tugas Anda tidak memerlukan pakaian kemudian. Saya pikir, Sir John sudah menjelaskan itu bukan ..?&#8221;
+
 Aku mengangguk seperti orang bodoh. Kemudian celana terbuka dan bra saya. Saya tidak perlu malu, namun mereka sudah melihat saya telanjang di apartemen Sir John. &#8220;Naked Virgin Model 2016&#8221;
-Setelah telanjang, aku berdiri menantang. Mereka melihat saya tanpa berkedip. Aku tahu &#8216;adek-adek&#8217; mereka sudah berdiri melihat saya. Tiba-tiba aku merasa percaya diri. Ini adalah permainan yang menyenangkan. Selain itu, saya senang menggoda Sir John. Mengapa saya tidak bisa menggoda mereka juga? Saya kemudian menghapus klip rambut dan rambut terurailah saya yang sangat padat dan indah. Aku berdiri menggoda di depan mereka sambil bermain sedikit rambut saya di dalam mulut. Bang Michel mulai mendekati. Dia membelai tangan dan pipiku. Kemudian dia mengitari tubuh saya dan mengelus punggung dan pantat saya. Lalu tangannya mulai memegang saya 36B payudara dan puting mereka menempel ke depannya. Lalu ia berjongkok dan mengelus pahanya dan membuka selangkangan saya. Lalu ia berdiri lagi, tiba-tiba ia mencium leher saya. &#8220;Ngesex serambi lempit Model HOT&#8221;
+
+Setelah telanjang, aku berdiri menantang. Mereka melihat saya tanpa berkedip. Aku tahu &#8216;adek-adek&#8217; mereka sudah berdiri melihat saya. Tiba-tiba aku merasa percaya diri. Ini adalah permainan yang menyenangkan. Selain itu, saya senang menggoda Sir John. Mengapa saya tidak bisa menggoda mereka juga? Saya kemudian menghapus klip rambut dan rambut terurailah saya yang sangat padat dan indah. Aku berdiri menggoda di depan mereka sambil bermain sedikit rambut saya di dalam mulut. Bang Michel mulai mendekati. Dia membelai tangan dan pipiku. Kemudian dia mengitari tubuh saya dan mengelus punggung dan pantat saya. Lalu tangannya mulai memegang saya 36B payudara dan puting mereka menempel ke depannya. Lalu ia berjongkok dan mengelus pahanya dan membuka selangkangan saya. Lalu ia berdiri lagi, tiba-tiba ia mencium leher saya. &#8220;Ngebercinta serambi lempit Model HOT&#8221;
+
 Tangannya meremas-remas kedua payudara saya. Aku mulai terangsang. Kemudian beralih ke tangan kirinya di antara kedua kaki saya sudah mulai basah itu dan berhenti klitoris. Dia membelai klitoris saya. tangan kanannya membelai anus saya.
+
 &#8220;Uuhh .. Eehh .. ahh ..!&#8221; Aku sengaja meratap, tanpa saya sadari telah ikutan Bang Richard menghisap puting dan puting saya tangan kanan memegang yang lain.
 Michel Bang tangan kiri dimasukkan ke dalam serambi lempit saya dan pindah. Kami melakukan ini sambil berdiri sebagai pertama kalinya aku melakukannya dengan Sir John. Aku benar-benar terangsang.
+
 Bang Michel mencium bibirku dan memainkan lidahnya di mulut saya. Erangan Aku terjebak di mulutnya. Kemudian Bang Michel berjongkok dan mencium lidah klitorisnya dan bermain di sana, tapi jari-jarinya masih bermain di serambi lempit. Posisi itu digantikan oleh Bang Bang Michel Richard yang ciuman-lumat dan melumat bibirku. Tiba-tiba aku merasakan sesuatu keluar. Meskipun saya erangan teredam oleh bibir Bang Richard, tapi mereka tahu bahwa orgasme pertama saya getaran tubuh saya.
-Kemudian Bang Michel membuka celananya, juga Bang Richard. Michel Bang rudal sangat besar dan hitam. Richard juga bang besar tapi putih. Masih berdiri, Bang Michel memasukkan penisnya ke dalam anus saya. Sangat menyakitkan. Aku mengerang kesakitan, tapi tiba-tiba Bang Richard memasukkan penisnya ke dalam serambi lempit. Aku mengerang berubah menjadi makanan lezat. Mereka berdua bermain rudal mereka keluar dari anus saya dan serambi lempit. Rasanya baik sekali kacau dua orang sekaligus. permainan kami cukup lama. &#8220;Model telanjang Virgin&#8221;
+
+Kemudian Bang Michel membuka celananya, juga Bang Richard. Michel Bang rudal sangat besar dan hitam. Richard juga bang besar tapi putih. Masih berdiri, Bang Michel memasukkan rudalnya ke dalam anus saya. Sangat menyakitkan. Aku mengerang kesakitan, tapi tiba-tiba Bang Richard memasukkan rudalnya ke dalam serambi lempit. Aku mengerang berubah menjadi makanan lezat. Mereka berdua bermain rudal mereka keluar dari anus saya dan serambi lempit. Rasanya baik sekali kacau dua orang sekaligus. permainan kami cukup lama. &#8220;Model telanjang Virgin&#8221;
+
 Aku mengalami orgasme tiga kali ketika mereka berdua orgasme untuk pertama kalinya. Akhirnya mereka menarik rudal mereka dan melemparkan tubuh mereka di bangku sofa. Sementara aku bersenderan di dinding dan menutup matanya. Aku merasa lemah semua melayani dua orang sekaligus. Tiba-tiba Bang Richard diadakan bahu saya.
+
 &#8220;Terima kasih, Agnes ..!&#8221;
+
 Aku hampir marah untuk menyambut saya untuk melayani mereka berdua pertama. Tapi ketika diberi kesenangan yang baru saja saya terima, saya bisa menyimpan dendam.
+
 Kemudian hanya memakai bra, saya dibawa Bang Michel ke sebuah ruangan yang penuh dengan beberapa jenis bar in situ. Di dalamnya ada banyak wanita yang tidak memakai sama sekali. Ruangan itu ternyata menjadi satu dengan studio fotonya, sehingga model yang haus dapat langsung memesan minum di sana. Saya diberitahu untuk duduk di bangku bar yang tinggi dan diminta untuk mengisi formulir lembar dan lembar kerja sama. Kemudian Bang Michel meninggalkan saya sendirian di sana.
 
 &#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
-Ketika saya mengisinya, seseorang mencubit saya dari belakang. Ketika saya berbalik, melihat seorang pemuda menatapku dan tersenyum. Tanpa basa-basi lagi, pemuda mendekatkan wajahnya ke serambi lempit saya dan menjilat klitoris saya. Saya terkejut dan ingin menghindari. Tapi bar tinggi bangku yang membuat saya kesulitan saya menginjakkan kaki ke lantai, sehingga membuat selangkangan saya tanpa celana dalam terbuka lebar membuat saya kesulitan untuk turun. Pemuda itu masih menjilati selangkangan saya. serambi lempit saya masih merasa kesemutan dalam serangan Bang Michel akhirnya basah lagi dan saya mulai merasa keenakan. &#8220;Ngesex serambi lempit Model HOT&#8221;
+
+Ketika saya mengisinya, seseorang mencubit saya dari belakang. Ketika saya berbalik, melihat seorang pemuda menatapku dan tersenyum. Tanpa basa-basi lagi, pemuda mendekatkan wajahnya ke serambi lempit saya dan menjilat klitoris saya. Saya terkejut dan ingin menghindari. Tapi bar tinggi bangku yang membuat saya kesulitan saya menginjakkan kaki ke lantai, sehingga membuat selangkangan saya tanpa celana dalam terbuka lebar membuat saya kesulitan untuk turun. Pemuda itu masih menjilati selangkangan saya. serambi lempit saya masih merasa kesemutan dalam serangan Bang Michel akhirnya basah lagi dan saya mulai merasa keenakan. &#8220;Ngebercinta serambi lempit Model HOT&#8221;
+
 Segera saya orgasme lagi di bar tempat duduk, sehingga kursi yang terbuat dari kulit yang menjadi basah dengan cairan yang saya kenikmatan.
+
 &#8220;Salam, Mbak. Saya Roy, model pria di sini. Mbak namanya?&#8221; Tanyanya kemudian.
 &#8220;Agnes&#8221; kataku lemah.
 &#8220;Nanti kita akan selalu bertemu, dan kita pasti akan melakukannya lagi.&#8221;
+
 Saya tidak bisa mengatakan apa-apa lagi dan mulai mengisi formulir lagi.
+
 Tidak lama Bang Michel datang dan mengambil bentuk yang saya isi itu. Dia menunjukkan kehormatan saya dan pekerjaan saya. Untuk pertama kalinya pada hari pertama yang saya difoto bugil di depan orang. Rupanya ini adalah pekerjaan baru saya. Menyenangkan pula, selama tidak hamil saja. Karena ketika difoto berpasangan, tidak jarang kami menyatukan alat kelamin kami, sehingga gambar yang lebih baik dan tidak terlihat kaku. &#8220;Model telanjang Virgin&#8221;
+
 Kadang-kadang saya juga bermain dengan atau Bang Bang Michel Richard atau keduanya. Tapi di rumah saya tetap menjadi &#8216;istri&#8217; Sir John. Itu pengalaman saya. foto-foto saya ditampilkan dalam banyak majalah porno di Singapura, dan tentu saja tidak dijual bebas. Hanya kelompok tertentu yang menerimanya.

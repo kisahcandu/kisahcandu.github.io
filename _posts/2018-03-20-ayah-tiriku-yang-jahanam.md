@@ -3,53 +3,84 @@ layout: post
 title: "Ayah Tiriku Yang Jahanam"
 author: "Om Sugeng"
 date: 2018-03-20 05:26:18 +0000
-description: "Ayah Tiriku Yang Jahanam Cerita Dewasa &#8211; Sengaja aku ceritakan kisah nyata ke hidupan ku untuk berbagi pengalaman kepada para teman-teman agar dapat dijadikan gambaran betapa kejam kehidupan in..."
+description: "Ayah Tiriku Yang Jahanam Cerita Dewasa &#8211; Sengaja aku ceritakan kisah nyata ke hidupan ku untuk berbagi pengalaman kepada para teman-teman agar dapat dijadikan gambaran betapa kejam kehidupan ini..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
 
-
 Ayah Tiriku Yang Jahanam
 Cerita Dewasa &#8211; Sengaja aku ceritakan kisah nyata ke hidupan ku untuk berbagi pengalaman kepada para teman-teman agar dapat dijadikan gambaran betapa kejam kehidupan ini namun bila kita dapat dengan teliti menjalaninya, kehidupan yang kejam akan dapat menjadi indah dan berguna.
+
 Semuanya berawal dari kehancuran rumah tangga kami setelah sekian lama ibu ku berpisah dengan ayahku, roda ekonomi keluarga kami tidak terlalu terguncang, karena Ibu pandai mencari uang. Ibu sudah menopang ekonomi keluarga dengan berbagai upaya meski harus menjalani kehidupan yang hina sebagai wanita penghibur. Oleh karena itu, sepeninggal Ayah kami tidak mengalami kesulitan perekonomian dalam mengurusku dan kedua adik laki-lakiku.
+
 ketika usia 12 tahun aku memilih untuk tinggal bersama ibuku yang pada saat itu ibu sudah hidup bersama dengan Pak Juwono, sosok pak juwono memang bukan merupakan sosok yang asing bagi kami karena kebenaran pak juwono adalah tetangga sekampung kami, dan wajar menurutku ibu membutuhkan laki-laki dalam hidupnya Pertama, karena usia Ibu masih tergolong muda, 38 tahun, untuk mengarungi hidup ini sendirian. Kedua, karena kami tahu bahwa Pak Juwono berstatus duda tanpa anak. Pak Juwono adalah pria yang matang, penyayang,dan bertanggung jawab. Aku dan kedua adikku sudah cukup mengenal kepribadiannya.
+
 Masuknya Pak Juwono sebagai anggota baru keluarga kami memang membawa warna-warna lain dalam kehidupan keluarga kami. Aku pribadi sangat senang dengan adanya figur seorang ayah pengganti. Terus terang, sebagai anak perempuan satu-satunya aku haus akan perhatian dan kasih sayang seorang ayah. Apalagi di usia remaja aku ingin ada yang menuntunku dalam urusan cinta dan berhubungan dengan pria. Aku harap bisa menimba pengalaman dari ayah tiriku ini.
+
 Kedekatanku dengan ayah tiriku membuat Ibu bangga. Beliau senang melihat kami semua akrab dengan suami barunya. Bahkan, boleh dikatakan aku bersikap agak manja kepadanya. Setelah berselang beberapa tahun dan saat itu aku sudah berusia 15 tahun dan aku sudah duduk di bangku SMU Setiap pulang sekolah, aku pasti segera mencari ayah tiriku untuk menceritakan pengalamanku di sekolah. Beliau akan dengan sabar mendengar ceritaku, kemudian dengan bijak menasihatiku bila ada hal-hal yang dianggapnya tidak ’sesuai’.
 Kadang-kadang atas ijin Ibu, aku mengajak ayah tiriku berjalan-jalan ke mall untuk mengisi waktu kosong, setelah berjalan-jalan kami mampir untuk nongkrong di salah satu tempat sambil ayah memberikan nasihat-nasihatnya dan akupun memampaatkan untuk bercuhat tentang seputar pergaulan masa remajaku, karena terkadang aku enggan bercurhat di rumah takut kalo kedengaran ibuku.
+
 Tanpa kusadari aku semakin dekat dan semakin akrab kepada ayah tiriku, aku sudah semakin cuek aja dan tidak malu lagi semisalnya keluar dari kamar mandi dan hanya mengenakan handuk mandi sebagai penutup bagian-bagian tubuhku yang vital dihadapan ayahku. Dan kadangkala ayahku pula yang menggendongku ke tempat tidurku apabila aku kedapatan ketiduran di ruang tamu karena ketiduran akibat mataku yang kelelahan karena membaca buku ataupun menonton telivisi.
 
 Lama-kelamaan aku semakin mengagumi sifat-sifat kedewasaan yang dimiliki oleh ayah tiriku, dan ada rasa perasaan khusus tertentu yang tidak bisa kuterjemahkan, entahlah apakah itu adalah perasaan cinta? Mungkin itulah alasannya aku selalu menampik setiap pernyataan cinta yang dilontarkan oleh teman-teman priaku. Terus terang aku tidak tertarik dengan teman-teman pria sebayaku yang cenderung manja dan kekanak-kanakan. Sebaliknya aku mengagumi pria-pria yang dewasa dan matang. Rasanya aku betah berada disisi mereka untuk mendengar cerita ataupun nasehat-nasehatnya, dan itu semuanya kudapatkan penuh dari ayah tiriku ini.
+
 Rupanya gejala ini juga dirasakan dan ditangkap oleh ayah tiriku. Sebelumnya aku memang terbiasa jika hendak pergi sekolah berpamitan dan mencium pipi ibu dan ayahtiriku, Sekarang bila ibu tidak ada, Ayah akan membalas mencium pipiku. Semula aku merasa kaget dan ada sedikit perasaan malu, bukan kenapa-kenapa ini adalah ciuman pertama dari seorang laki-laki kepadaku dan sekaligus adalah ayahku. Bahkan pernah suatu waktu aku terperangah ketika ayah tidak hanya membalas mencium pipiku, melainkan juga bibirku. Melihat wajahku memerah, karena aku belum pernah pacaran, Ayah hanya tersenyum simpul.
 Kalau sebelumnya aku enggan untuk didekati ayahtitiku saat aku tiduran atau saat aku tidur sambil nonton tv, lama kelamaan aku terbiasa dan seringkali aku bermanja-manja minta didekap oleh ayah, terasa sangat nyaman berada dalam dekapan ayahtiriku, hinnga suatu ketika aku terkejut tatkala ayahtiriku menciumi bibir merahku dengan begitu lembut dan bukan karena aku tidak terima, malah aku meraasa ada sesuatu perasaan hangat dan desiran dalam detak jantungku yang tak karuan.
+
 Kejadian seperti itu terus berulang ketika ada kesempatan bagi kami Dan akupun mulai terbiasa dengan gaya baru dari ayah tiriku. Semakin lama kami berani melakukannya lebih lama, kami pernah melakukannya selama beberapa menit dengan panasnya. Kalau tidak mengingat Ibu yang ada di rumah yang sewaktu-waktu bisa memergoki mungkin ayahku tidak akan melepaskanku dari pagutannya.
 Semakin waktu berjalan akibat dari rasa penasaran dan akupun tambah menginginkan sesuatu yang lebih dari ayahtiriku, aku menginginkan perasaan bahagia itu tidak hanya sesaat ku dapat dan akhirnya ntah darimana aku mendapat akal bulus untuk menyarankan kepada ibu agar dia mengunjungi saudaranya di bogor Beberapa waktu berselang, suatu saat tatkala ibu tidak dirumah . Kebetulan kedua adikku sedang tidak tinggal di bersama kami karena pergi berkunjung ketempat tinggal ayah yang satu kota dengan kami namun lumayan jauh jaraknya. Alhasil hanya aku dan Ayah tiriku yang ada di rumah sekarang ini. Menyadari tidak ada orang lain, sebenarnya hatiku berdegup kencang menyadari saat-saat yang tidak terduga tinggal berdua saja dengan Ayah tiriku yang amat kukagumi.
+
 Ketika aku pulang dari main ketempat salah seorang temanku menjelang sore hari, beliau sudah menungguku di teras rumah dan terlihat kegembirannya yang terbias di matanya ketika menyambut kepulanganku. “Pulangnya kog malam, Non?” tanya ayah dengan senyum khasnya.
+
 Aku menjawab dengan santai, “Tadi jalan-jalan dengan teman Yah. “Senyumnya mendadak agak hilang ketika keceritakan aku berjalan-jalan dengan teman-teman cowok kampusku. Aku tertawa dalam hati melihat sikap ayah tiriku yang terlihat sedikit menyimpan rasa cemburu.
+
 Saat-saat sepeti ini memang sudah aku tunggu-tunggu dank u manpaatkan semanpaat mungkin untuk mencapai hasratku yang sudah menggebu-gebu, Sehabis mandi seperti biasanya aku tetap hanya menggunakan handuk melalui ayah menuju ke arah kamarku dan akupun berlaku sedikit centil seakan memancing dan memberi isyarat pada ayah.
-“Nia, apakah cowok yang menemani kamu adalah pacar kamu?”, selidik ayah tiriku. Dominobet
+
+“Nia, apakah cowok yang menekenikmatan kamu adalah pacar kamu?”, selidik ayah tiriku. Dominobet
 “Sebentar ayah, Nia mau berpakaian dulu, dan nanti akan Nia ceritakan seluruhnya ke Ayah”, jawabku sambil tetap menuju ke arah kamarku, sepintas kulihat ayahku seperti berdiri dari sofa tempat duduknya. Aku menutup sedikit pintu kamar yang sengaja tak ku kunci dan mulai mengeringkan rambutku dengan menggunakan kipas angin yang kunyalakan.
+
 Tiba-tiba aku mendengar suara derit pintu kamarku terbuka dan kulihat ayah tiriku berjalan masuk menghampiriku. Karena aku masih terbalut dengan handuk aku cuek saja menerima kehadiran ayah tiriku meskipun sesungguhnya hatiku terasa dag dig dug tak karuan.
+
 “Aduhh.., ayah nih kog penasaran amat sih, dibilang entar juga pasti diceritain”, kataku menggoda sembari tetap mengeringkan rambutku yang masih agak basah dan sengaja handuk yang menutupi sedikit ku angkat hingga terlihat muus paha ku.
+
 “Nia, kamu serius yah berpacaran dengan cowo yang tadi itu?”, masih dengan penasaran ayahku terus menanyaiku.
 “Hmm…, Kalo ya kenapa…, kalo tidak juga kenapa?” tanyaku memancing perasaan ayah tiriku.
 “Kamu bandel yahh…, udah main rahasia-rahasiaan” ucapnya seraya tiba-tiba tangannya menggelitik pinggulku.
+
 Aku tergelitik kegelian sambil meronta-ronta kecil untuk melepaskan dari gelitikan tanggannya. Ayahku tetap menguber-uberku sambil tetap menggelitik seluruh tubuhku, sampai akhirnya kita berdua jatuh ke ranjang dan ayah tetap saja menggelitik seluruh badanku. Sampai akhirnya kita berdua cekakak cekikikan dan akihirnya aku berteriak-teriak kecil minta ampun supaya Ayah menghentikan gelitikannya. Begitu ayah menghentikan gelitikannya tubuhku terasa lemas dan kami berdua ngos-ngosan akibat kehabisan nafas. Ayah tiduran disampingku di atas ranjang sambil tetap memperhatikan wajahku yang masih bersimbah peluh. Aku mencoba menarik napas panjang sambil memejamkan mata untuk menghilangkan rasa lemas yang kurasakan.
+
 Tiba-tiba aku merasakan ciuman lembut menempel di bibirku, namun aku merasakan pagutan ciuman kali ini lebih terasa dan lebih rileks, mungkin karena Ibu tidak ada di rumah. Akupun membiarkan bibirku dilumat dengan lembut, baru kali ini ciumannya membuatku terasa terbang diawang-awang. Tanpa disadari tangan ayah yang tadi mengelus lembut pinggulku…, telah melepas handuk penutup tubuhku. Akupun baru sadar bahwa aku telah tidak berpakaian. Sebelum aku sempat berpikir banyak, ayahku sudah memelukku kembali dengan eratnya seraya mengelus-elus rambutku yang panjang. Terus terang aku sangat terlena dengan sentuhan kasih sayangnya ini.
+
 Ketika ia mengangkat wajahku, aku menundukkan wajahku yang bersemu merah. Aku bisa mendengar suara detak jantung ayah yang berdegup kencang saat matanya menyapu dengan bersih seluruh lekuk-lekuk tubuhku yang sudah tidak terlindung apapun. Ayah mengelus bibirku dan tiba-tiba memagutnya kembali dengan penuh nafsu. Aku hanya bisa pasrah dibawah kenikmatan yang baru kurasakan ini. Cerita bercinta
+
 Bahkan aku mulai berani membalas pagutannya. Ayah kemudian menyeretku kedalam pangkuannya di atas ranjang. Kami terus berciuman, hingga tangannya mulai bergerak mengelus ke daerah-daerah tubuhku yang paling sensitif.
 Aku menjerit kecil ketika kurasakan tangannya yang nakal menyentuh dan meremas-remas dengan lembut payudaraku. Sambil melumat bibirku, ayahku secara perlahan-perlahan berusaha melepaskan seluruh pakaiannya.
+
 Aku menjerit kecil tertahan tatkala rudal ayahku keluar dari celana dalamnya dan dalam keadaan sangat panjang dan ‘tegak’, baru kali ini aku menyaksikan secara dekat rudal seorang lelaki, bentuknya panjang mengeras dan dibagian ujung kepala rudal ayah membesar dan berkilat-kilat bagai jamur. Belum sempat logikaku berjalan,ayah sudah kembali memeluk dan mencumbuku kembali, kini kami sama-sama bergumul dengan panasnya tanpa sehelai benangpun menempel di tubuh kami.
+
 Mataku terpejam rapat sambil berteriak tertahan saat ayah tiriku mencumbui organ kewanitaanku. Ada rasa nikmat luar biasa yang kurasakan, hingga setiap beberapa saat badanku menggelinjang-gelinjang tak kuasa menahan hentakan-hentakan kenikmatan yang keluar dari seluruh sendi-sendi tubuhku.
-Sampai akhirnya aku merasakan benda panjang dan hangat menyeruak memasuki vaginaku. Saat itulah aku mempersembahkan diriku, kehormatan, jiwa ragaku kepada ayah tiriku yang sangat ku kagumi. Jujur saat itu aku memang sudah tidak suci lagi pernah sekali melakukan sama pacarku namun untuk yang kali ini lain daripada yang lain indah, nikmat, dan sangat luar biasa yang kurasakan.
+
+Sampai akhirnya aku merasakan benda panjang dan hangat menyeruak memasuki serambi lempitku. Saat itulah aku mempersembahkan diriku, kehormatan, jiwa ragaku kepada ayah tiriku yang sangat ku kagumi. Jujur saat itu aku memang sudah tidak suci lagi pernah sekali melakukan sama pacarku namun untuk yang kali ini lain daripada yang lain indah, nikmat, dan sangat luar biasa yang kurasakan.
+
 Kami bersetubuh tanpa mempedulikan waktu, terus berpacu dan berpacu meliwati klimaks demi klimaks hingga hampir menjelang subuh badan kami sama-sama lemas karena merasakan klimaks yang berkali-kali hingga akhirnya kami rubuh dan tidur berpelukan dalam satu ranjang dengan perasaan puas.
+
 Mau Dapat Uang Dengan Main Game Online? Buruan Daftar Diri Anda di Domino QiuQiu , Dapatkan Jackpot Dari Game Ini
+
 Terus terang pengalaman pertamaku berhubungan bercinta membawa kesan yang luar biasa dalam hidupku. Aku sama sekali tidak merasakan kesakitan karena ayahku tahu persis bagaimana menjalankan permainan bercinta kami dengan sebaik mungkin. Malam pertama kami, kami lewatkan dengan mengulang permainan bercinta hingga tiga kali. Ketika tak berdaya lagi, kami baru berhenti.
 Tiga hari ditinggal Ibu dan adik-adik membuat aku dan Ayah benar-benar menikmati petualangan asmara.
+
 Selanjutnya kamipun sering melakukan persetubuhan tersebut dengan cara mencuri waktu diwaktu malam secara diam-diam, kebenaran ayah orangnya hobi nonton Telivisi sampai larut malam dan terkadang malah aku yang sering mengajak ayah melakukan persetubuhan itu di luar rumah dengan bertemu di hotel yang tidak jauh dari tempat tinggalku, kami bertemu dengan janjian pada siang hari hingga sore di kamr hotel aku memuaskan napsu birahi ku sepuas-puasnya karena kalo di rumah aku tidak mendapat kepuasan yang klimaxs, terkadang sengaja kami mengatur seakan ayah pergi keluar kota untuk beberapa hari dan akupun saat ayah berangkat dari rumah berpamitan sama ibu untuk ketempat temanku beberapa hari dengan berbagai alasan, dan dengan lihai aku menutur pada ibu bahwa kalo ayah ada di rumah aku gak mungkin berani takut ayah marah dan ibukupun mengerti juga mengijinkanku, padahal kami sudah janjian untuk bertemuan dengan ayahtiriku di salah satu hotel kota bogor untuk selama 1 atau 2 hari untuk memuaskan hasrat birahi kami yang selalu menggebu-gebu, dan saat pulang sengaja aku pulang lebih dahulu dari ayah. Dan hal itu berlanjut dengan indahnya.
+
 Selama hampir duatahun menjalin asmara diam-diam dengan ayah, Ibu mulai curiga bukan berarti karena aku ada perubahan, aku tergolong cewek yang genius dan provisional, aku diam-diam mengonsumsi pil kb hingga setiap bulan aku tetap kedatangan tamu. Apalagi, Ibu mengetahui kalau sampai berusia 17 tahun aku belum juga mau punya pacar. Padahal aku terhitung cantik dan supel. Apalagi ketika aku sudah menamatkan SMU ku, Ibu mendesakku untuk mulai mencari pasangan hidup.
+
 Ketika diam-diam kudiskusikan hal ini kepada Ayah, dia sangat mendukungku menjalin hubungan dengan pria lain. Soalnya, Ayah mulai mencium tanda-tanda kecurigaan di mata Ibu melihat hubunganku dengan Ayah semakin lengket aja.
+
 Maka ketika Wahyu,kakak kelasku yang paling gencar mendekatiku. Kupikir apa salahnya aku membina hubungan dengannya. Apalagi wajahnya lumayan ganteng, postur tubuhnya atletis, dan otaknya encer pula. Singkat cerita aku kemudian serius menjalin hubungan dengannya. Sementara itu, kisah cintaku dengan Ayah terus berlanjut. Kali ini kami lebih banyak melakukan persetubuhan kami di luar rumah. Kadang-kadang kami janji bertemu di hotel A atau B yang letaknya agak jauh dari kota tempat tinggalku.
+
 Enam bulan setelah berpacaran dengan Wahyu, keluarganya datang melamarku. Aku menerima lamarannya dengan perasaan biasa-biasa saja. Terus-terang perasaan cintaku telah kupersembahkan seutuhnya kepada ayah tiriku. Aku menikah hanya untuk menutupi perselingkuhanku dengan ayah.
+
 Untungnya, Wahyu adalah orang yang tidak mempersoalkan keperawananku ketika kami melewatkan malam pertama. Menghadapi permainan bercinta Wahyu yang tergolong pemula, aku merasa tidak puas. Kadang-kadang aku membayangkan sedang berhubungan badan dengan ayah tiriku yang macho dan berpengalaman. Akhirnya, aku tetap sering menelepon ayah untuk saling bertemu di luar rumah. Usianya yang telah berkepala empat telah mengetahui secara betul segala bentuk permainan bercinta yang dapat memberikan kepuasan klimaks terhadap gadis-gadis muda seusiaku.
+
 Bercinta dengan ayah tiriku, aku mendapatkan klimaks yang berulang-ulang, hal yang tidak dapat kudapatkan apabila aku berhubungan badan dengan suamiku sendiri. Aku tahu perbuatanku adalah keliru. Namun aku tidak dapat menghapus sosok Ayah tiriku dalam kehidupanku.
+
 Aku tidak tahu sampai kapan aku bisa menghentikan perselingkuhanku ini yang penting bagiku kami harus selalu rapi mengatur dan merahasiakannya,.. semua bisa diatur asal kita sama sepakat slalu kuingat peasan ayah. Aku hanyalah seorang wanita yang menginginkan adanya figur pria matang disisiku, terimakasih ayahtiriku yang selalu setia memenuhi asrat dan kekurangan ku.

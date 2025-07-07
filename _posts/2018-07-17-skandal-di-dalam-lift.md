@@ -3,28 +3,39 @@ layout: post
 title: "Skandal Di Dalam Lift"
 author: "Om Sugeng"
 date: 2018-07-17 03:53:08 +0000
-description: "Skandal Di Dalam Lift Cerita Dewasa &#8211; Kisah ini terjadi beberapa waktu yang lalu, dimana saya sudah mempunyai seorang suami yang sampai sekarang masih tetap hidup rukun, Pengalaman bercinta say..."
+description: "Skandal Di Dalam Lift Cerita Dewasa &#8211; Kisah ini terjadi beberapa waktu yang lalu, dimana saya sudah mempunyai seorang suami yang sampai sekarang masih tetap hidup rukun, Pengalaman bercinta saya..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
 
-
 Skandal Di Dalam Lift
 Cerita Dewasa &#8211; Kisah ini terjadi beberapa waktu yang lalu, dimana saya sudah mempunyai seorang suami yang sampai sekarang masih tetap hidup rukun, Pengalaman bercinta saya ini bukan pengalaman yang terjadi di antara saya dan suami saya, Melainkan karena keadaan dimana saya terangsang oleh kehadiran seorang pria yang membuat saya terpaksa untuk melakukannya. Dimulai dengan kejadian undangan pesta pernikahan teman saya.
+
 “Kringggg…kringggg….”dering telepon rumah saya berbunyi.
 ”Halo…”sapa saya, rupanya teman SMA saya Rita yang menelepon.
 “Kamu pasti datang kan vin?” tanya rita.
 “Datang kok,undangannya udah kuterima kemarin sore.”jawabku.
+
 Setelah berbincang sejenak maka telepon saya tutup. Maklumlah saya adalah wanita karier, jadi karena jadwal saya yang padat sering kali saya banyak tidak menghadiri acara-acara pernikahan teman-teman saya yang lain. Namun kali ini yang menikah adalah Rita sahabat dekat saya, jadi mau tidak mau saya harus menyempatkan diri untuk menghadirinya.
-Pagi ini setelah bertemu dengan klien, handphone saya berbunyi lagi. Rupanya Rita lagi yang menelpon memastikan saya untuk datang besok ke pernikahannya, sekalian juga mengundang untuk acara widodaren malam ini, Namun saya lupa telah bernjanji untuk menemani suami saya bertemu dengan kliennya untuk acara dinner malam ini. Jadi saya meminta maaf kepada Rita dan saya membuat kesepakatan kepada Rita bahwa saya tidak mengingkari janji saya dengan rita ke-persepsi pernikahannya besok.
-Malannya, Saya menemani suami saya untuk dinner dengan kliennya di salah satu hotel berbintang lima di kota saya. Kami memesan tempat terlebih dahulu dan memberitahukan kepada pelayan jika nanti ada yang mencari suami saya harap diantarkan ke tempat kami, Memang hampir semua pelayan disana telah banyak mengenal kami.Karena memang tidak jarang suami saya mengajak kliennya untuk makan malam di sana,tentunya untuk berurusan bisnis.
+
+Pagi ini setelah bertemu dengan klien, handphone saya berbunyi lagi. Rupanya Rita lagi yang menelpon memastikan saya untuk datang besok ke pernikahannya, sekalian juga mengundang untuk acara widodaren malam ini, Namun saya lupa telah bernjanji untuk menekenikmatan suami saya bertemu dengan kliennya untuk acara dinner malam ini. Jadi saya meminta maaf kepada Rita dan saya membuat kesepakatan kepada Rita bahwa saya tidak mengingkari janji saya dengan rita ke-persepsi pernikahannya besok.
+
+Malannya, Saya menekenikmatan suami saya untuk dinner dengan kliennya di salah satu hotel berbintang lima di kota saya. Kami memesan tempat terlebih dahulu dan memberitahukan kepada pelayan jika nanti ada yang mencari suami saya harap diantarkan ke tempat kami, Memang hampir semua pelayan disana telah banyak mengenal kami.Karena memang tidak jarang suami saya mengajak kliennya untuk makan malam di sana,tentunya untuk berurusan bisnis.
+
 Kira-kira 15 menit kemudian, Datang seorang lelaki yang umurnya tidak berbeda jauh dengan suami saya, dia didampingi dengan seorang wanita yang sangat anggun, Dan suami saya bangkit berdiri dan diperkenalkan saya kepada mereka berdua. Rupanya lelaki itu bernama Putra dan istrinya Niken. Mereka pun duduk berdampingan bersebrangan dengan suami saya.
+
 Tidak lama kemudian, suami saya dan Putra terlibat pembicaraan yang seru soal bisnis mereka. Sementara saya pun asik berbincang dengan niken dan bergosip. Namun saya rasakan sesekali Putra sering mencuri pandang kearah saya.Maklum saja malam itu saya mengenakan baju berbelahan dada yang rendah berwarna hitam yang tentunya sangat kontras dengan kulit saya yang putih dan rambut saya yang berwarna coklat kemerahan.
+
 Dalam hati kecil saya sebenarnya mengagumi Putra. dengan badan yang kekar serta penampilannya mempersona seolah memiliki kharisma tersendiri, ditambah lagi wajahnya yang tegas namun menunjukkan kesabaran serta sorot matanya yang tajam,membuat saya berpikir yang tidak bagus. setelah tidak terasa waktu menunjukkan pukul 22.00, Putra dan Niken pun berpamitan kepada kami karena mereka sudah berjanji akan pergi bersama saudara Niken yang akan berulang tahun. Setelah membereskan pembayaran, saya dan suami saya pun pulang ke rumah.
+
 Ke-esokan harinya, Saya dan suami saya pergi bersama ke pernikahan Rita. Benar-benar suatu pesta yang sangat meriah. Tamu yang diundang begitu banyak dan semua ornamen di dalam gedung serta keseluruhannya benar-benar tertata dengan indahnya. Setelah hidangan utama keluar, Saya permisi kepada suami saya hendak ke toilet. Ternyata toilet di lantai atas dimana pesta berlangsung sangat penuh, Saya pun berinisiatif mencari toilet yang kosong, saya menanyakan kepada pelayan menanyakan toilet dimana tidak dipenuhi orang.”pelayan mengatakan ”di lantai 2 buk.. saya jawab oke,tenkyou.
+
 Ketika menunggu lift, saya tersentak ada seorang lekaki menyapa saya. Ternyata Putra, Teman suami saya yang bertemu semalam. Dia mengatakan, bahwa dia mau turun merasa mobilnya belum di kunci begitu katanya,
+
 Kami pun bersama memasuki lift. Saya jadi serba salah karena lift itu kosong dan tinggal kami berdua saja. Apalagi ketika Putra mendekati saya dan mengatakan kalau penampilan saya sangat cantik malam ini.
+
 “Raih Keberuntunganmu dengan bermain Dominobet, games kartu online dengan menggunakan uang asli, terdiri permainan Capsa, Poker, Kiyu-kiyu, Sakong dan lain-lain. Dapatkan Jackpot hingga ratusan juta rupiah.”
+
 Malam itu saya mengenakan terusan berwarna merah menyala dengan bagian punggung terbuka, dan bagian depan hanya di ikatkan ke leher saya. Jantung saya berdegup makin kencang. Tidak munafik saya pun semalaman terbayang terus akan Putra. Suasana jadi hening di dalam lift. Putra mendekati saya dia mengatakan bahwa sejak kemarin dia pun selalu teringat akan diri saya, bahkan ketika malamnya dia bercinta dengan istrinya pun dia membayangkan sedang bercinta dengan saya. Saya pun tersentak sekaligus senang saya hanya tersenyum saja.
 Tiba-tiba tangan Putra menarik tangan saya. Dia mendekati wajah saya dan mencium pipi saya dengan lembut. Saya tidak kuasa untuk menolaknya. Lalu tiba-tiba Putra berjalan ke tombol lift dan dia memencet tombol lift hingga lift-nya pun berhenti. Saya menjadi serba salah, dalam hati saya sangat takut, tetapi saya juga diam-diam sangat menginginkan semuanya terjadi.
 Lalu Putra mendekati saya lagi, dia mencium bibir saya dengan lembut. Nafas saya semakin tidak teratur, saya pun tidak kuasa menolaknya. Kami pun berciuman dengan hebatnya. Tangan Putra perlahan meraih belakang leher saya dan menarik tali pengikat baju saya, rupanya dia berusaha membuka pakaian pesta saya yang dirasakannya menghalangi pemandangan indah yang sudah dinanti-nantikannya. Saya pun tersentak, tetapi dia membungkam mulut saya lagi dengan ciuman-ciumannya, saya hanya bisa mengikuti permainan ini sambil mendesah menghayati kenikmatannya.
@@ -41,6 +52,7 @@ Putra hanya tersenyum saja. Dia lalu menggoyangkan batang kemaluannya keluar mas
 Goyangan yang dilakukan Putra makin lama semakin cepat… makin cepat… tubuh saya tidak kuasa menerima hujaman batang kemaluannya yang begitu dahsyat. Saya rasakan sangat penuh di dalam lubang saya.
 
 &#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
+
 “Aacchhh… Puttt… aku gak tahan lagi… uuhhh…” desah saya kepadanya karena merasakan kenikmatan yang belum pernah saya rasakan sebelumnya.
 “Tahan sayang… kita keluar sama-sama…” katanya mencoba mengatur tempo permainan kami.
 Putra pun menggoyangkan pinggulnya semakin cepat. Putra melakukan gerakan keluar masuk berulang-ulang sambil sesekali pinggulnya diputar-putar untuk menambahkan kenikmatan bersenggama.

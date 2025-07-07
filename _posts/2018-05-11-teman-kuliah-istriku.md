@@ -3,20 +3,21 @@ layout: post
 title: "Teman Kuliah Istriku"
 author: "Om Sugeng"
 date: 2018-05-11 05:06:26 +0000
-description: "Teman Kuliah Istriku Cerita Dewasa &#8211; Aqu sedang menonton televisi di kamarku ketika Sheila keluar dari kamar mandi mengnikmatan baju tidur. Hm.. dia pasti habis cuci muka dan bersih-bersih sebe..."
+description: "Teman Kuliah Istriku Cerita Dewasa &#8211; Aqu sedang menonton televisi di kamarku ketika Sheila keluar dari kamar mandi mengnikmatan baju tidur. Hm.. dia pasti habis cuci muka dan bersih-bersih sebel..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
-
 
 Teman Kuliah Istriku
 Cerita Dewasa &#8211; Aqu sedang menonton televisi di kamarku ketika Sheila keluar dari kamar mandi mengnikmatan baju tidur. Hm.. dia pasti habis cuci muka dan
 bersih-bersih sebelum tidur. Di kamar tidur Kita memang terdapat kamar mandi dan televisi, sehingga Aqu menonton televisi sambil tiduran. Sheila
 berbaring di sampingku, dan memejamkan matanya. Lho? Dia langsung mau tidur nih! Padahal Aqu sejak tadi menunggu dia. Lihat saja, si “ujang”
 sudah bangun menantikan jatahnya.
+
 “Sheila! Koq langsung tidur sih?”
 “Mm..?”
-Sheila membuka matanya. Lalu ia duduk dan menatapku. Kemudian ia tersenyum manis. Woow.. kemaluanku semakin mengeras. Sheila mendekatkan wajahnya ke
+
+Sheila membuka matanya. Lalu ia duduk dan menatapku. Kemudian ia tersenyum kenikmatans. Woow.. kemaluanku semakin mengeras. Sheila mendekatkan wajahnya ke
 wajahku. Tangannya yang lembut halus membelai wajahku. Jantungku berdetak cepat. Kurangkul tubuhnya yang mungil dan hangat. Terasa nyaman
 sekali. Sheila mencium pipiku.
 “Cupp..!”
@@ -26,6 +27,7 @@ Lalu ia kembali berbaring dan memejamkan matanya. Tidur! Nah lho? Sial benar. Cu
 “Umm.. udah maleem.. Sheila ngantuk niih..”
 Kalau sudah begitu, percuma saja. Dia tidak akan bangun. Padahal Aqu sedang birahi tinggi dan butuh pernyaluran. Si “ujang” masih tegang dan
 penasaran minta jatah.
+
 Begitulah Sheila. Sebagai istri, dia hampir sempurna. Wajah dan fisiknya nikmat dilihat, sifatnya baik dan menarik. Perhatiannya pada kebutuhanku
 sehari-hari sangat cukup. Hanya saja, kalau di tempat tidur dia sangat “hemat”. Nafsuku terbilang tinggi. Sedangkan Sheila, entah kenapa
 (menurutku) hampir tidak punya nafsu bercinta. Tidak heran meskipun sudah lebih setahun Kita menikah, sampai saat ini Kita belum punya anak. Untuk
@@ -33,21 +35,26 @@ pelampiasan, Aqu terkadang selingkuh dengan wanita lain. Sheila bukannya tidak t
 Nafsuku sulit ditahan. Rasanya ingin kupaksa saja Sheila untuk melayaniku.
 Tapi melihat wajahnya yang sedang pulas, Aqu jadi tidak tega. Kucium rambutnya. Akhirnya kuputuskan untuk tidur sambil memeluk Sheila. Siapa
 tahu dalam mimpi, Sheila mau memuaskanku? Hehehe..
+
 Esoknya saat jam istirahat kantor, Aqu makan siang di Citraland Mall. Tidak disangka, disana Aqu bertemu dengan Erna, sahabatku dan Sheila semasa
 kuliah dahulu. Kulihat Erna bersama dengan seorang wanita yang mirip dengannya. Seingatku, Erna tidak punya adik. Ternyata setelah Kita
 diperkenalkan, wanita itu adalah adik sepupu Erna. Felly namanya. Heran juga Aqu, koq saudara sepupu bisa semirip itu ya? Pendek kata, akhirnya
 Kita makan satu meja.
+
 Sambil makan, Kita mengobrol. Ternyata Felly seperti juga Erna, tipe yang mudah akrab dengan orang baru. Terbukti dia tidak canggung mengobrol
 denganku. Ketika Aqu menanyakan tentang Franky (suErna Erna, sahabatku semasa kuliah), Erna bilang bahwa Franky sedang pergi ke Surabaya sekitar dua
 minggu yang lalu untuk suatu keperluan.
 “Paling juga disana dia main perempuan!” begitu komentar Erna.
 Aqu hanya manggut-manggut saja. Aqu kenal baik dengan Franky, dan bukan hal yang aneh kalau Franky ada main dengan wanita lain disana. Saat Felly
 permisi untuk ke toilet, Erna langsung bertanya padAqu.
+
 “Ndrew, loe ama Sheila gimana?”
 “Baek. Kenapa?”
 “Dari dulu loe itu kan juga terkenal suka main perempuan. Koq bisa ya Aqur ama Sheila?”
 Aqu diam saja.
+
 Yuk coba keberuntungan anda bermain kartu asli online Dominobet
+
 Aqu dan Sheila memang lumayan Aqur. Tapi di ranjang jelas ada masalah. Kalau dituruti nafsuku, pasti setiap hari Aqu minta jatah dari Sheila. Tapi
 kalau Sheila dituruti, paling hebat sebulan dijatah empat atau lima kali! Itu juga harus main paksa. Seingatku pernah terjadi dalam sebulan Aqu
 hanya dua kali dijatah Sheila. Jelas saja Aqu selingkuh! Mana tahan? “Koq diem, Ndrew?” pertanyaan Erna membuyarkan lamunanku.
@@ -55,19 +62,24 @@ hanya dua kali dijatah Sheila. Jelas saja Aqu selingkuh! Mana tahan? “Koq diem
 “Loe lagi punya masalah ya?”
 “Nggaak..”
 “Jujur aja deh..” Erna mendesak.
+
 Kulirik Erna. Wuih, nafsuku muncul. Aqu jadi teringat saat pesta di rumah Franky. Karena nafsuku sudah sampai ke ubun-ubun, maka akal sehatku pun
 hilang.
+
 “Cerita doong..!” Erna kembali mendesak. “Mi.., loe mau pesta “assoy” lagi nggak?” Aqu memulai. Erna kelihatan kaget.
 “Eh? Loe jangan macem-macem ya Ndrew!” kecam Erna. Aduh.., kelihatannya dia marah.
 “Sorry! Sorry! Gue nggak serius.. sorry yaa..” Aqu sedikit panik. Tiba-tiba Erna tertawa kecil.
 “Keliatannya loe emang punya masalah deh.. Oke, nanti sore kita ketemu lagi di sini ya? Gue juga di rumah nggak ada kerjaan.”
+
 Saat itu Felly kembali dari toilet. Kita melanjutkan mengobrol sebentar, setelah itu Aqu kembali ke kantor.
+
 Jam 5 sore Aqu pulang kantor, dan langsung menuju tempat yang dijanjikan. Sekitar sepuluh menit Aqu menunggu sebelum akhirnya telepon
 genggamku berdering. Dari Erna, menanyakan dimana Aqu berada. Setelah bertemu, Erna langsung mengajakku naik ke mobilnya. Mobilku kutinggalkan
 disana. Di jalan Erna langsung menanyaiku tanpa basa-basi.
 “Ndrew, loe lagi butuh bercinta ya?”
 Aqu kaget juga ditanya seperti itu.
 “Maksud loe?”
+
 “Loe nggak usah malu ama gue. Emangnya Sheila kenapa?”
 Aqu menghela nafas. Akhirnya kuputuskan untuk mengeluarkan uneg-unegku. “Mi.. Sheila itu susah banget.. dia bener-bener pelit kalo soal begitu. Loe
 bayangin aja, gue selalu nafsu kalo ngeliat dia. Tapi dia hampir nggak pernah ngerespon. Kan nafsu gue numpuk? Gue butuh penyaluran dong!
@@ -95,7 +107,8 @@ Aqu benar-benar telanjang. Batang kemaluanku mengacung keras menandakan nafsuku 
 “Gue pijat dulu yaa..” kata Erna.
 Kemudian Erna menjepit kemaluanku dengan kedua buah dadanya yang montok itu. Ohh.., kurasakan pijatan daging lembut itu pada kemaluanku. Rasanya
 benar-benar nyaman. Kulihat Erna tersenyum kepadAqu. Aqu hanya mengamati bagaimana kedua buah dada Erna yang sedang digunakan untuk memijat batang
-penisku.
+rudalku.
+
 “Nikmat kan, Ndrew?” Erna bertanya.
 Aqu mengangguk. “Nikmat banget. Lembut..”
 Felly meraih dan membimbing kedua tanganku dengan tangannya untuk mengenggam buah dadanya. Dia membungkuk, sehingga kedua buah dadanya
@@ -114,15 +127,17 @@ kemaluanku dengan kuat. Nikmatnya tidak terlukiskan. Sampai kurasakan alat kelEr
 Erna semakin intens mengulum dan menyedot, sehingga akhirnya kemaluanku menyemprotkan air kenikmatan berkali-kali ke dalam mulut Erna. Lemas badanku
 dibuatnya. Tanganku yang beraksi pada buah dada Felly pun akhirnya berhenti. Erna terus mengulum dan menyedot kemaluanku, sehingga
 menimbulkan rasa ngilu yang amat sangat. Aqu tidak tahan dibuatnya.
+
 “Aahh.. Erna.. udahan dulu dong..!”
 “Koq cepet banget keluar?” ledeknya.
 “Uaah.., gue kelewat nafsu sih.. maklum dong, selama ini ditahan terus.”
 Aqu membela diri.
+
 “Oke deh, kita istirahat sebentar.”
 Erna lalu menindih tubuhku. Buah dadanya menekan dadAqu, begitu kenyal rasanya. Nafasnya hangat menerpa wajahku. Felly mengambil posisi di
 selangkanganku, menjilati kemaluanku. Gairahku perlahan-lahan bangkit kembali. Kuraba-raba kemaluan Erna hingga akhirnya Aqu menemukan daging
 kenikmatannya. Kucubit pelan sehingga Erna mendesah perlahan. Kugunakan jari jempol dan telunjukku untuk memainkan daging tersebut, sementara
-jari manisku kugunakan untuk mengorek liang sanggamanya. Desahan Erna semakin terdengar jelas. Kemaluannya terasa begitu basah. Sementara itu
+jari kenikmatansku kugunakan untuk mengorek liang sanggamanya. Desahan Erna semakin terdengar jelas. Kemaluannya terasa begitu basah. Sementara itu
 Felly terus saja menjilati kemaluanku. Tidak hanya itu, Felly mengosok-gosok mulut dan leher si “ujang”, sehingga sekali lagi bulu
 kudukku merinding menahan nikmat.
 Kali ini Aqu merasa lebih siap untuk tempur, sehingga langsung saja Aqu membalik posisi tubuhku, menindih Erna yang sekarang jadi telentang. Dan
@@ -135,15 +150,16 @@ untuk mengobok-obok kemaluan Felly. Kugosok-gosok klitorisnya sehingga Felly men
 dan kiri. Felly meremas rambutku, nafasnya terengah-engah dan memburu. Setelah kurasakan cukup merangsang Felly, Aqu bersedia untuk main course.
 Felly nampaknya sudah siap untuk menerima seranganku, dan langsung mengambil doggy style. Kemaluannya yang dihiasi bulu-bulu keriting nampak
 sudah basah kuyup. Kumasukkan kemaluanku ke dalam liang kenikmatannya dengan pelan tapi pasti. Felly merintih-rintih keras saat proses
-penetrasi berlangsung. Setelah masuk seluruh penisku, kudiamkan beberapa saat untuk menikmati kehangatan yang diberikan oleh jepitan kemaluan Felly.
+penetrasi berlangsung. Setelah masuk seluruh rudalku, kudiamkan beberapa saat untuk menikmati kehangatan yang diberikan oleh jepitan kemaluan Felly.
 Hangat sekali, lebih hangat dari milik Erna. Setelah itu kumulai menyodok Felly maju mundur.
 
 &#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
+
 “Oke deh, kita istirahat sebentar.”
 Erna lalu menindih tubuhku. Buah dadanya menekan dadAqu, begitu kenyal rasanya. Nafasnya hangat menerpa wajahku. Felly mengambil posisi di
 selangkanganku, menjilati kemaluanku. Gairahku perlahan-lahan bangkit kembali. Kuraba-raba kemaluan Erna hingga akhirnya Aqu menemukan daging
 kenikmatannya. Kucubit pelan sehingga Erna mendesah perlahan. Kugunakan jari jempol dan telunjukku untuk memainkan daging tersebut, sementara
-jari manisku kugunakan untuk mengorek liang sanggamanya. Desahan Erna semakin terdengar jelas. Kemaluannya terasa begitu basah. Sementara itu
+jari kenikmatansku kugunakan untuk mengorek liang sanggamanya. Desahan Erna semakin terdengar jelas. Kemaluannya terasa begitu basah. Sementara itu
 Felly terus saja menjilati kemaluanku. Tidak hanya itu, Felly mengosok-gosok mulut dan leher si “ujang”, sehingga sekali lagi bulu
 kudukku merinding menahan nikmat.
 Kali ini Aqu merasa lebih siap untuk tempur, sehingga langsung saja Aqu membalik posisi tubuhku, menindih Erna yang sekarang jadi telentang. Dan
@@ -156,8 +172,9 @@ untuk mengobok-obok kemaluan Felly. Kugosok-gosok klitorisnya sehingga Felly men
 dan kiri. Felly meremas rambutku, nafasnya terengah-engah dan memburu. Setelah kurasakan cukup merangsang Felly, Aqu bersedia untuk main course.
 Felly nampaknya sudah siap untuk menerima seranganku, dan langsung mengambil doggy style. Kemaluannya yang dihiasi bulu-bulu keriting nampak
 sudah basah kuyup. Kumasukkan kemaluanku ke dalam liang kenikmatannya dengan pelan tapi pasti. Felly merintih-rintih keras saat proses
-penetrasi berlangsung. Setelah masuk seluruh penisku, kudiamkan beberapa saat untuk menikmati kehangatan yang diberikan oleh jepitan kemaluan Felly.
+penetrasi berlangsung. Setelah masuk seluruh rudalku, kudiamkan beberapa saat untuk menikmati kehangatan yang diberikan oleh jepitan kemaluan Felly.
 Hangat sekali, lebih hangat dari milik Erna. Setelah itu kumulai menyodok Felly maju mundur.
+
 “Gue begini juga karena gue lagi pengen koq. Franky udah dua minggu pergi.
 Nggak tau baliknya kapan.” Erna menjelaskan.
 “Nggak masalah koq. Gue juga emang lagi butuh sih. Lain kali juga gue nggak keberatan.”

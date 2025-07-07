@@ -3,42 +3,69 @@ layout: post
 title: "Nafsu Terhadap Tetanggaku"
 author: "Om Sugeng"
 date: 2018-05-28 09:36:59 +0000
-description: "Nafsu Terhadap Tetanggaku Cerita Dewasa &#8211; Panggil saja saya Rizal, saya tinggal di salah satu daerah di kota bandung, umur saya 21 tahun, kali ini saya akan memposting pengalaman pribadi saya d..."
+description: "Nafsu Terhadap Tetanggaku Cerita Dewasa &#8211; Panggil saja saya Rizal, saya tinggal di salah satu daerah di kota bandung, umur saya 21 tahun, kali ini saya akan memposting pengalaman pribadi saya di..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
 
-
 Nafsu Terhadap Tetanggaku
 Cerita Dewasa &#8211; Panggil saja saya Rizal, saya tinggal di salah satu daerah di kota bandung, umur saya 21 tahun, kali ini saya akan memposting pengalaman pribadi saya di web bokepdo.club, oke langsung aja bray. walaupun usia saya masih tergolong muda yaitu 21 tahun tapi saya sudah menikah, bisa dibilang pernikahan dini.. hehe dan istri saya waktu itu baru saja melahirkan, karena alasan itulah saya tidak mendapatkan jatah dari istri saya.
+
 Singkat cerita, karena berbulan-bulan puasa menggenjot, tentu saja birahi saya semakin hari semakin tinggi, hal yang sangat wajar bagi seorang pria yang sudah menikah dan tidak mendapat jatah selama berbulan-bulan.
+
 Di suatu sore ketika istri dan anak saya tertidur dan saya sedang duduk di teras depan rumah, secara tidak sengaja saya melihat teh nengsih tetangga depan rumah saya yang juga merupakan istri dari kang Agus baru saja selesai mandi dan hanya mengenakan Handuk berwarna biru, Teh nengsih sendiri berumur sekitar 28 – 30 tahunan, namun wajah imut serta body nya yang putih bening dan kencang di tambah toket gede plus pantatnya besarnya, membuat dia terlihat masih seperti ABG, meskipun tubuhnya semok tapi dia tidak gendut
+
 Begitu jelas saya melihat dia sedang ngobrol dengan suaminya di sela-sela jendela yang korden kamarnya tidak tertutup sempurna itu, kebetulan kamar pasutri itu ada di depan. bukannya bergegas memakai baju dan membuka handuknya eh dia malah duduk di kasur dan ngobrol dengan suaminya, dalam keadaan masih memakai handuk dia terlibat perbincangan yang agak serius dengan suaminya itu, entahlah apa yang mereka bicarakan yang pasti saya hanya fokus pada tubuh teh nengsih yang semok dan sintal itu.
+
 Tapi walau bagaimanapun saya hanya mampu berhayal tentang dirinya, karena dia adalah istri orang, ya istri kang agus.. ketika lagi asyik-asyiknya berhayal tentang keindahan tubuh semok teh nengsih eh tiba-tiba posisi gordenya diperbaiki oleh kang agus sehingga sekarang tak terlihat lagi deh tubuh indah teh nengsih yang aduhay itu karena gordenya sekarang tertutup dengan sempurna… “sial” dalam hatiku
+
 Sekitar 30 menit kemudian, tepatnya sesaat setelah adzan magrib, kang Agus pun berangkat untuk pergi kerja, kebetulan kang Agus kebagian kerja shhift malam, dia sempat tersenyum ke arah saya yang masih terduduk diteras dari tadi sore, dia menyapa “gak shalat magrib zal..?” ,,, “bentr lagi lah kang” jawab saya, lalu iapun pamit dan menstarter motornya untuk meluncur pergi.
-Karena suntuk akhirnya saya membuka hp android saya dan tanpa tekan sana sini, saya langsung mengetik alamat bokepdo.club di hp android saya, sial bener yang saya buka saat itu adalah artikel Melisa SPG Bugil serambi lempit Mulus, langsung saja birahi saya kembali meningkat melihat cewek seksi di artikel bokepdo itu.
+
+Karena suntuk akhirnya saya membuka hp android saya dan tanpa tekan sana sini, saya langsung mengetik alamat bokepdo.club di hp android saya, sial bener yang saya buka saat itu adalah artikel Melisa SPG Bugil serambi lempit Mulus, langsung saja birahi saya kembali meningkat melihat cewek bercintai di artikel bokepdo itu.
+
 Pikiran jahat saya pun akhirnya muncul ketika secara tidak di sengaja melihat pintu rumah teh nengsih terbuka sedikit, mungkin karena tidak di kunci, entah dorongan setan dari mana, akhirnya saya memberanikan diri untuk mendekati pintu rumah teh nengsih, sayapun menoleh ke kiri dan kanan setelah merasa aman sayapun akhirnya memasuki rumah teh nengsih lalu pintu saya kunci dari dalam untuk jaga-jaga kalau ada yang masuk nanti, lalu saya memberanikn diri untuk memasuki kamar teh nengsih, saya sangat terkejut karena mendapatkan teh nengsih Tertidur dengan hanya menggunakan handuk saja.
+
 “Raih Keberuntunganmu dengan bermain Dominobet, games kartu online dengan menggunakan uang asli, terdiri permainan Capas, Poker, Kiyu-kiyu, Sakong dan lain-lain. Dapatkan Jackpot hingga ratusan juta rupiah.”
+
 Tanpa pikir panjang lagi akhirya saya duduk di kasur yang di tiduri teh nengsih dan saya memandang kagum tubuh putih mulus teh nengsih yang tanpa cacat itu, ketika saya lagi asyik memandang tubuh teh nengsih tba-tiba dia merubah posisi tidurnya,.. upss untung saja dia tidak terbangun dan tidak menyadari keberadaan saya…akibat perubahan posisi tidur tadi, kini ia tidur terlentang dan ada bantal putih tepat berada di atas tubuhnya, takut dia keburu terbangun akhirnya tanpa banyak berpikir lagi saya pun membuka handuk biru yang menempel di tubuh semok teh nengsih itu.
-Walau memeknya masih terhalang bantal yang menindih tubuhnya namun toket gede dan sekal milik teh nengsih sangatlah menggoda, kebetulan meski usia pernikahannya lebih tua dari saya namun teh nengsih belum di karuniai seorang anak, mata saya.. wow pemandangan yang terindah yang pernah saya lihat..!!
+
+Walau serambi lempitnya masih terhalang bantal yang menindih tubuhnya namun toket gede dan sekal milik teh nengsih sangatlah menggoda, kebetulan meski usia pernikahannya lebih tua dari saya namun teh nengsih belum di karuniai seorang anak, mata saya.. wow pemandangan yang terindah yang pernah saya lihat..!!
+
 Tanpa banyak kata lagi, Lalu saya singkirkan bantal yang menindih tubuh teh nengsih dan menarik pelan-pelan handuk biru yang masih tertindih tubuhnya agar dia tidak terbangun lalu melempark handuk itu ke lantai, tapi ternyata teh nengsih masih mengenakan celana dalam, sial pikirku, krena tergoda serambi lempit tembam yang menyembul di balik celana dalamnya tanpa pikir panjang lagi karena nafsu sudah di ubun-ubun, sekarang sudah tidak peduli lagi kalau teh nengsih akan terbangun terbangun nanti.. sreet.. saya tarik celana dalamnya kebawah .. teh nengsih hanya melenguh namun matanya masih terpejam, mungkin dia tidur sangat pulas karena capek setelah menyelesaikan pekerjaan rumah tangganya sangat banyak, dari mulai mencuci baju, piring, mengepel dll.
+
 Woow amazing.. kini pemandangan yang jauh lebih indah terpampang jelas di hadapanku, bukan hanya toketnya saja yang indah, serambi lempit tembam dengan bulu jembut lebatnya jauh lebih indah dan menawan, serambi lempit dengan jembut lebat pertama yang pernah ku lihat, karena serambi lempit istri saya tidak ada jembutnya, mungkin karena usianya masih muda atau karena faktor lainnya, yang pasti sensasi yang saya dapat sangat berbeda dibandingkan serambi lempit mulus punya istri saya.
+
 Ser.. ser ..ser jantungku berdetak kencang.. Melihat pemandangan yang sangat indah itu Langsung saja saya buka seluruh pakaian yang menempel di tubuh saya, hingga kini saya telanjang bulat tanpa sehelai benangpun, tanpa pikir panjang lagi langsung saya arahkan rudal saya ke serambi lempit jembut lebat milik teh nengsih, teh nengsih pun masih belum terjaga dari tidurnya.
-Saya gesek gesek rudal saya di bibir serambi lempit teh nengsih, teh nengsih mendesah namun masih dengan mata terpejam.. cairanpun keluar dari serambi lempit indah tetanggaku itu, merasa lubang sudah licin dan siap menerima kontolku yang keras karena sudah ngaceng dari tadi, langsung saja ku tekan kontolku hingga menembus lubang serambi lempit teh nengsih tetanggaku itu … bleep.. awww.. shhh .. enank banget..!!
-Amblaslah kontolku di lobang serambi lempit itu, ku genjot serambi lempit teh nengsih secara perlahan sambil meresapi sensasi empot ayam serambi lempit teh nengsih, memeknya sangat khas wanita bandung dengan empot ayamnya.. hmmmm yummy serambi lempit terenak yang pernah ku rasakan.. mata teh nengsih pun terbuka, tak sempat ia berteriak langsung saya cipok dan lumat bibir merah merekah basahnya itu, aroma segar pasta gigi masih bisa ku hirup dari bibirnya, mungkin bekas mandi tadi.
+
+Saya gesek gesek rudal saya di bibir serambi lempit teh nengsih, teh nengsih mendesah namun masih dengan mata terpejam.. cairanpun keluar dari serambi lempit indah tetanggaku itu, merasa lubang sudah licin dan siap menerima rudalku yang keras karena sudah ngaceng dari tadi, langsung saja ku tekan rudalku hingga menembus lubang serambi lempit teh nengsih tetanggaku itu … bleep.. awww.. shhh .. enank banget..!!
+
+Amblaslah rudalku di lobang serambi lempit itu, ku genjot serambi lempit teh nengsih secara perlahan sambil meresapi sensasi empot ayam serambi lempit teh nengsih, serambi lempitnya sangat khas wanita bandung dengan empot ayamnya.. hmmmm yummy serambi lempit terenak yang pernah ku rasakan.. mata teh nengsih pun terbuka, tak sempat ia berteriak langsung saya cipok dan lumat bibir merah merekah basahnya itu, aroma segar pasta gigi masih bisa ku hirup dari bibirnya, mungkin bekas mandi tadi.
+
 Teh nengsih menggeliat, kepalanya menoleh ke kiri ke kanan, seakan ingin melepskan cipokanku, namun apa daya dia tak mampu, malah kini genjotan ku di percepat hingga menimbulkan bunyi khas benturan antara serambi lempit dan rudal.. plok.. plok ..plok .. nikmat sekali serambi lempit teh nengsih, masih sempit dan rapet mungkin karena dia belum punya anak.
+
 Kulepaskan cipokan saya di bibirnya, kini tangan saya dengan cepat membungkam mulut indah istri orang itu, ya istri tetanggaku itu, sambil terus menggenjot tubuhnya saya pun berkata “Cicing teh tong ngagorowok, lamun ngagorowok urang arera kabeh ku tatangga, jeung teteh ge bakal di ceraikeun ku kang agus” .. kurang lebih dalam bahasa indonesia “diam teh jangan berteriak, kalau berteriak kita semua malu sama tetangga, dan teteh juga bakal di ceraikan sama kang agus” .. di melotot ke arahku, ku berhentikan sejenak genjotanku, lalu saya buka perlahan bekapan tanganku dari mulutnya.
+
 “Anjing sia…”
 “Jadah Bangsat…”
+
 Umpat dia kepada saya setengah berbisik, mungkin dia juga sadar dan takut tetangga berdatangan jika dia berteriak dan berbicara terlalu keras yang tentu saja membuat tetangga berdatangan yang akan membuatnya malu karena sedang menggenjot denganku.
+
 “Enak kan teh di ewe ku anjing” balas ku
+
 Rasakan ini teh .. bisiku di telinganya sambil melanjutkan menggejot tubuhnya..
+
 Oh.. ah .. anjing sia bangsat .. bagong.. umpatnya di sela-sela desahannya..
+
 dia terus mengumpat sambil mendesah… saya tidak peduli malahan umpatan dan desahan itu membuat saya semakin nafsu dan semakin brutal menggenjot tubuhnya.. plok..plok..plok..plok irama benturan kulit itu kini semakin cepat.
 
 &#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
+
 Ah ah oh oh sssst ssst ah .. teh nengsih pun semakin mendesah..
-Karena saking nikmatnya serambi lempit teh nengsih, akhirnya saya tak kuasa menahan air pejuh yang keluar dari kontolku.. crot..crot..crot.. pejuhku menyembur di dalam memeknya.. ku diamkan sejenak tubuhku berada di atas tubuh teh nengsih, sambil ku cium mesra keningnya sambil bilang “i love you teh.. saya yakin kalau teteh di entot saya teteh bakalan punya anak” kata ku dalam bahasa sunda.
-Teh nengsih diam saja tanpa ekspresi, mungkin karena lelah akibat pertempuran tadi, akhirnya saya cabut rudal saya, dan sisa-sisa pejuh saya keluar dari dalam memeknya.
+
+Karena saking nikmatnya serambi lempit teh nengsih, akhirnya saya tak kuasa menahan air pejuh yang keluar dari rudalku.. crot..crot..crot.. pejuhku menyembur di dalam serambi lempitnya.. ku diamkan sejenak tubuhku berada di atas tubuh teh nengsih, sambil ku cium mesra keningnya sambil bilang “i love you teh.. saya yakin kalau teteh di entot saya teteh bakalan punya anak” kata ku dalam bahasa sunda.
+
+Teh nengsih diam saja tanpa ekspresi, mungkin karena lelah akibat pertempuran tadi, akhirnya saya cabut rudal saya, dan sisa-sisa pejuh saya keluar dari dalam serambi lempitnya.
+
 Saya ambil celana dalam teh nengsih, lalu saya bersihkan serambi lempit teh nengsih dari sisa-sisa pejuh saya, teh nengsih hanya terdiam pasrah, lalu saya ambil selimut dan saya berbaring disamping teh nengsih, saya kecup keningnya lalu saya peluk.. malam itu saya mengeloni istri kang agus.
+
 Setelah beberapa menit termenung, akhirnya dia membalas pelukan saya, sambil menangis dia berkata “Kamu emang bangsat.. awas ya kalau rahasia ini sampai bocor” .. “tenang aja sayang, walaupun bocor nanti, aku siap bertanggung jawab kok” .. rayuku sambil tersenyum nakal.. “iihh …. gombal” balasnya … percakapan dalam bahasa sunda itu terus terjadi.

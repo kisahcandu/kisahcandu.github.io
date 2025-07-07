@@ -3,18 +3,19 @@ layout: post
 title: "Tubuh Mulus Elisabeth Teman Kampusku"
 author: "Om Sugeng"
 date: 2018-03-31 05:21:49 +0000
-description: "Tubuh Mulus Elisabeth Teman Kampusku &nbsp; Cerita bercinta &#8211;\u00a0\u00a0Aku adalaah mahasiswa di salah satu perguruaan di jakarta .. umurku baru 24 tahun. di pagi hari yang cerah di rumah ku aku terbang..."
+description: "Tubuh Mulus Elisabeth Teman Kampusku &nbsp;  Cerita bercinta &#8211;\u00a0\u00a0Aku adalaah mahasiswa di salah satu perguruaan di jakarta .. umurku baru 24 tahun. di pagi hari yang cerah di rumah ku aku terbang..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita 18", "Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Seks"]
 ---
 
-
 Tubuh Mulus Elisabeth Teman Kampusku
 &nbsp;
+
 Cerita bercinta &#8211;  Aku adalaah mahasiswa di salah satu perguruaan di jakarta ..
 umurku baru 24 tahun.
 di pagi hari yang cerah di rumah ku aku terbangun dari tidurku …
 tak sadar bahwa sekarang sudah jam 8 ..
+
 aku pun bergegas mandi untuk masuk kuliah .
 seuisai mandi akupun bergegas berangkat ke kampus ..
 ketika di perjalanaan aku melihat mobil apv berwarna silver ..
@@ -28,6 +29,7 @@ oww ia tiba-tiba aku punya ide ..
 aku membawa makanaan dan minumaan ke arah Elisabeth yang sedang menikmati makan siangnya ,, dengan sengaja ku tumpahkaan makanaan dan minumaan ku ..
 sepertinya muuka artis cantik itu agak sedikit kesal ..
 lalu ia berkata padaku ,, kalo jalan liat-liat donk. Bermain di Poker Uang menangkan jackpotnya
+
 maaf ia aku tidak sengaja ,, sahutku ok lain kali hati hati ya ,, mukanya agak sedikit kesal ,, aku pun menjawab ,, ia terima kasih maaf ya sekali lagi ..
 akhirnya ku lihat Elisabeth pergi menuju mobinya lagi untuk ganti pakaiaan nya yg basah,,aku pun kembali ke kelas untuk melanjutkaan pelajaraan ..
 ketika aku pulang dari kampus aku melihat syuting film nya sudah selesai, ah Elisabeth udah gak ada lagi ,,, erungku dalam hati …
@@ -41,7 +43,7 @@ sesampai di club yg kami tuju kami lansung masuk ke dalam club tersebut ..
 Alex langsung memesan minumaan …
 Wel u mw cewek Wel ? Alex bertanya males ah. sahutku ..
 yaudah kalo gak mw ,, w mw ke cewek yg duduk di sana tuh ..
-akhirnya Alex pergi .. ku lihat dari jauh bahwa Alex sedang berkenalaan dengan wanita yg memekai baju yg agak ketat dan memakai rok mini .. entah siapa perampuan tersebut ..
+akhirnya Alex pergi .. ku lihat dari jauh bahwa Alex sedang berkenalaan dengan wanita yg serambi lempitai baju yg agak ketat dan memakai rok mini .. entah siapa perampuan tersebut ..
 tiba2 muncul sesosok wanita mucul dari pintu masuk tak ku sangka ia adalah Elisabeth bersama dengan 3 teman nya ..
 Elisabeth memakai tanktop berwarna putih yg di lapisi cardigan berwarna ungu dan celana pendek jeans 20 cm dari dengkul nya ..
 dia duduk di sebelah meja ku..
@@ -62,10 +64,11 @@ akhirnya kutemukaan hp nya yg berada di bawah kursi depan ..
 aku kaget setelah melihat wallpaper depan hp nya ada lah foto dirinya tanpa busana ..
 makasi ya udah bantiun aku nyari hp aku , ia sama-sama jawab ku ..
 rupanya Welly jr sudah terbang tinggi akibat melihat foto artis cantik tersebut bugil…
-aku sudah tidak bisa tahan lagi akhirnya kulumat saja bibir sexy Elisabeth kukira Elisabeth akan marah tapi ternyata ia membalas ciuman ku ..
+aku sudah tidak bisa tahan lagi akhirnya kulumat saja bibir bercintay Elisabeth kukira Elisabeth akan marah tapi ternyata ia membalas ciuman ku ..
 sambil berciumaan ku remas2 payudara sebelah kanan nya .. ( posisi ciuman duduk )
 setalah berciumaan kira2 8 menit hp Elisabeth pun berbunyi …
 hei kemana sih lama banget,, rupanya yg menelpon Elisabeth adalah teman nya yg ada di dalam club.Tunjukan keberuntunganmu dengan bermain DominoBet Online, Raih uang sebanyak-banyaknya
+
 akhirnya kami ber 2 masuk lagi ke dalam club tersebut …
 setelah sampai di sana salah 1 teman Elisabeth bertanya,, lama banget abis ngapaiin sih ,, oh gak tadi susah nyari hp nya ini aja baru ketemu ,, jawab Elisabeth …
 yaudah kita ngedance yuk,, sahut teman Elisabeth ..
@@ -114,15 +117,18 @@ ohhhh akhirnya sperma ku pun keluar di dalam kemaluan Elisabeth ini adalah orgas
 di kamar mandi aja yuk sayang ,, tanya ku ,, yaudah ayuk …
 ketika sampai di kamar mandi Elisabeth pun langsung menyalakaan shower dan kami berada di bawah shower tersebut Elisabeth berkata bahwa ia ingin melakukaan standing bercinta..
 kuturuti keinginnan nya kubawa Elisabeth ke pojok tembok yang di atasnya ada shower yg membasahi kami dan ku angkat kedua kaki nya tanpa pikir panjang segera ku masukaan kemaluanku ke dalam kemaluan nya ..
+
 &nbsp;
 
 &nbsp;
+
 rupanya ia masih begitu nafsu ,, kepercepat genjotaan k ke dalam kemaluannya …
 ahhhh ohhh ahhh ohhh,,, geru kenikmataan Elisabeth …
 oh sayang aku mauuu ohhhhhhhhhhhh…
 akhirnya Elisabeth pun mendappat orgasme paertamanya …ia pun langsung terbujur lemas dalam pelukaan ku .. kami pun melanjutkaan dengan berciumaan dengan sangat mesra selama 10 menit …
 sepertinya birahi nya naik lagi .. pindah lagi yuk sayang ,, sahut nya ..
 aku pun hanya bisa turuti keinginnyannya ,, kami berdua segera mengeringkaan diri dengan handuk
+
 tapi Elisabeth mengajakku ke dalam kamarnya dan ia berdiri di dekat lemari baju nya …
 memegang ke 2 gagang pintu lemari dan kemaluan nya menghadap ke arah ku …
 fuck me my little bicth ,, sahut nya ..

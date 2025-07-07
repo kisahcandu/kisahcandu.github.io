@@ -8,16 +8,20 @@ categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
 
-
 Belajar bercinta Ditempat Pijat
 Cerita Dewasa &#8211; Namaku Andra, sebut saja Andra. Aku kuliah di sebuah PTS di Bandung sebuah kota metropolis yang gemerlap, yang identik dengan kehidupan malamnya. Di tengah kuliahku yang padat dan sibuk, aku mempunyai suatu pengalaman yang tak akan kulupakan pada waktu aku masih semester satu dan masih berdampak sampai sekarang. Latar belakangku adalah dari keluarga baik-baik, kami tinggal di sebuah perumahan di kawasan di Bandung. Sebagai mahasiswa baru aku termasuk aktif mengikuti kegiatan kemahasiswaan, kebetulan aku menyukai kegiatan outdoor ataupun alam bebas. Aku memang mewarisi bakat ayahku yang merupakan seorang pemburu yang handal, hal inilah yang membuat darah petualangku menggelora.
+
 Memasuki pertengahan semester aku mulai kenal dan akrab dengan seorang cewek, sebut saja namanya Ema. Aku tertarik padanya karena ia orangnya juga menyukai kegiatan alam bebas, berburu misalnya. Awalnya sih aku agak heran juga kenapa cewek cantik seperti dia suka “mengokang” senapan yang notabene berat dan kemudian menguliti binatang hasil buruannya dengan beringas. Hemmm… kegaranganya bak macan betina inilah yang aku sukai, aku suka melihat buah dadanya yang menantang dibalut baju pemburu yang ketat dan kebiasaannya menggigit bibir bawahnya ketika mengokang senapan.
-Bibir merah yang seksi itu sering mengundang gairahku. Karena ada kecocokan, kami akhirnya jadian juga dan resmi pacaran tepatnya pada waktu akhir semester pertama. Kami berdua termasuk pasangan yang serasi, apa mau dikata lagi tubuhku yang tinggi tegap dapat mengimbangi parasnya yang langsing dan padat. Pacaran kami pada awalnya normal-normal saja, yahhh.. sebatas ciuman saja biasa kan? Dan aku melihat bahwa Ema itu orangnya blak-blakan kok.
+
+Bibir merah yang bercintai itu sering mengundang gairahku. Karena ada kecocokan, kami akhirnya jadian juga dan resmi pacaran tepatnya pada waktu akhir semester pertama. Kami berdua termasuk pasangan yang serasi, apa mau dikata lagi tubuhku yang tinggi tegap dapat mengimbangi parasnya yang langsing dan padat. Pacaran kami pada awalnya normal-normal saja, yahhh.. sebatas ciuman saja biasa kan? Dan aku melihat bahwa Ema itu orangnya blak-blakan kok.
+
 Semuanya berubah setelah pengalamanku di sebuah panti pijat. Hari itu Minggu 12 April 1999 aku masih ingat betul hari itu, aku dan ayahku berburu di sebuah gunung di daerah Jatiluhur tentu saja setelah berburu seharian badan terasa capai dan lemah. Malamnya aku memutuskan untuk mencari sebuah panti pijat di Bandung, dengan mengendarai Land Rover-ku aku mulai menyusuri kota Bandung. Dan akhirnya tempat itu kutemukan juga, aku masuk dan langsung menemui seorang gadis di meja depan dan aku dipersilakan duduk dulu. Tak lama kemudian muncullah seorang gadis yang berpakaian layaknya baby sitter dengan warna putih ketat dan rok setinggi lutut.
-Wuahh… cantik juga dia, dan pasti juga merangsang libidoku. Dengan ramah ia mempersilakan aku masuk ke ruang pijat, ruangan selebar 4×4 dengan satu ranjang dan sebuah kipas angin menggantung di atasnya. “Bajunya dibuka dulu ya Bang…” katanya dengan tersenyum manis, “OK lahh..” sambutku dengan semangat. “Tapi kipasnya jangan dinyalain yah, dingin nih..” dia pun mengangguk tanda paham akan keinginanku. Kubuka sweaterku dan aku pun berbaring, aku memang sengaja tidak memakai t-shirt malam itu. “Celananya sekalian dong Bang,” katanya. “Emmm.. Lo yang bukain deh, males nih..” dia pun tersenyum dan agaknya memahami juga hasratku. “Ahh.. kamu manja deh,” katanya, dengan cekatan tangannya yang mulus dan lentik itu pun mencopot sabuk di pinggangku kemudian melucuti celanaku. Wah dia kelihatannya agak nafsu juga melihat tubuhku ketika hanya ber-CD, terlihat “adik”-ku manis tersembul dengan gagahnya di dalam sarangnya.
+
+Wuahh… cantik juga dia, dan pasti juga merangsang libidoku. Dengan ramah ia mempersilakan aku masuk ke ruang pijat, ruangan selebar 4×4 dengan satu ranjang dan sebuah kipas angin menggantung di atasnya. “Bajunya dibuka dulu ya Bang…” katanya dengan tersenyum kenikmatans, “OK lahh..” sambutku dengan semangat. “Tapi kipasnya jangan dinyalain yah, dingin nih..” dia pun mengangguk tanda paham akan keinginanku. Kubuka sweaterku dan aku pun berbaring, aku memang sengaja tidak memakai t-shirt malam itu. “Celananya sekalian dong Bang,” katanya. “Emmm.. Lo yang bukain deh, males nih..” dia pun tersenyum dan agaknya memahami juga hasratku. “Ahh.. kamu manja deh,” katanya, dengan cekatan tangannya yang mulus dan lentik itu pun mencopot sabuk di pinggangku kemudian melucuti celanaku. Wah dia kelihatannya agak nafsu juga melihat tubuhku ketika hanya ber-CD, terlihat “adik”-ku kenikmatans tersembul dengan gagahnya di dalam sarangnya.
+
 “Eh.. ini dicopot sekalian ya? biar enak nanti mijitnya!”
 “Wahhh… itu nanti aja deh, nanti malah berdiri lagi,” kataku setengah bercanda.
-Lagi-lagi ia menyunggingkan senyum manisnya yang menawan. Kemudian aku tengkurap, ia mulai memijitku dari punggung atas ke bawah.
+Lagi-lagi ia menyunggingkan senyum kenikmatansnya yang menawan. Kemudian aku tengkurap, ia mulai memijitku dari punggung atas ke bawah.
 “Wah.. pijitanmu enak ya?” pujiku.
 “Nanti kamu akan merasakan yang lebih enak lagi,” jawabnya.
 “Oooh jadi servis plus nih?” tanyaku.
@@ -29,6 +33,7 @@ Aku langsung saja berbaring. Tentu saja batanganku yang ereksi berat terlihat se
 “Habisnya kamu merangsang sihh..” kataku.
 “Nah kalo begitu sekarang waktunya dicopot yah? biar enak itu punyamu, kan sakit kalau begitu,” pintanya.
 “OK, copot aja sendiri,” aku memang udah nggak tahan lagi, abis udah ereksi penuh sih.
+
 Dengan bersemangat gadis itu memelorotkan CD-ku, tentu saja kemaluanku yang sudah berdiri tegak dan keras mengacung tepat di mukanya.
 “Ck.. ck.. ckk.. besar amat punyamu, berapa kali ini kamu latih tiap hari,” katanya sembari tertawa.
 “Ah… emangnya aku suka ‘lojon’ apa…” jawabku.
@@ -41,7 +46,9 @@ Ia menyentuh kepala kemaluanku dengan penuh nafsu, dan mengelusnya. Tentu saja a
 “OK lah…”
 Ia mulai mengambil minyak pijat dan memijat tangan dan dadaku. Wahhh ia naik dan duduk di perutku. Sialan! belahan dadanya yang putih mulus pun kelihatan, aku pun terbelalak memandangnya.
 “Sialan! montok bener tetekmu,” dan tanganku pun mulai gerilya meraba dan memeganginya, ia pun mengerjap, pijatannya pun otomatis terhenti.
+
 “Raih Keberuntunganmu dengan bermain Dominobet, games kartu online dengan menggunakan uang asli, terdiri permainan Capsa, Poker, Kiyu-kiyu, Sakong dan lain-lain. Dapatkan Jackpot hingga ratusan juta rupiah.”
+
 Setelah agak lama aku merabai gunungnya ia pun turun dari perutku, ia perlahan membuka kancing bajunya sampai turun ke bawah, sambil menatapku dengan penuh nafsu. Ia sengaja mempermainkan perasaanku dengan agak perlahan membuka bajunya.
 “Cepatlahh.. ke sini, kasihan nih adikku udah menunggu lama…” aku sambil mengocok sendiri kemaluanku, habis nggak tahan sih.
 “Eits… jangan!” ia memegang tanganku.
@@ -51,7 +58,7 @@ Tak lama ia kemudian mengambil minyak pijat dan mengoleskan ke kemaluanku.
 “Augghh… aku nggak tahan nihhh…”
 Kemudian ia mulai menghisapnya seraya tangannya mengelus buah zakarku.
 “Aduhhh… arghh.. aku mau keluar nihhh!”
-Kemudian kemaluanku berdenyut dengan keras dan akhirnya “Croottt…” maniku memancar dengan derasnya, ia terus mengocoknya seakan maniku seakan dihabiskan oleh kocokannya.
+Kemudian kemaluanku berdenyut dengan keras dan akhirnya “Croottt…” kenikmatanku memancar dengan derasnya, ia terus mengocoknya seakan kenikmatanku seakan dihabiskan oleh kocokannya.
 “Aahhh…” aku melenguh panjang, badanku semua mengejang. Ia kelihatanya suka cairanku, ia menjilatinya sampai bersih, aku pun lemas.
 “Gimana… enak kan? tapi kamu payah deh baru digituin dikit aja udah ‘KO’,” godanya.
 “Habbiss kamu gitukan sih, siapa tahannn…”
@@ -59,6 +66,7 @@ Ia memakluminya dan agaknya tahu kalau aku baru pertama kalinya.
 “Tuh kan lemes, punyamu mengkerut lagi,” sambil ia memainkan kemaluanku yang sudah nggak berdaya lagi.
 “Entar ya, nanti kukerasin lagi,” katanya.
 “Hufff… OK lah,” kataku pasrah.
+
 Dengan masih menggunakan bra dan CD ia mulai memijatku lagi. Kali ini ia memijat pahaku dan terkadang ia menjilati kemaluanku yang sudah lemas.
 “Ihhh… lucu ya kalau sudah lemes, kecil!” ia mengejekku.
 Aku yang merasa di-”KO”-nya diam saja. Sembari ia memijat pahaku, dadanya yang montok kadang juga menggesek kakiku, wahhh kenyal sekali!
@@ -70,6 +78,7 @@ Aku sambil mengelus dan mengocok sendiri kemaluanku sembari melihat geliat gadis
 Benar juga kemaluanku yang tadinya tidur dan lemas lambat laun mulai naik dan mengeras.
 “Tuh.. berdiri lagi,” katanya girang.
 “Pasti!” kataku.
+
 Aku tidak melewatkan kesempatan itu, segera kuraih tangannya dan aku segera menindihnya.
 “Uhhh.. pelan dikit doong!” katanya.
 “Biar aja, habis kamu napsuin sih…” kataku.
@@ -77,7 +86,8 @@ Dengan cepat aku melucuti BH dan CD-nya. Sekarang kelihatan semua gunung kembarn
 “Slep.. slepp!”
 “Arghh… ihhh… ssshhh,” ia agak kaget rupanya menerima hujaman pusakaku yang besar itu.
 “Uahhh.. ennakkk…” katanya.
-Mulutnya megap-megap kelihatan seperti ikan yang kekurangan air, aku pun semakin semangat memompanya. Tapi apa yang terjadi karena terlalu bernafsunya aku tidak bisa mengontrol maniku. “Heggh… hegghh… ahhh, ehmm… aku mau keluar lagi nihh!” kataku.
+
+Mulutnya megap-megap kelihatan seperti ikan yang kekurangan air, aku pun semakin semangat memompanya. Tapi apa yang terjadi karena terlalu bernafsunya aku tidak bisa mengontrol kenikmatanku. “Heggh… hegghh… ahhh, ehmm… aku mau keluar lagi nihh!” kataku.
 “Sshhh… ahhh ah… payah lo, gue tanggung ni… entar donk!”
 “Aku sudah tidak tahan lagii…”
 Tak lama kemudian batang kemaluanku berdenyut kencang.
@@ -85,13 +95,14 @@ Tak lama kemudian batang kemaluanku berdenyut kencang.
 “Ehhh… cepat cabut!” sergapnya.
 Aku pun mencabut batang kemaluanku dan ia pun segera menghisapnya.
 “Ahhh… shhh…!”
-“Crot… crottt… crottt” memancar dengan derasnya maniku memenuhi mulutnya dan berceceran juga di gunung kembarnya yang masih tegang.
+“Crot… crottt… crottt” memancar dengan derasnya kenikmatanku memenuhi mulutnya dan berceceran juga di gunung kembarnya yang masih tegang.
 “Ugghh…” aku pun langsung tumbang lemas.
 “Aduh… gimana sih, aku nanggung nihh… loyo kamu.”
 Aku sudah tidak bisa berkata lagi, dengan agak sewot ia berdiri.
 “Ahhh… kamu menghabiskan cairanku yaaa.. lemes nihh,” kataku.
 “Udah lahh.. aku pergi,” katanya sewot.
 “Ya udah sana… thanks ya Sayang…” ia pun berlalu sambil tersenyum.
+
 Pengalaman malam itu seakan telah merubah pandanganku tentang cewek. Aku berpikir semua cewek adalah penyuka bercinta dan penyuka akan kemaluan lelaki. Atas dasar itulah kejadian ini terjadi. Siang itu aku bertemu sama pacarku.
 “Ehhh.. abis ngapain kamu Ndra? kok kelihatanya lemes amat? sakit yah…” tanyanya.
 “Ah nggak kok, kemaren abis berburu sama ayahku,” jawabku singkat.
@@ -102,7 +113,7 @@ Memang siang itu mukaku kelihatan kusut, sayu dan acak-acakan. Pokoknya kelihata
 “Kita berenang yuk?” ajaknya.
 “Emm… OK jadi!” jawabku mantap.
 Yayangku memang hobi berenang sih, jadi ya OK saja deh. Karena hari itu sudah sore, waktu menunjukkan pukul 04:55, aku segera menggandeng tangan Ema, “Ayo lah kita pulang, yok kuantar..” dia pun menurut sambil memeluk tanganku di dadanya.
-Malamnya aku tidak bisa tidur, gadis pemijat itu pun masih berputar di otakku dan tidak mau pergi. Bayangan-bayangan gerakan tangannya yang luwes serta hisapan kenikmatan yang kurasakan waktu itu tidak bisa dilupakan begitu saja dari benakku, “Sialan! bikin konak aja luh…” gerutuku. Aku pun hanya gelisah dan tidak bisa tidur, karena kemaluanku tegang terus. Aku pun berusaha melupakannya dengan memeluk guling dan berusaha untuk tidur, tetapi hangat liang kemaluannya mencengkeram kuat pusakaku masih saja menghantui pikiranku. “Ahhhh…aku nggak tahan nih…” segera kucopot celana dan CD-ku, kuambil baby oil di meja, aku pun onani ria dengan nikmatnya, “ahhh…” kugerakkan tanganku seolah menirukan gerakan tangan gadis itu sambil membayangkan adegan demi adegan kemarin malam itu. “Huff…” nafasku semakin memburu, gerakan tanganku semakin cepat dibuatnya. Kurang lebih 5 menit kemudian “Crott!” tumpahlah cairan maniku membasahi perut dan sprei sekitarku. Aku pun langsung tidur, “Zzz..”
+Malamnya aku tidak bisa tidur, gadis pemijat itu pun masih berputar di otakku dan tidak mau pergi. Bayangan-bayangan gerakan tangannya yang luwes serta hisapan kenikmatan yang kurasakan waktu itu tidak bisa dilupakan begitu saja dari benakku, “Sialan! bikin konak aja luh…” gerutuku. Aku pun hanya gelisah dan tidak bisa tidur, karena kemaluanku tegang terus. Aku pun berusaha melupakannya dengan memeluk guling dan berusaha untuk tidur, tetapi hangat liang kemaluannya mencengkeram kuat pusakaku masih saja menghantui pikiranku. “Ahhhh…aku nggak tahan nih…” segera kucopot celana dan CD-ku, kuambil baby oil di meja, aku pun onani ria dengan nikmatnya, “ahhh…” kugerakkan tanganku seolah menirukan gerakan tangan gadis itu sambil membayangkan adegan demi adegan kemarin malam itu. “Huff…” nafasku semakin memburu, gerakan tanganku semakin cepat dibuatnya. Kurang lebih 5 menit kemudian “Crott!” tumpahlah cairan kenikmatanku membasahi perut dan sprei sekitarku. Aku pun langsung tidur, “Zzz..”
 Paginya pukul 07:00 kakak perempuanku masuk ke kamar untuk membangunkanku. Karena kamarku tidak dikunci, betapa terbelalaknya dia ketika melihat aku tanpa celana tidur terlentang dan melihat batanganku sudah berdiri dan di perutku terdapat bekas kenikmatan yang mengering.
 “Andraaa… apa-apaan kau ini ha!” hardiknya, aku terkejut dan langsung mengambil selimut untuk menutupi batangan kerasku yang menjulang.
 “Eh … Kakak.. emm…” kataku gugup.
@@ -148,7 +159,7 @@ Aku tidak menjawab. Tanganku langsung bergerilya di kedua gunung kembarnya, kure
 Buah dadanya semakin keras saja, rupanya ia mulai terangsang dengan remasanku dan ciumanku di telinganya.
 “Ehhhmm… uhhh,” lenguhnya sambil memejamkan mata.
 Melihat gelagat tersebut aku menurunkan tanganku ke ritsleting celananya, kulepas kancingnya dan kupelorotkan ritsletingnya, ia agaknya masih agak ragu juga, terbukti dengan memegang tanganku berupaya menahan gerakan tanganku yang semakin nakal di daerah selangkanganya. Tetapi dengan ciumanku yang membabi buta di daerah tengkuknya dan remasanku yang semakin mesra, akhirnya tanganku dilepasnya, kelihatannya ia sudah terangsang berat. Tanpa basa-basi tanganku langsung menelusup ke CD-nya. Wahh… terasa bulu-bulu halus menumbuhi sekitar liang kemaluannya. Kuraba klitorisnya, “Aghhh… oouhh.. sayang kamu nakal deh,” dengusnya sambil mengerjap. Ia langsung membalikkan tubuhnya, memelukku erat dan meraih bibirku, “Cupppp…” wah ia lihai juga melakukan French Kiss. Dengan penuh nafsu ia melahap bibirku. Cewekku yang satu ini memang binal seperti singa betina kalau sudah terangsang berat.
-Agak lama kami ber-French Kiss ria, perlahan ia mulai menurunkan kepalanya dan ganti memangsa leherku, “Aahhh… geli sayang,” kataku. Rupanya debar jantungku yang menggelegar tak dirasakan olehnya. ia langsung mendorongku ke tembok, dan ia pun menciumi dadaku yang bidang dan berbulu tipis itu. “Wah… dadamu seksi yah…” katanya bernafsu. Menjulurlah lidahnya menjilati dadaku “Slurrppp…” jilatan yang cepat dan teratur tersebut tak kuasa menahan adikku kecil yang agak menyembul keluar di balik celana renangku. Jilatannya semakin lama semakin turun dan akhirnya sampai ke pusarku. Tangan pacarku kemudian merabai batang kemaluanku yang sudah keras sekali. Aku pun sangat bernafsu sekali karena mengingatkanku pada gadis panti pijat yang merabai lembut kemaluanku. “Ahhh.. Sayang…” desahku tertahan. Dengan cekatan ia memelorotkan celana renangku yang baru saja kupakai, alhasil batanganku yang keras dan panjang pun mendongak gagah di depan mukanya.
+Agak lama kami ber-French Kiss ria, perlahan ia mulai menurunkan kepalanya dan ganti memangsa leherku, “Aahhh… geli sayang,” kataku. Rupanya debar jantungku yang menggelegar tak dirasakan olehnya. ia langsung mendorongku ke tembok, dan ia pun menciumi dadaku yang bidang dan berbulu tipis itu. “Wah… dadamu bercintai yah…” katanya bernafsu. Menjulurlah lidahnya menjilati dadaku “Slurrppp…” jilatan yang cepat dan teratur tersebut tak kuasa menahan adikku kecil yang agak menyembul keluar di balik celana renangku. Jilatannya semakin lama semakin turun dan akhirnya sampai ke pusarku. Tangan pacarku kemudian merabai batang kemaluanku yang sudah keras sekali. Aku pun sangat bernafsu sekali karena mengingatkanku pada gadis panti pijat yang merabai lembut kemaluanku. “Ahhh.. Sayang…” desahku tertahan. Dengan cekatan ia memelorotkan celana renangku yang baru saja kupakai, alhasil batanganku yang keras dan panjang pun mendongak gagah di depan mukanya.
 “Ihh… gila punyamu Sayang…” katanya.
 “Ema… hisap dong Sayang!” pintaku.
 Ia agak ragu melakukan itu, maklum ia masih virgin sih. Ia belum menuruti permintaanku, ia hanya mengocok pelan namun gerakan kocokannya pun masih kaku, sangat berbeda dengan gadis pemijat tempo hari.
@@ -183,7 +194,7 @@ Ia merapatkan lagi gunungnya sehingga rasanya semakin nikmat saja.
 “Uuahhh… nikkmattt sayangg…!” erangku.
 Ia hanya tersenyum melihat mukaku yang merah dan terengah menahan nikmat.
 “Rasain… habis kamu nakal sih…” katanya.
-“Tapi lebih… nikmat memekmu sayang.”
+“Tapi lebih… nikmat serambi lempitmu sayang.”
 “Hush…” katanya.
 Gerakanku semakin cepat, aku ingin segera mencapai puncak yang nikmat.
 “Uuhhh… uhhh… mmm… arghh…” erangku tertahan.
@@ -197,13 +208,13 @@ Spermaku memancar dengan deras dan banyak.
 “Ooohh…” gumamku.
 Spermaku memancar membasahi leher Ema yang jenjang dan mengena juga janggut dan bibirnya.
 “Ihhh… baunya aneh ya..”
-Ia mencoba membersihkan cairan kental itu dengan tangannya, aku pun turun dari atas tubuhnya. “Aahhh… nikmat Sayang…” tapi dalam hatiku aku belum puas jika belum menjebol liang kemaluan Ema. Ema pun segera membersihkan maniku yang belepotan.
+Ia mencoba membersihkan cairan kental itu dengan tangannya, aku pun turun dari atas tubuhnya. “Aahhh… nikmat Sayang…” tapi dalam hatiku aku belum puas jika belum menjebol liang kemaluan Ema. Ema pun segera membersihkan kenikmatanku yang belepotan.
 “Iihhh… kok kayak gini sih?” tanyanya penuh selidik.
 “Itu namanya cairan kenikmatan sayang…” jawabku enteng.
 “Ooo…” katanya pura-pura tahu.
 “Habis bercinta enaknya berenang yuk?” ajaknya.
 “OK,” kataku.
-Ema pun segera berpakaian renang dan aku juga. Setelah siap kami pun keluar kamar, wah ternyata di luar sepi sudah tidak ada orang lagi, padahal masih menunjukkan pukul 2:00 siang. Ternyata lama juga kami bercinta. “Byurrr…” kami berdua pun mencebur dan berenang, aku yang sudah terkuras kejantanannya semenjak kemarin malam segera ketepi dan hanya melihat Ema berenang. Gerakan renangnya yang bagai ikan duyung, dibalut baju renangnya yang seksi serta kulitnya yang putih mulus, membangkitkan lagi gairahku. Terbesit di pikiranku untuk bercinta di kolam renang, kebetulan tidak ada orang dan petugas jaganya jauh.
+Ema pun segera berpakaian renang dan aku juga. Setelah siap kami pun keluar kamar, wah ternyata di luar sepi sudah tidak ada orang lagi, padahal masih menunjukkan pukul 2:00 siang. Ternyata lama juga kami bercinta. “Byurrr…” kami berdua pun mencebur dan berenang, aku yang sudah terkuras kejantanannya semenjak kemarin malam segera ketepi dan hanya melihat Ema berenang. Gerakan renangnya yang bagai ikan duyung, dibalut baju renangnya yang bercintai serta kulitnya yang putih mulus, membangkitkan lagi gairahku. Terbesit di pikiranku untuk bercinta di kolam renang, kebetulan tidak ada orang dan petugas jaganya jauh.
 “Ema sini sayang…!” panggilku.
 “OK… ada apa Ndra?”
 Ia berenang mendekat ke arahku, aku pun masuk ke air, aku langsung memeluknya dan mencium bibirnya dengan ganas.
@@ -221,6 +232,7 @@ Kudekap erat tubuhnya agar dekat, ternyata Ema sudah membimbing batang kemaluank
 Aku pun segera mengangkat Ema ke pinggir kolam dan kubaringkan dia, kutekuk lututnya sehingga lubang kemaluannya kelihatan menganga.
 
 &#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
+
 “Siap Sayang…”
 Aku mulai memasukkan sedikit.
 “Uhhhh…” padahal baru kepalanya saja yang masuk.
@@ -231,14 +243,14 @@ Aku pun segera menekan lagi dan akhirnya “Blesss…” seluruhnya bisa masuk.
 “Huuff… uhhh… ayoo terus Ssayy… ennnakk…”
 Terdengar bunyi yang tak asing lagi, “Crep.. crepp… sslepp…” asyik kedengarannya, aku semakin giat memompanya. Kemudian aku ingin ganti posisi, aku suruh Ema menungging.
 “Ayolah Sayang… puaskan aku…”
-Ia pun menungging dengan seksinya, terlihat lubang kemaluannya merekah, menarik untuk ditusuk. “Sleppp…” batang kemaluanku kumasukkan.
+Ia pun menungging dengan bercintainya, terlihat lubang kemaluannya merekah, menarik untuk ditusuk. “Sleppp…” batang kemaluanku kumasukkan.
 “Ahhh.. ssss… ahhh…” desahnya penuh kenikmatan.
 Nafasnya semakin memburu.
 “Huff… ehhh… mmm…” aku terengah.
 Kupercepat gerakanku, “Slep… slep.. slep.. slep…”
 “Ahhh… Ssayangg… bentar lagi aku nyampe nihh…” kataku terburu.
 “Aakuu… jugaa…”
-Himpitan liang kemaluan Ema yang kencang dan basah membuat maniku tak kuasa lagi untuk keluar, dan akhirnya Ema pun mencapai puncaknya.
+Himpitan liang kemaluan Ema yang kencang dan basah membuat kenikmatanku tak kuasa lagi untuk keluar, dan akhirnya Ema pun mencapai puncaknya.
 “Ooohhh… akuu lagi Sayanggg…”
 Cairan kemaluannya pun membanjir, hal ini semakin membuatku juga tidak tahan.
 “Aaahhh… aku juga Sayangg!” erangku penuh kenikmatan.

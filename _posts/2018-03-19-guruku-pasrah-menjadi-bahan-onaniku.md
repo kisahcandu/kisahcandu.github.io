@@ -3,40 +3,68 @@ layout: post
 title: "Guruku Pasrah Menjadi Bahan Onaniku"
 author: "Om Sugeng"
 date: 2018-03-19 05:19:35 +0000
-description: "Guruku Pasrah Menjadi Bahan Onaniku &nbsp; Pelajar Nakal &#8211;\u00a0 Namaku Arif, bukan nama sebenarnya. Ini adalah kisah yang baru saja aku alami. Aku adalah siswa dari salah satu SMA negeri terkenal...."
+description: "Guruku Pasrah Menjadi Bahan Onaniku &nbsp;  Pelajar Nakal &#8211;\u00a0 Namaku Arif, bukan nama sebenarnya. Ini adalah kisah yang baru saja aku alami. Aku adalah siswa dari salah satu SMA negeri terkenal...."
 categories: ["Pelajar Nakal"]
 tags: ["Cerita Dewasa", "Cerita Dewasa Hot", "Cerita Ngentot", "Cerita Panas"]
 ---
 
-
 Guruku Pasrah Menjadi Bahan Onaniku
 &nbsp;
+
 Pelajar Nakal &#8211;  Namaku Arif, bukan nama sebenarnya. Ini adalah kisah yang baru saja aku alami. Aku adalah siswa dari salah satu SMA negeri terkenal. Saat ini aku duduk di kelas tiga jurusan IPS. Memasuki tahun ajaran baru berarti persiapan buatku untk lebih serius belajar menghadapi ujian akhir.
+
 Aku tahu aku tidak begitu pintar, maka itu aku selalu mencari cara agar guru-guru bisa membantuku dengan nilai. Cara yang aku gunakan adalah selalu mengajukan diri untuk menjadi kordinator pelajaran di sekolah.
+
 Pengalaman menjadi kordinator di kelas tiga inilah yang membawa diriku ke pengalaman yang tak akan pernah kulupakan seumur hidup. Awalnya aku biasa-biasa saja ketika mendengar aku dipilih menjadi koordinator pelajaran Pendidikan Pancasila. Namun lama-lama aku senang karena ternyata bu Mumum lah yang kembali mengajar kelasku.
+
 Ya, bu Mumum adalah guru pancasila saat aku kelas 2. Di kelas 2, bu Mumum sering jadi bahan bisik-bisik teman-teman laki2 ku. Bagaimana tidak, di kelasku itu, meja guru yang menghadap ke arah murid-murid, di depannya biasanya khan tertutup, sehingga kaki guru tidak terlihat dari arah murid, nah, di kelasku mejanya depannya tidak tertutup, jadi setiap guru yang duduk selalu kelihatan kaki dan posisi duduknya.
+
 Diantara semua guru, bu Yosi, bu Rahma, bu Tati dan sebagainya, mereka semua sadar akan keadaan meja itu dan sadar bagaimana harus duduk di kursi itu, hanya bu Mumum mutmainah lah yang tidak sadar.
+
 Beliau selalu mengajar sambil duduk dan memberikan pelajaran mengenai moral pancasila. Bu Mumum tidak sadar, jika ia duduk selalu agak mengangkang dan hampir setiap dia mengajar anak-anak cowo selalu memaksa duduk di depan supaya bisa lebih jelas melihat paha bu Mumum dan celana dalamnya yang berwarna krem.
+
 Banyak teman-teman yang diam-diam mengambil foto selangkangan bu Mumum dari bawah meja dengan Handphone, namun hasilnya selalu tidak memuaskan karena gelap. Aku pun termasuk salah seorang dari mereka yang selalu horny lihat paha bu Mumum. Bu Mumum berusia 43 tahun, dari logat bicaranya, beliau orang sunda. Kulitnya putih agak keriput dan kemerahan. Semakin dia tidak memakai make-up, semakin nafsu teman-temanku melihatnya. Karena kulitnya menjadi agak mengkilat.
+
 Kembali ke ceritaku, aku pun semakin sering berkomunikasi dengan bu Mumum. Dan aku mencari cara agar aku bisa menarik perhatiannya. Sisi positifnya membuat aku terpaksa membaca-baca hal-hal soal moral dan pancasila dan berusaha mencari-cari pertanyaan untuk sekedar aku tanyakan kepada bu Mumum,
+
 Ini supaya bisa menjadi alasan untukku lebih dekat dengannya. Jika berbicara lebih dekat dengan bu Mumum, aku lihat dari dekat kulitnya yang putih agak berbintik kemerahan dan keriput sedikit disana sini. Pantas saja bu Mumum selalu memakai bedak karena kulitnya akan mengkilat dan berminyak jika polos. Namun semakin membuatku bernafsu, karena pikiran ku udah terkotori dengan pengalaman saat kelas dua.
+
 Semaksimal mungkin kubuat bu Mumum berpikiran bahwa aku adalah siswa yang sangat tertarik dengan apa yang ia ajarkan, walaupun sebenarnya tujuanku adalah dekat dengan dirinya.
+
 Suatu hari aku bertanya apakah aku boleh meminjam beberapa buku mengenai nasionalisme yang sering bu Mumum ceritakan padaku. Bu Mumum bilang boleh saja, kalau mau ke rumah. Yes! akhirnya berhasil strategiku. Bu Mumum memberikan alamat rumahnya yang berada di Perumnas dekat SMA tiga di kotaku.
+
 Malamnya aku tidak bisa tidur, mengatur rencana seperti apa nanti kalau aku di rumah bu Mumum, mudah-mudahan suaminya belum pulang. Besok aku akan ke rumah bu Mumum sepulang sekolah, kudengar suami bu Mumum PNS di departemen pendidikan daerah, mudah-mudahan suaminya belum pulang sekitar jam dua sampai jam empat.
+
 Esoknya sepulang sekolah aku langsung ke rumah bu Mumum. Tak disangka, saat aku sedang menyetop angkot untuk pergi ke rumah bu Mumum, ternyata bu Mumum juga tengah menunggu angkot.
-“Eh, Rif, mo krumah ibu? ya sudah bareng saja”, aku senang sekali aku bisa pergi sama bu Mumum. Aku duduk bersebelahan bu Mumum di kursi depan angkot. Ooh, pahaku bersentuhan dengan pahanya yang mulus, aku takut ketahuan kalau penisku sudah mulai mengeras, maka aku tutupi dengan tasku.
+
+“Eh, Rif, mo krumah ibu? ya sudah bareng saja”, aku senang sekali aku bisa pergi sama bu Mumum. Aku duduk bersebelahan bu Mumum di kursi depan angkot. Ooh, pahaku bersentuhan dengan pahanya yang mulus, aku takut ketahuan kalau rudalku sudah mulai mengeras, maka aku tutupi dengan tasku.
+
 Sepanjang perjalanan bu Mumum cerita tentang keluarganya dan terkadang sedikit menanyakan tentang keluargaku. Aku berbohong bahwa aku sudah lama tidak mendapat kasih sayang seorang ibu, karena aku hidup terpisah, lalu aku bilang senang karena aku merasa bisa mendapatkan kenyamanan jika berbicara dan ngobrol dengan bu Mumum, rasanya bu Mumum sudah kuanggap ibu sendiri.
-Bu Mumum terharu dan Memegang tanganku!! Kata beliau, beliau senang mendengarnya lagian menurutnya aku anak yang baik. Dalam benakku, ya, aku memang anak “baik”, yang siap menikmati tubuh ibu. Aduh penisku sampai keluar pelumas saat itu, basah sekali. Agen Poker Online
+
+Bu Mumum terharu dan Memegang tanganku!! Kata beliau, beliau senang mendengarnya lagian menurutnya aku anak yang baik. Dalam benakku, ya, aku memang anak “baik”, yang siap menikmati tubuh ibu. Aduh rudalku sampai keluar pelumas saat itu, basah sekali. Agen Poker Online
+
 Dua puluh menit kemudian, sampailah kami di rumah beliau. Ternyata dugaanku benar, tidak ada seorangpun di rumah beliau. Aku dipersilahkan duduk di ruang tamu. Bu Mumum bilang tunggu sebentar untuk ganti baju.
+
 Ganti baju??! dalam benakku aduh ingin sekali aku mengintip beliau ganti baju. Aku deg-degan, mataku mengarah kemana bu Mumum pergi. Beberapa menit bu Mumum keluar. Masih memakai baju gurnya sambil membawa buku. Yah, ternyata hari itu belum waktunya untukku, tapi ini adalah awal dari pengalaman yang sebenarnya.
+
 Sejak itu aku jadi sering ke rumah bu Mumum dan kenal dengan keluarganya. Akhirnya puncak pegalaman ini, saat aku pura-pura menangis sedih frustasi akibat ayahku mau menikah lagi dan aku tidak setuju, karena itu ayahku mengusirku dan tidak boleh pulang ke rumah. Tentu saja ceritanya aku karang sendiri.
+
 Bu Mumum sangat bersimpati padaku, saat aku cerita panjang lebar di rumahnya tidak ada siapa-siapa, bu Mumum saat itu memakai daster dan tanpa make-up duduk disebelaku sambil memegang pundakku. Aku menangis pura-pura, bu Mumum menenangkan ku dengan memelukku.
+
 Mmh, aku menyentuh pinggiran payudara bu Mumum. Akhirnya aku mencium aroma tubuhnya. Aku mempererat pelukanku dan kepalaku aku sandarkan di leher bu Mumum. aku bisa menghirup aroma lehernya. Bu Mumum memelukku erat pula. Secara nekat kuberanikan diriku untuk mencium pipi bu Mumum secara lembut. Dan bilang kalau aku minta maaf tapi aku merasa cuma bisa tenang jika dekat ibu Mumum.
-Bu Mumum bilang tidak apa-apa. Aku pun memberanikan mencium pipinya lagi, tapi kali ini lebih dekat ke pinggiran bibir, cukup lama kutempelkan bibirku di pinggiran bibirnya. Bu Mumum diam saja sambil terus memelukku dan mengelus-elus punggunggu sambil menenangkan. Apakah bu Mumum terasa bahwa penisku yang sudah menegang kutempelkan di pahanya.
-Ku coba menggesek-gesekkan perlahan penisku ke paha bu Mumum. Bu Mumum tahu. Namun beliau diam saja. Aku pegang pipi beliau, tentunya air mataku masih mengalir, sambil aku lekatkan bibirku dengan bibirnya sambil berkata “Ibu…”, bibir bu Mumum tidak terbuka, beliau tetap diam, walaupun bibirku bergerak-gerak mencium bibirnya.
+
+Bu Mumum bilang tidak apa-apa. Aku pun memberanikan mencium pipinya lagi, tapi kali ini lebih dekat ke pinggiran bibir, cukup lama kutempelkan bibirku di pinggiran bibirnya. Bu Mumum diam saja sambil terus memelukku dan mengelus-elus punggunggu sambil menenangkan. Apakah bu Mumum terasa bahwa rudalku yang sudah menegang kutempelkan di pahanya.
+
+Ku coba menggesek-gesekkan perlahan rudalku ke paha bu Mumum. Bu Mumum tahu. Namun beliau diam saja. Aku pegang pipi beliau, tentunya air mataku masih mengalir, sambil aku lekatkan bibirku dengan bibirnya sambil berkata “Ibu…”, bibir bu Mumum tidak terbuka, beliau tetap diam, walaupun bibirku bergerak-gerak mencium bibirnya.
+
 Tunjukan keberuntunganmu dengan bermain DominoQiuQiu Online, Raih uang sebanyak-banyaknya
-Berbarengan dengan itu, aku tekan dan gesekkan terus penisku yang sudah basah ke paha bu Mumum. Kami berdua duduk di sofa. Bu Mumum tahu aku sedang apa dan beliau diam saja, mebiarkan ku beronani dengan menggunakan paha dan bibirnya sebagai media masturbasiku.
+
+Berbarengan dengan itu, aku tekan dan gesekkan terus rudalku yang sudah basah ke paha bu Mumum. Kami berdua duduk di sofa. Bu Mumum tahu aku sedang apa dan beliau diam saja, mebiarkan ku beronani dengan menggunakan paha dan bibirnya sebagai media masturbasiku.
+
 Aku gesek-gesekkan terus dan terus, bu Mumun tampaknya memejamkan mata dan tidak berkata apa-apa. OOh pembaca, wajahnya aku ciumi, nafasnya aku hirup, dan pahanya yang besar dan lembut aku tekan-telan dengan rudal, gesek terus.. Ooh..terus… Dan akhirnya ouuhh.. Cepat sekali aku ejakulasi,
+
 Aku pun lemas sambil memeluk ibu Mumum yang hampir posisinya setengah tertidur di sofa akibat aku tekan terus. Bu Mumum pelan-pelan bilang, “udah..? hm?”, kata bu Mumum pelan dan terdengar sayang sekali denganku. Aku minta maaf sekali lagi dan bu Mumum bilang ia mengerti. Tentunya setelah kejadian itu, aku semakin dekat dengan ibu, sampai detik ini.. Suaminya dan teman-temanku tidak tahu hubungan kami.
-Walaupun aku belum sampai berhubungan bercinta dengan bu Mumum, namun bu Mumum selalu tahu dan bersedia menjadi media onaniku, dengan syarat pakaian kami masih kami kenakan, bu Mumum hanya menyediakan pahanya dan memperbolehkan aku menindihnya dan menekan-nekan penisku ke paha dekat selangkangannya sampai aku dapat klimaks.
+
+Walaupun aku belum sampai berhubungan bercinta dengan bu Mumum, namun bu Mumum selalu tahu dan bersedia menjadi media onaniku, dengan syarat pakaian kami masih kami kenakan, bu Mumum hanya menyediakan pahanya dan memperbolehkan aku menindihnya dan menekan-nekan rudalku ke paha dekat selangkangannya sampai aku dapat klimaks.
+
 Maka itu, aku selalu membawa celana dalam cadangan saat aku bilang ke bu Mumum kalau aku ingin ke rumah ibu Mumum.

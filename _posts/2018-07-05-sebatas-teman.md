@@ -3,26 +3,33 @@ layout: post
 title: "Sebatas Teman"
 author: "Om Sugeng"
 date: 2018-07-05 04:41:48 +0000
-description: "Sebatas Teman Cerita Dewasa &#8211; Entah mengapa sabtu sore itu,aku merasa males banget jalan sama pacarku. Niatan sih dirumah aja tapi baru jam 5 sore aku sdh jenuh di rumah. \u201cAnjrit! Enaknya ngapa..."
+description: "Sebatas Teman Cerita Dewasa &#8211; Entah mengapa sabtu sore itu,aku merasa males banget jalan sama pacarku. Niatan sih dirumah aja tapi baru jam 5 sore aku sdh jenuh di rumah.  \u201cAnjrit! Enaknya ngapa..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
 
-
 Sebatas Teman
 Cerita Dewasa &#8211; Entah mengapa sabtu sore itu,aku merasa males banget jalan sama pacarku. Niatan sih dirumah aja tapi baru jam 5 sore aku sdh jenuh di rumah.
+
 “Anjrit! Enaknya ngapain ya?” gerutuku dalam hati
 “Sms Siska aja ah..” kemudian kuambil handphoneku ku; ‘hai,Sis lagi diapain lo?’canda ku.Siska teman kantor ku, kami sangat akrab.
+
 Kebetulan kami sama-sama suka travelling, pernah kami jalan bareng ke pulau bali beberapa hari tentu saja tanpa sepengetahuan pacarku.
+
 Enaknya jika jalan sama Siska, dia cewek yg independent, tdk mau bergantung pada orang lain. Mungkin karena menyadari bahwa kami tdk ada komitment. Aku pun sangat menghormatinya.
+
 Tdk jarang saat travelling, untuk menghemat biaya kami CI bareng, tidur bareng satu ranjang tapi belum pernah kejadian macam-macam. Memang aku akui kalo wajah dia bukan typeku tapi yg lain, bodynya cewek banget! Apalagi payudaranya itu lo, lumayan montok.
+
 ‘Tiitt tiitt..tiitt tiitt’ sms masuk
 ‘lagi di rumah, kenapa emang?gak ngapel loe?’.kubalas
 ‘lagi cuti nonton aja yuk di Metropole bete nih’kemudian
 ‘Ayo, jemput gue ya di UKI 30 menit lagi’
 ‘Ok’, jawabku.
+
 Siska tinggal di daerah Cibinong, aku sendiri belum pernah main ke rumahnya. Kami selalu janjian di UKI jika ingin jalan bareng.Sesampainya di Metropole film akan segera diputar. Saat itu, kami nonton film Batman. Aku yg pilih, Siska nurut aja.Seperti biasa nonton ya nonton namanya sama teman. Film selesai jam setengah sepuluh.
+
 “Raih Keberuntunganmu dengan bermain Dominobet, games kartu online dengan menggunakan uang asli, terdiri permainan Capsa, Poker, Kiyu-kiyu, Sakong dan lain-lain. Dapatkan Jackpot hingga ratusan juta rupiah.”
+
 “Laper banget nih makan yuk” ajak ku.
 Kemudian kami menuju ke samping bioskop karena ada yg jual ikan bakar, lumayan enak. Selesai makan,
 “Kemana lagi nih Sis, mau balik loe?”
@@ -81,6 +88,7 @@ Cerita mesum hot, Sesaat kemudian di lepas jambakannya dan rebahan kembali. Dada
 “Ywdah deh”..
 
 &#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
+
 Aku mulai mengambil posisi seperti orang mau senggama. Kuletakkan k0ntolku di celah meqinya. Siska pasrah aja. Aku mulai menggerakkan pelan-peln. Meqinya mulai becek lagi walaupun sebelumnya udah basah. Perlahan tapi pasti tubuhnya ikut bereaksi bahkan Siska mulai mendesah kembali. Aku mulai mendayung, gerakan Siska pun makin instens. Tangannya mulai mengarah kan pantatku untuk bergerak seirama denganya. Birahikupun makin mendekati puncak. Dan…Siska akan orgasme lagi.
 Tangannya makin keras menggerakkan pantatku. Siska diambang orgasmenya, gerakannya tdk beraturan. Tdk selaras lagi dgn gerakanku. Saat aku mendayung ke belakang, Siska meraih pantatku dan menariknya kedepan berbarengan dgn orgasmenya. Celakanya k0ntolku malah melesak masuk ke meqinya…dalam…masuk seluruhnya!Kepala Siska mendongak ke belakang.
 “oooogggghhhhh…..” desahnya.

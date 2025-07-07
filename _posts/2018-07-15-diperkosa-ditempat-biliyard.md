@@ -3,11 +3,10 @@ layout: post
 title: "Diperkosa Ditempat Biliyard"
 author: "Om Sugeng"
 date: 2018-07-15 04:58:49 +0000
-description: "Diperkosa Ditempat Biliyard Cerita Dewasa &#8211; Sebut saja namaku Wenny, aku akan menceritakan kisah bercinta nyata yang sangat pedih yang aku alami bersama temanku yang sebut saja namanya Risty. K..."
+description: "Diperkosa Ditempat Biliyard Cerita Dewasa &#8211; Sebut saja namaku Wenny, aku akan menceritakan kisah bercinta nyata yang sangat pedih yang aku alami bersama temanku yang sebut saja namanya Risty. Ki..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
-
 
 Diperkosa Ditempat Biliyard
 Cerita Dewasa &#8211; Sebut saja namaku Wenny, aku akan menceritakan kisah bercinta nyata yang sangat pedih yang aku alami bersama temanku yang sebut saja namanya Risty. Kisah bercinta nyata perkosaan yang aku alami bersama Risty ini terjadi ketika aku duduk dibangku kuliah semester 2, dan aku saat ini masih kuliah di sebuah universitas swasta di bandung namun sudah semester akhir.
@@ -16,7 +15,9 @@ Di kota kembang (Bandung) itu aku tinggal di salah satu kos putri yang memiliki 
 Namun karena dia malas bolak-balik dari kerumah, akhirnya dia-pun memutuskan untuk kos denganku. Aku sih seneng-seneng aja, kan bisa lebih irit jika satu kost dibayar berdua, hhe. Sangat beruntung sekali bisa satu kots dengan Risty, karena seain dia pintar, dia juga baik sekali padaku. Dia sering meminjamkan uang ataupun membelikanku makan jika kiriman uangku telat.
 Wenny dan aku ini sama-sama memiliki kulit putih yang mulus dan wajah lumayan menarik. Postur tubuh kami hampir sama, bahkan kami sering dibilang kaka adik jika sedang keluar ke Mall ataupun di kampus. Bedanya aku dengan Risty adalah aku tidak perawan dan Wenny masih perawan. Aku mengetahui Risty masih perawan dari kejadian yang menimpa kami.
 Postur tubuh kami bisa dikatakan proposional, pinggang kami yang ramping yang didukung oleh payudara dan pantat kami yang lumayan berisi membuat kami tampak menggemaskan. Yah jika para lelaki melihat kamipasti akan bernafsu, tau sendirikan lelaki itu otaknya mesum,hhe. Aku kuliah sembari bekerja disalah satu club bilyard exekutif di bandung.
+
 “Raih Keberuntunganmu dengan bermain Dominobet, games kartu online dengan menggunakan uang asli, terdiri permainan Capsa, Poker, Kiyu-kiyu, Sakong dan lain-lain. Dapatkan Jackpot hingga ratusan juta rupiah.”
+
 Hal itu membuatku menjadi seorang pribadi yang mandiri, dari hasil kerjaku itu aku sudah tidak minta lagi uang saku dan uang kost kepada orang tuaku. Aku bekerja karena aku sadar orang tuaku mempunyai kehidupan ekonomi yang pas-pasan. Disana aku bekerja sebagai salah satu penjaga meja bilyard, sekaligus merangkap sebagai waitress di tempat itu.
 Tak jarang seorang pelanggan bilyard yang rata-rata hidung belang dan kaya sering menggoda bahkan ada juga yang ingin memboking-ku demi memuaskan hasrat bercinta mereka. Walaupun aku sudah tidak perawan, namun aku tidak pernah tergoda dengan godaan para hidung belang itu. Memang rasanya sangat letih sekali bekerja diclub bilyard.
 Selain lelah dalam tenaga aku juga lelah dengan menjaga diri dari para hidung belang itu. Mau gimana lagi karena memang dari awalnya aku ingin belajar hidup mandiri, bahkan aku berharap aku bisa membayar uang kuliahku dari hasil keringatku sendiri. Langsung ke inti ceritanya aja yah para pembaca.
@@ -72,7 +73,7 @@ Sesudah itu Risty-pun segera bergegas berdir dan akan keluar dengan alasan ingin
 “ Ceklek…, ”
 Merasa seperti itu aku-pun mencoba datang keraah Pak ridwan untuk berbicara. Sebelum sempat aku berbicara tiba-tiba saja Pria yang bermain bilyard denganku memeluk erat aku dari belakang, lalu satu temannya lagi datang kerahku dengan memeluk aku dari depan,
 “ Woy, kalian mau ngapain, berengsek kalian yah, lepaskan aku.. cepat lepaskan…, ” ucapku.
-“ Sudahlah manis kamu nurut aja, mala mini kalian berdua puaskan kami yah, nanti kami akan memberikan kalian uang, ” ucap pria yang bermain bilyard denganku tadi.
+“ Sudahlah kenikmatans kamu nurut aja, mala mini kalian berdua puaskan kami yah, nanti kami akan memberikan kalian uang, ” ucap pria yang bermain bilyard denganku tadi.
 “ Jangan macem-macem kalian yah, kalau sampai…….., ”
 Belum sempat aku berkata mereka sudah menyekap mulutku denganya, aku tidak bisa teriak lagi. Salah satu Pria yang memeluk diriku melepas pelukanya lalu mengambil sweater dan bajuku,
 “ Bro, ini baju sama sweaternya bisa buwat ngiket Wenny nih, ” ucap salah satu pria yang memeluku tadi.
@@ -85,7 +86,7 @@ Risty-pun saat itu mencoba berlari, namun apa daya mereka lebih cepat dari Risty
 “ Pak jangan Pak, tolong lepaskan aku dan Wenny Pak, aku masih perawan pak tolong jangan perkosa kami, HU…uuuu…uuuu, ” ucap Risty meminta ampun sembari menagis.
 Tanpa banyak biacara managerku membungkam mulut Risty dengan celana dalam Risty. Aku lihat saat itu Risty segera diangkat kedua pria itu diatas sofa dan direbahkan disana. Ketika aku sedang melihat Risty tiba-tiba saja tubuhku digulingkan oleh salah satu Pria yang mengikatku tadi,
 “ Daniel, Gue dulu yah nanti kita gantian, , ” ucap pria yang bermain bilyard tadi.
-“ Nggak seru dong Sony, mending kita barengan aj deh, kita suit, yang kalah menggenjot pantat dan yang menang menggenjot memeknya, gimana deal ???, ” ucap sony.
+“ Nggak seru dong Sony, mending kita barengan aj deh, kita suit, yang kalah menggenjot pantat dan yang menang menggenjot serambi lempitnya, gimana deal ???, ” ucap sony.
 Ternyata Pria yang bermain bilyard denganku namanya Sony, dan satu temanya lagi bernama Daniel. Ketiak Daniel dan sony berbincang, tiba-tiba saja Pak Ridwan menyahut omongan Daniel dan Sony,
 “ Wah keren juga ide Pak Daniel tuh, kita suit juga yok pak Andre biar sama kayak pak Daniel dan pak Sony, ” ucap pak Ridwan.
 Oh ternyata nama ketiga Pria itu Sony, Daniel, dan Andrew, ucapku dalam hati. Dalam keadanku yang terikat aku sempatnya sempatnya aku menyimak omongan mereka. Aku kasihan sekali dengan Risty, nampaknya dia masih perawan sungguhan, tidak sepertiku yang sudah tidak perawan. Risty menagis tak heni-henti ketika Pak Ridwan dan Pak Andrew sedang bersuit.
@@ -99,41 +100,42 @@ Mendengar ncamannya itu aku-pun tidak berani berontak. Tidak lama setelah itu So
 Awalnya aku tidak rela mereka memperlakukan seperti itu, namun karena rangsangan yang diberikan mereka kepadaku sangat nikmat maka [ada akhirnya aku-pun menikmatinya,
 “ Eughhhh….., ” lenguhku terdengar tidak jelas karena mulutku tersumpal BH-ku.
 Disisi lain aku yang sudah mulai menikmati perkosaan itu, aku melihat Risty masih terus berontak dengan menggerak-gerakan tubuhnya yang terikat itu diatas sofa. Entah dia meracau apa tidak jelas sembari meneteskan air mata. Ridwan dan Andrew memang benar-benar berengsek. Tega sekali mereka memperkosa Risty yang tidak tahu apa-apa.
-Daniel saat itu mulai beralih menjilati pantat sampai keliang pantatku, sedangkan Sony dia mulai menjilati liang bibir Vaginaku. Aku yang tadinya sempat kesal pada Sony dan Daniel seiring rangsangan yang diberikan mereka aku-pun mulai merasakan rangsangan bercinta yang luar biasa. Sony menjilati Vaginaku dan sesekali dia menghisap-hisap klitoris-ku dengan penuh nafsu bercinta.
-Daniel-pun tidak kalah hebatnya dengan Sony, dia menjilati liang pantatku yang bersih seperti pantat bayi dengan penuh nafsu tanpa rasa jijik sedikitpun. Oughhh… sungguh kuar biasa sekali mendapat rangsangan bercinta dari 2 lelaki sekaligus, sungguh rasanya luar biasa sekali. Vaginaku sungguh terasa basah sekali dengan lendir kawinku.
-Kurasakan hampir setiap detik vaginaku mengeluarkan lendir kawin yang semakin membuat memeku basah. Beberapa saatSony dan Daniel melakukan hal itu, mereka yang sudah bernfsu-pun nampanya akan segera mengeksekusi Liang serambi lempit dan Liang Duburku. Mereka segera melucuti pakaian merak hingga telanjang bulat,
-“ Niel Lu masukin dulu tuh rudal Loe ke Dubur Wenny, kan agak susah kalau anal bercinta, ” ucap Sony sembari mengocok penisnya yang sudah ereksi maksimal.
+Daniel saat itu mulai beralih menjilati pantat sampai keliang pantatku, sedangkan Sony dia mulai menjilati liang bibir serambi lempitku. Aku yang tadinya sempat kesal pada Sony dan Daniel seiring rangsangan yang diberikan mereka aku-pun mulai merasakan rangsangan bercinta yang luar biasa. Sony menjilati serambi lempitku dan sesekali dia menghisap-hisap klitoris-ku dengan penuh nafsu bercinta.
+Daniel-pun tidak kalah hebatnya dengan Sony, dia menjilati liang pantatku yang bersih seperti pantat bayi dengan penuh nafsu tanpa rasa jijik sedikitpun. Oughhh… sungguh kuar biasa sekali mendapat rangsangan bercinta dari 2 lelaki sekaligus, sungguh rasanya luar biasa sekali. serambi lempitku sungguh terasa basah sekali dengan lendir kawinku.
+Kurasakan hampir setiap detik serambi lempitku mengeluarkan lendir kawin yang semakin membuat serambi lempitu basah. Beberapa saatSony dan Daniel melakukan hal itu, mereka yang sudah bernfsu-pun nampanya akan segera mengeksekusi Liang serambi lempit dan Liang Duburku. Mereka segera melucuti pakaian merak hingga telanjang bulat,
+“ Niel Lu masukin dulu tuh rudal Loe ke Dubur Wenny, kan agak susah kalau anal bercinta, ” ucap Sony sembari mengocok rudalnya yang sudah ereksi maksimal.
 “ Oke Son, siap, ” ucapnya.
-Kemudian Daniel-pun segera naik diatas pantatku. Mulailah dia membasahi penisnya dan liang senggamaku dengan ludahnya. Beberakali dia mencoba memasukan penisnya. Kira-kira selam 10 menit dia baru berhasil menembus liang duburku,
+Kemudian Daniel-pun segera naik diatas pantatku. Mulailah dia membasahi rudalnya dan liang senggamaku dengan ludahnya. Beberakali dia mencoba memasukan rudalnya. Kira-kira selam 10 menit dia baru berhasil menembus liang duburku,
 “ Blesssssssssss… Blupppppppp…., ” suara rudal Daniel yang tertanam di liang duburku.
 “ Eghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh… aittt… angsat uuuuu…., ” racaukutidak jelas karena kesakitan.
 “ Udah masuk nih Son, sini lu buruan sodok serambi lempit Wenny, ” ucapnya.
-Tanpa banyak bicara Sony-pun segera membenamkan penisnya didalam vaginaku,
+Tanpa banyak bicara Sony-pun segera membenamkan rudalnya didalam serambi lempitku,
 “ Blesssssssssssssss… Agggghhhhhhhhhhhhhhh…, ” lenguh sony.
 Setelah kedua Pria itu sudah memnamkan rudal mereka pada liang senggam dan pantatku mereka-pun serempak mengoyangkan pinggulnya. Rasanya sungguh tidak karuan, disisi lain aku merasakan sakit pada duburku, disisi lain juga aku merasakan nikmatnya sodokan rudal Sony pada serambi lempit-ku,
 “ Ssssshhh…. Gila nih lubang pantat, nikmat banget Son, Sssssshhh… Ouhhhh…, ” ucap Daniel kepada Sony.
 “ Hahaha dasae loe otak cabul, enakan serambi lempit goblog… Ahhhh… nih serambi lempit kayak meres-meres rudal Gue nih Niel, enak banget… Ahhhhhhhh…, ” ucapnya pada Daniel.
-Saat itu mereka menyodok liang serambi lempit dan duburku tanpa perasaan. Awalnya yang rasanya sakit pada liang duburku, lama-lama menjadi nikmat. Kurasakan kedua rudal pria setengah baya itu mencabuliku bersamaan. Tidak pernah terbayangkan aku akan di setubuhi kedua pria sekaligus. Saat itu tidak terasa sudah 10 menit mereka meyodok dubur dan vaginaku.
+Saat itu mereka menyodok liang serambi lempit dan duburku tanpa perasaan. Awalnya yang rasanya sakit pada liang duburku, lama-lama menjadi nikmat. Kurasakan kedua rudal pria setengah baya itu mencabuliku bersamaan. Tidak pernah terbayangkan aku akan di setubuhi kedua pria sekaligus. Saat itu tidak terasa sudah 10 menit mereka meyodok dubur dan serambi lempitku.
 Ketika sedang aku sedang meniktmatinya, tiba-tiba saja Daniel menghentikan sodokannya pada liang duburku,
 “ Crutttttttttttttttt…. Crutttttttt… Crutttttttttttt… Anritttttttt gue udah keluar nih Son… Sssshhh, ” ucap Daniel mendapat klimaksnya.
-Puas dengan itu, Daniel-pun segera melepas penisny dari duburku lalu dia merebahkan diri di atas meja bilyard. Sony yang sudah leluasa dengan tidak adanya rudal Daniel di duburku, diapun dengan bebasnya menggenjot vaginaku dengan hasrat bercinta yang membara. Sony memang lebih kuat dari Daniel saat berhubungan bercinta.
-Dengan merebahkan tubuhnya diatas pungguku, dia meremas payudaraku lalu dia menambah kecepatan sodokan penisnya pada vaginaku,
+Puas dengan itu, Daniel-pun segera melepas rudalny dari duburku lalu dia merebahkan diri di atas meja bilyard. Sony yang sudah leluasa dengan tidak adanya rudal Daniel di duburku, diapun dengan bebasnya menggenjot serambi lempitku dengan hasrat bercinta yang membara. Sony memang lebih kuat dari Daniel saat berhubungan bercinta.
+Dengan merebahkan tubuhnya diatas pungguku, dia meremas payudaraku lalu dia menambah kecepatan sodokan rudalnya pada serambi lempitku,
 “ Ssssssshhh… serambi lempit kamu benar-benar seperti serambi lempit bayi sayang, peret dan sempit sekali rasanya.. Oughhhh… Rasanya aku pingin buru-buru ngecrottt, Ahhhh…, ” ucapnya dipenuhi perasaan cabul-nya.
-Aku yang sudah terlanjur menikmati perkosaan itu sudah tdak lagi mnghiraukan Risty, entah Risty sudah diapakan saja dengan Ridwan dan Andrew. Yang aku dengar hanyalah desahan dan tangisan yang tidak jelas karena mulut Risty juga tersumpal. Sony yang menyodokan penisnya dengan keras dan dalam membuat aku kelnojotan,
+Aku yang sudah terlanjur menikmati perkosaan itu sudah tdak lagi mnghiraukan Risty, entah Risty sudah diapakan saja dengan Ridwan dan Andrew. Yang aku dengar hanyalah desahan dan tangisan yang tidak jelas karena mulut Risty juga tersumpal. Sony yang menyodokan rudalnya dengan keras dan dalam membuat aku kelnojotan,
 “ Eggggghhhhhhhhhhhhhhhhhhh……… ,”
-Desahku mendapatkan orgasmeku diiringi dengan mengejangnya tubuhku sesaat. Sony yang nampaknya tahu aku Orgasme dia-pun semakin gila saja menyetubuhi aku, digenjotnya kekanan, kekiri, dan terkadang dia memutar-mutarkan penisnya dalam vaginaku dengan gaya bercinta doggie Style. Kenikmatan bercinta yang diberikan Sony membuat aku lupa dengan perkosaan itu.
+Desahku mendapatkan orgasmeku diiringi dengan mengejangnya tubuhku sesaat. Sony yang nampaknya tahu aku Orgasme dia-pun semakin gila saja menyetubuhi aku, digenjotnya kekanan, kekiri, dan terkadang dia memutar-mutarkan rudalnya dalam serambi lempitku dengan gaya bercinta doggie Style. Kenikmatan bercinta yang diberikan Sony membuat aku lupa dengan perkosaan itu.
 Aku sudah lupa jika aku sedang diperkosa oleh Pria hidung belang itu. Sekitar 15 menit Sony bertahan semenjak Daniel mendapatkan orgasmenya saat itu. Tidak lama kemudian Sony-pun berkata,
 “ Sayang aku mau keluar nih, Ouhhhh… Sayang… Ahhhhhhhhhhhhhhhhh…. Crotttttttt… Crotttttttttt.. Crottttttttttttt, ” ucapnya.
 “ Eughhhhhhhh… Ssssssssssssssss….., ” ucapku merasakan nikmat juga.
-Beberapa saat Sony membiarkan penisnya tertanam pada vaginaku. Merasa sudah puas dia-pun segera mencabut penisnya yang tertanam pada vagiaku,
+Beberapa saat Sony membiarkan rudalnya tertanam pada serambi lempitku. Merasa sudah puas dia-pun segera mencabut rudalnya yang tertanam pada vagiaku,
 “ Blupppppppp…. Syurrrrrrrrrrrrrrrrrrrrrrr…., ” suara rudal Denis yang tercabu diiringi mengalirnya pejuh yang bercampur lendir kawinku mengaliri pahaku dan sebagian berceceran pad meja bilyard itu.
 
 &#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
+
 Setelah itu diapun melepas sumpalan BH yang ada didalam mulutku,
 “ Anjing Loe Son, bangsat Loe, loe udah perkosa gue masih aja loe masukinpejuh loe di serambi lempit gue, emang anjing loe…, ” ucapku penuh amarah setelah sadar dari birahi bercinta yang menyelimuti fikiranku tadi.
 “ hahaha… Munafik Loe tadi gue lihat lu juga nikmati rudal Gue, hahahha…, ” ucapnya.
 Saat aku yang sudah sadar dari belengguh nafsu bercinta-ku mulai melihat kearah Risty, Aku lihat Andrew dan Ridwan sedang mengocok dan menyemburkan spermanya dimulut dan dipayudara Risty. Terlihat serambi lempit Risty yang sudah jebol keperawannya, kareana saat itu terlihat serambi lempit Risty basah dengan darah segar yang bercampur lendir kawin Risty.
 Setelah mereka sudah berempat sudah medapatkan klimasknya, mereka-pun segera melepaakan ikatan kami. Setelah itu Sony,Daniel, dan Andrew melempar uang yang masing-masing berjumlah 1 juta kepadaku. Kami yang sudah terlepas dari ikatan, kami segera memakai pakaian kembali. Setalah rapi aku mengambil uang itu dan aku memapah Risty keluar dari club bilyard itu.
-Risty terlihat kecewa dan kesakitan karena malam itu keperawananya telah diambil oleh pria berperilaku mesum dan bejat itu. Kami-pun segera bergegas pergi dan menuju kekantor polisi. Kami melapor atas pelecehan sexual yang kami alami. saat itu ak teringat kira-kira 200 meter dari tempat bilyard itu ada polsek.
-Tidak pakai lama beberapa polisi itupun segera menagkap ke 4 pria bejat itu. Singkat cerita Akhirnya mereka-pun difonis dengan hukuman dengan pasal pelecehan sexual dan kekerasan terhadap wanita. Untung saja saat itu aku tidak hamil, dan bisa membayar uang semesterku, disisi lain aku senang dan disisi lain juga aku merasa kecewa.
+Risty terlihat kecewa dan kesakitan karena malam itu keperawananya telah diambil oleh pria berperilaku mesum dan bejat itu. Kami-pun segera bergegas pergi dan menuju kekantor polisi. Kami melapor atas pelecehan bercintaual yang kami alami. saat itu ak teringat kira-kira 200 meter dari tempat bilyard itu ada polsek.
+Tidak pakai lama beberapa polisi itupun segera menagkap ke 4 pria bejat itu. Singkat cerita Akhirnya mereka-pun difonis dengan hukuman dengan pasal pelecehan bercintaual dan kekerasan terhadap wanita. Untung saja saat itu aku tidak hamil, dan bisa membayar uang semesterku, disisi lain aku senang dan disisi lain juga aku merasa kecewa.
 Aku kasihan kepada Risty yang telah kehilangan keperawananya. Semenjak kejadian itu Risty tidak diperbolehkan Kos dengan orang tuanya lagi, namun aku dan Risty masih tetap bersahabat sampai sekarang. Kejadian itu membuatku aku dan Risty merasa trauma hingga sekarang.

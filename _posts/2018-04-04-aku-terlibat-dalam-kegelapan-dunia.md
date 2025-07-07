@@ -3,96 +3,175 @@ layout: post
 title: "Aku Terlibat Dalam Kegelapan Dunia"
 author: "Om Sugeng"
 date: 2018-04-04 09:41:33 +0000
-description: "Aku Terlibat Dalam Kegelapan Dunia &nbsp; Cerita bercinta &#8211;\u00a0\u00a0Namaku Lina. Usiaku 16 tahun. Aku sekolah di sebuah SMU swasta terkenal di Surabaya. Sudah hampir setahun ini hidupku penuh berisi k..."
+description: "Aku Terlibat Dalam Kegelapan Dunia &nbsp;  Cerita bercinta &#8211;\u00a0\u00a0Namaku Lina. Usiaku 16 tahun. Aku sekolah di sebuah SMU swasta terkenal di Surabaya. Sudah hampir setahun ini hidupku penuh berisi k..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita 18", "Cerita Dewasa", "Cerita Ngentot", "Cerita Panas", "Cerita Seks"]
 ---
 
-
 Aku Terlibat Dalam Kegelapan Dunia
 &nbsp;
+
 Cerita bercinta &#8211;  Namaku Lina. Usiaku 16 tahun. Aku sekolah di sebuah SMU swasta terkenal di Surabaya. Sudah hampir setahun ini hidupku penuh berisi kesenangan-kesenangan yang liar. Dugem, ineks dan bercinta bebas. Sampai akhirnya aku terjerumus dalam ambang kehancuran. Terombang-ambing dalam ketidak pastian. Aku bingung apa yang kucari. Aku bingung harus kemana arah dan tujuanku. Apa yang selama ini kulakukan tidak memberikan kemajuan yang positif. Bahkan aku nyaris gila. Siapakah aku ini?
-Sejujurnya aku menyesali kondisiku yang seperti ini. Keterlibatanku dengan narkoba telah membawaku ke dalam kehidupan yang kelam. Sungguh kejam! Aku jadi berangan-angan ingin kembali ke kehidupan lamaku dimana aku belum mengenal narkoba. Saat itu begitu indah. Orang tuaku sayang padaku. Andrew pacarku dengan setia berada disisiku. Dan dia selalu datang untuk menghibur dan menemaniku.
+
+Sejujurnya aku menyesali kondisiku yang seperti ini. Keterlibatanku dengan narkoba telah membawaku ke dalam kehidupan yang kelam. Sungguh kejam! Aku jadi berangan-angan ingin kembali ke kehidupan lamaku dimana aku belum mengenal narkoba. Saat itu begitu indah. Orang tuaku sayang padaku. Andrew pacarku dengan setia berada disisiku. Dan dia selalu datang untuk menghibur dan menekenikmatanku.
+
 Aku jadi ingat pada hari-hari tertentu, teman-teman sekolahku datang main ke rumah untuk mengerjakan tugas atau hanya sekedar berkumpul. Kalau lagi ada pacarku, mereka selalu menggoda kami sebagai pasangan serasi. Padahal menurutku kami bertolak belakang. Aku pemalu dan mudah merajuk. Sedang pacarku biang kerok di sekolah dan tidak tahu malu. Aku berprestasi dalam pelajaran tapi kurang menguasai bidang olah raga. Sedangkan dia berprestasi dalam olah raga namun malas belajar. Tinggiku sedang dan badanku agak kurus. Sedangkan dia tinggi dan besar. Pokoknya beda banget. Tapi teman sekolah mengatakan kami pasangan serasi. Entah apanya yang serasi..
+
 Aku masih ingat saat-saat terakhir dia meninggalkan aku untuk sekolah ke Amerika. Ada setitik firasat bahwa itu adalah saat terakhir aku bersamanya. Aku menangis tiada henti di bandara seperti orang bodoh. Tidak ada kata yang terucap, hanya sedu sedan lirih terdengar dari mulutku. Orang tuanya sampai sungkan pada orang tuaku dan berusaha menghiburku dengan mengatakan bahwa Andrew akan sering pulang ke Indonesia untuk menengokku. Orang tuaku pun tak kalah dan berjanji padaku akan menyekolahkan aku ke Amerika selepas SMU.
+
 Kata orang cinta akan lebih terasa saat terpisahkan oleh jarak. Aku tidak sabar untuk membuka e-mail setiap malam. Telepon internasional seminggu sekali menjadi pelepas dahaga bila aku rindu suaranya. Setiap malam menjelang tidur, aku melihat-lihat foto kami berdua. Dan tak lupa aku mendoakan dia.
+
 Kini Andrew tidak akan mau memandangku lagi. Laporan dari teman-temannya yang melihat aku berkeliaran di diskotik-diskotik dengan lelaki lain membuatnya murka dan tidak mempercayai aku. Dia mengadili aku yang hanya bisa menangis dan berjanji akan menghentikan perbuatanku. Tapi apa daya, di belahan dunia lain, Andrew tidak akan bisa melihat keseriusanku. Dia meminta untuk mengakhiri hubungannya denganku meski aku menangis meraung-raung di telepon. Aku tak berdaya. Dia begitu kerasnya tidak mengampuni kesalahanku.
+
 Yah memang semua itu memang salahku. Tapi apakah aku tidak punya kesempatan untuk memperbaiki kesalahan? Apakah setiap orang tidak pernah khilaf? Apakah sama sekali tidak ada ampun untukku? Dia dulu mengatakan apa pun yang terjadi akan selalu mencintaiku. Akan selalu menjagaku. Semakin hari cintanya padaku akan semakin besar. Ternyata, bohong! Itu semua hanya bohong belaka!
+
 Saat ini aku jadi ceweq bodoh, sering melamun dan mudah stres. Bukan hanya hubunganku dengan Andrew yang hancur. Hubunganku dengan ayah ibuku juga memburuk. Mereka sudah menyerah menghadapi aku yang hampir setiap hari pulang pagi. Mereka bahkan mengancam akan mengusir aku bila terus menerus seperti ini.
+
 Aku jadi sering membolos sekolah. Prestasiku di sekolah makin hari makin memburuk. Aku telah kehilangan minat untuk belajar dan meraih ranking tinggi di sekolah. Hubungan sosial dengan teman sekolahku juga semakin buruk. Aku malas bergaul dengan mereka. Aku takut mereka mengetahui siapa aku sebenarnya. Aku takut mereka menyebarkan tingkah lakuku sebenarnya. Aku takut..
+
 Aku jadi paranoid! Aku jadi mudah curiga dengan semua orang. Aku jadi sulit tidur dan melamun yang tidak-tidak. Aku jadi sering mimpi buruk dan makin sulit membedakan mana mimpi dan kenyataan. Lama-lama aku bisa gila!
+
 Aku ingin berhenti menggunakan narkoba dan sesegera mungkin meninggalkan dunia gemerlap yang selama setahun ini kugeluti. Tapi aku sulit meninggalkannya. Aku terperangkap di dalamnya!
+
 Ineks! Semua ini gara-gara pil setan itu! Badanku semakin kurus. Mataku cekung dihiasi garis hitam dibawahnya. Aku tidak mengenali wajahku sendiri di hadapan cermin. Bahkan Mamaku sudah mengecap aku sebagai wanita nakal. Jadilah Bagian Dari DominoBet
+
 Yah.. wanita nakal.. aku memang telah jadi wanita nakal. Aku telah melepaskan keperawananku pada seorang pria yang bukan suamiku. Aku malu pada diriku dan pada orang tuaku. Diriku bukan Lina yang dulu. Lina yang selalu meraih prestasi di sekolah. Lina yang selalu membanggakan orang tua. Lina yang rajin ke gereja. Lina yang lugu dan pemalu. Lina yang selalu jujur dan berterus terang..
+
 Malam itu entah malam keberapa aku ke diskotik dengan Leo. Setelah triping gila-gilaan bersama teman-teman, aku pulang bersama Leo. Sebenarnya aku malas pulang karena masih dalam keadaan on berat. Gara-gara Bandar gede dari Jakarta datang, semua jadi kebanyakan ineks. Badanku terus bergetar tiada henti, dan rahangku bergerak-gerak ke kiri dan kekanan. Dengan eratnya aku peluk lengan Leo seakan-akan takut kehilangan dirinya.
+
 Tidak seperti biasanya Leo mengajakku putar-putar keliling kota. Mungkin dia kasihan melihat aku masih on berat dan tidak tega membiarkan aku sendirian di rumah. Aku sih senang-senang saja. Kuputar lagu-lagu house music agak kencang, meski aku tahu akibatnya bisa fatal.
+
 Tak sampai lima menit, lagu house music dan hembusan hawa AC yang dingin membuat aku on lagi! Aku menggerak-gerakkan badan, kepala dan tanganku di bangku sebelah. Rasanya asyik sekali triping dalam mobil yang melaju membelah kota! Leo tertawa melihat aku memutar-mutar kepala seperti angin puyuh.
+
 “Untung kaca film mobilku gelap. Jadi aku nggak perlu takut orang-orang melihat tingkahmu!” ujarnya.
+
 Hahaha.. rasanya saat itu aku tidak peduli mau dilihat orang, polisi, hansip atau siapa pun juga, aku tidak akan peduli! Lagipula ini masih jam 3 pagi.
+
 Setelah setengah jam kami putar-putar kota, akhirnya kami sampai di daerah sekitar rumah Leo. Leo menyarankan agar aku meneruskan tripingku di rumahnya. Sebab terlalu riskan bila triping di jalanan seperti itu. Kalau sedang sial bisa ketangkap polisi. Aku yang sudah tidak bisa berpikir lagi Cuma mengiyakan semua omongannya.
+
 Sampai di rumahnya, aku langsung diantar ke kamarnya. Sambil meletakkan kunci mobil, Leo menyalakan ac dan memutar lagu house music untukku. Wah dia benar-benar ingin membuat aku on terus sampai pagi! Ok, Aku layani! Kurebut remote ac dari tangannya dan ku setel dengan temperatur paling rendah.
+
 Leo yang sudah drop, begitu mencium bau ranjang langsung hendak merebahkan badannya yang besar itu ke tempat tidur. Tentu saja aku tidak ingin tripping sendiri! Kutarik tangannya dan kuajak dia goyang lagi. Leo mengerang dan tetap menutup wajahnya dengan bantal. Tingkahnya dibuat manja seperti anak kecil. Tidak habis pikir aku segera mencari koleksi minumannya di mejanya. Kusambar sebotol Martell VSOP dan kupaksa dia minum.
+
 Mulanya Leo menolak dengan alasan besok harus kerja. Namun aku memaksa terus hingga dia tak berkutik. Beberapa teguk Martell membuahkan hasil juga. Leo bangun dan duduk didepanku. Aku segera memeluknya dari belakang dan menggodanya dengan manja.
+
 “Kalau kamu mau nemenin aku tripinng.. hari ini aku jadi milikmu.”
 “Milikku sepenuhnya..? Ehm.. I love it!” Balas Leo nakal.
 “Ya..ehm.. jadi milikmu..” gumamku di dekat telinganya.
+
 Aku memeluknya dari belakang dan menciumi telinganya sampai dia kegelian. Aku terus menggodanya dengan menciumi leher dan bahunya. Tiba-tiba dia membalikkan badan dan menyergapku! Aku kaget juga dan berteriak kecil. Leo mendekapku erat-erat dan balas menciumi wajah, leher dan telingaku. Aku menjerit-jerit kegelian oleh tingkahnya.
+
 Lama-lama ciuman Leo semakin turun ke bawah. Dia melorotkan tali tank-topku dan menciumi buah dadaku dengan ganas sambil mendengus-dengus. Aku bergetar menahan geli dan rangsangan yang hebat. Otot-otot badan dan kakiku terasa kaku semua.
+
 Tidak puas menciumi dadaku, Leo meloloskan bra yang menutupi dadaku sehingga kedua buah dadaku tersembul keluar.
+
 “Woow.. aku paling suka payudaramu!” desisnya.
+
 Aku paling suka kalau keindahan tubuhku dipuji. Dia mengucapkan kata-kata itu dengan mata berbinar-binar sehingga membuatku tersanjung. Tentu saja aku langsung menutupi dadaku dengan kedua tanganku seakan-akan melarangnya untuk melihat.
+
 Sedetik kemudian dia membuka kedua tanganku dan membungkuk kearah dadaku lalu mendekatkan mulutnya ke puting kananku. Dengusan napasnya yang mengenai putingku sudah bisa membuatku menggelinjang. Pelan-pelan lidahnya menjilat putingku sekilas, lalu berhenti dan memandang reaksiku. Aku memejamkan mata dan mendengus. Perasaanku melambung sampai ke awang-awang! Ketika kubuka mataku, dia memandangku sambil tersenyum nakal. Aku memukulnya. Kemudian dia menjilat puting kiriku sekilas. Aku kembali menggelinjang-gelinjang. Aku merasa detik-detik penantian apa yang akan dilakukan Leo pada putingku membuat aku makin penasaran. Aku mengerang-erang ingin agar Leo meneruskan aksinya.
-Aku sudah sangat terangsang hingga memohon-mohon padanya agar memuaskan aku. Leo tersenyum manis sekali lalu mulai memasukan putingku ke mulutnya. Putingku dipermainkan dengan mulut dan lidahnya yang hangat. Aku bergetar dan menggelinjang menjadi-jadi. Kepiawaian Leo merangsang dan memuaskan aku sudah terbukti. Rangsangan yang hebat melupakan segala janji yang pernah kubuat.
-Leo sangat terangsang rupanya. Aku merasa ada yang mengganjal di bagian bawah perutku dan menyodok-nyodok kemaluanku. Aku membuka kedua kakiku lebar-lebar dan merubah posisi pinggulku agar kemaluanku bergesekan dengan penisnya. Tiap kali penisnya menggesek klitorisku aku mengerang dan merenggut apa saja yang bisa kurenggut termasuk rambutnya. Napas kita yang mendengus-dengus bersahut-sahutan bersaing dengan lagu house music yang memenuhi ruangan.
+
+Aku sudah sangat terangsang hingga memohon-mohon padanya agar memuaskan aku. Leo tersenyum kenikmatans sekali lalu mulai memasukan putingku ke mulutnya. Putingku dipermainkan dengan mulut dan lidahnya yang hangat. Aku bergetar dan menggelinjang menjadi-jadi. Kepiawaian Leo merangsang dan memuaskan aku sudah terbukti. Rangsangan yang hebat melupakan segala janji yang pernah kubuat.
+
+Leo sangat terangsang rupanya. Aku merasa ada yang mengganjal di bagian bawah perutku dan menyodok-nyodok kemaluanku. Aku membuka kedua kakiku lebar-lebar dan merubah posisi pinggulku agar kemaluanku bergesekan dengan rudalnya. Tiap kali rudalnya menggesek klitorisku aku mengerang dan merenggut apa saja yang bisa kurenggut termasuk rambutnya. Napas kita yang mendengus-dengus bersahut-sahutan bersaing dengan lagu house music yang memenuhi ruangan.
+
 Leo meneruskan aksinya sambil melepas pakaianku satu persatu hingga aku telanjang bulat. Aku menatap wajahnya dengan perasaan tak karuan. Lalu dia membuka pakaiannya sendiri dan mulai menyerangku dengan ganas.
+
 Aku diciumi mulai mulut turun ke leher lalu ke buah dadaku. Kemudian turun lagi melewati pusar dan bulu kemaluanku. Dia berhenti sesaat sambil melihat aku yang sudah terangsang berat. Bermain di Poker QQ menangkan jackpotnya
+
 “Leo.. cium anuku please..” pintaku terbata-bata.
 “Hehehe..” Desisnya pelan.
+
 Lalu tanpa menunggu perintah kedua kalinya, dia mulai merubah posisinya agar mulutnya pas di kemaluanku. Kemudian kakiku dibuka lebar-lebar ke atas sehingga kemaluanku menyembul di antara pahaku. Aku merasa hawa dingin menerpa bagian dalam kemaluanku yang merekah. Aku memejamkan mata berdebar-debar menunggu Leo memulai aksinya.
-Leo menciumi sisi luar kemaluanku dengan perlahan. Aku mengerang tertahan dan mengerutkan dahi. Rasanya geli sekali! Ciumannya bergerak ke tengah dan berhenti di klitorisku. Klitorisku diciuminya lama sekali seperti kalau dia menciumi bibirku. Dia mengulum dan kadang menyedot kemaluanku dengan kuat. Aku mendesah-desah keras sekali. Tak tergambarkan rasanya. Lalu ketika lidahnya ikut bermain, aku tak kuat menahan lebih lama lagi. Dibukanya bibir kemaluanku dengan jarinya, lalu lidahnya dimasukan diantaranya. Lidahnya memilin-milin klitorisku dan kadang masuk ke vaginaku dalam sekali.
+
+Leo menciumi sisi luar kemaluanku dengan perlahan. Aku mengerang tertahan dan mengerutkan dahi. Rasanya geli sekali! Ciumannya bergerak ke tengah dan berhenti di klitorisku. Klitorisku diciuminya lama sekali seperti kalau dia menciumi bibirku. Dia mengulum dan kadang menyedot kemaluanku dengan kuat. Aku mendesah-desah keras sekali. Tak tergambarkan rasanya. Lalu ketika lidahnya ikut bermain, aku tak kuat menahan lebih lama lagi. Dibukanya bibir kemaluanku dengan jarinya, lalu lidahnya dimasukan diantaranya. Lidahnya memilin-milin klitorisku dan kadang masuk ke serambi lempitku dalam sekali.
+
 Erangan panjang menandakan kenikmatan yang tiada taranya. Aku malu sekali ketika orgasme dihadapannya. Ritme ciumannya pada kemaluanku perlahan-lahan mengendur seiring dengan tekanan yang kurasakan. Leo memang hebat. Dia sudah berpengalaman memuaskan ceweq. Dia bisa tahu timing yang tepat kapan harus cepat dan kapan harus pelan. Aku jadi curiga apa dia berprofesi sebagai gigolo yang biasa memuaskan Tante-Tante kesepian. Hehehe..
+
 “Lho kok cepat? Udah terangsang dari tadi ya?” tanyanya sambil senyum-senyum mesum.
+
 Mukaku memerah ketika aku tak bisa menjawab pertanyaannya. Aku memukulnya dengan bantal sambil menggodanya. “Kamu gigolo ya? Kok hebat banget?”
+
 “Eh, gigolo! Kurang ajar! Gua ini memang Don Juan Surabaya ya! Belum pernah ada ceweq yang tidak puas kalau main denganku!” katanya pongah.
+
 “Teman-temanku sampai menjuluki aku ‘bercinta Machine’!” lanjutnya.
+
 “Ngibul! kamu pasti gigolo!” godaku sambil memukulnya dengan bantal lagi. Kami perang mulut selama beberapa saat.
+
 Kemudian Leo mengakhirinya dengan berkata, “Enak aja menghinaku! Sebagai balasannya, nih..” Leo melompat kearahku dan memasukkan kepalanya diantara kakiku.
+
 Dia langsung melumat kemaluanku dengan mulutnya lebih ganas lagi padahal kemaluanku masih berdenyut-denyut geli. Aku menjerit-jerit karenanya. Gelinya luar biasa! Entah apakah kemaluanku sudah sangat basah atau tidak, aku mendengar bunyi berkecipak di kemaluanku. Rasa geli yang menerpa segera berubah menjadi nikmat. Aku terhanyut lagi dalam permainan lidahnya.
+
 Aku orgasme untuk yang kedua kalinya. Badanku rasanya lemas semua. Malam itu aku mudah sekali orgasme. Entah apa mungkin itu karena pengaruh ineks atau memang aku sudah dalam keadaan puncak, aku tidak tahu..
-Kami break sebentar. Leo tidur terlentang. Kulihat penisnya berdiri tegak bagai tugu monas. Kepalanya yang merah mengkilat karena cairan maninya meleleh keluar. Aku duduk di dipangkuannya dan memegang penisnya yang keras.
+
+Kami break sebentar. Leo tidur terlentang. Kulihat rudalnya berdiri tegak bagai tugu monas. Kepalanya yang merah mengkilat karena cairan kenikmatannya meleleh keluar. Aku duduk di dipangkuannya dan memegang rudalnya yang keras.
+
 “Lho, sejak kapan celana dalammu lepas? Aku kok nggak tahu?” tanyaku.
+
 “Hehehe.. kamu merem terus dari tadi sampe nggak tahu kalo burungku udah menunggu-nunggu ditembakkan ke sasaran!” candanya.
-Aku kasihan padanya. Kuelus-elus penisnya sambil menggodanya. Lalu aku naik ke atas tubuhnya dan duduk tepat diatas penisnya. Leo tampak terangsang melihat tindakanku. Kugoyang-goyangkan pinggulku maju mundur diatas penisnya sambil kuelus-elus dadanya. Leo memejamkan matanya sambil merasakan sentuhan-sentuhan kemaluanku di penisnya. Aku juga merasa geli-geli nikmat saat penisnya yang keras dan licin menggeser klitorisku.
-Lama-lama Leo tidak kuat menahan rangsangan. Dia bangkit dan memeluk tubuhku. Kami berciuman. Tanpa mempedulikan bau cairan vaginaku di mulutnya, aku terus menggoyangkan pinggulku maju mundur. Kemaluanku yang basah semakin memudahkan rudal Leo bergesekan diantar bibir kemaluanku. Gerakan kami makin lama makin liar, sampai akhirnya pertahananku runtuh!
-rudal Leo mengoyak keperawananku! Kepala penisnya selip dan masuk ke vaginaku. Aku menjerit kaget dan gerakanku terhenti. Untuk sesaat aku merasa sakit karena ada benda sebesar itu masuk ke vaginaku. Leo juga berhenti dan hendak mencabut penisnya dari vaginaku. Namun aku mencegahnya. Aku benar-benar terhanyut dalam fantasiku sendiri akan kenikmatan persetubuhan. Kupeluknya erat-erat tubuhnya. Disamping rasa sakit, aku merasakan suatu kenikmatan yang lain. Aku ingin merasakan lebih lama lagi.
-Secara tak sadar aku merendahkan pinggulku perlahan-lahan sampai rudal Leo memenuhi liang vaginaku. Rasanya sungguh luar biasa! Aku memeluk Leo sekuat tenaga dengan napas terputus-putus. Kucengkeram punggungnya dengan kuku jariku tanpa peduli dia kesakitan atau tidak. Tak terlukiskan perasaanku saat itu. Aku mengerang-erang. Rasanya seluruh sarafku terputus dan terpusat di kemaluanku saja. Leo membiarkanku sesaat menikmati moment ini. Dia pasti juga sedang menikmati koyaknya selaput daraku.
-Perlahan-lahan Leo mulai menggoyangkan pinggulnya. Penisnya bergerak-gerak perlahan dalam kemaluanku. Aku mendesah mengaduh-aduh menahan nikmat dan geli. Vaginaku masih sangat sensitif sampai sampai aku tidak tahan ketika penisnya digerak-gerakkan. Aku menatap sayu pada Leo.
+
+Aku kasihan padanya. Kuelus-elus rudalnya sambil menggodanya. Lalu aku naik ke atas tubuhnya dan duduk tepat diatas rudalnya. Leo tampak terangsang melihat tindakanku. Kugoyang-goyangkan pinggulku maju mundur diatas rudalnya sambil kuelus-elus dadanya. Leo memejamkan matanya sambil merasakan sentuhan-sentuhan kemaluanku di rudalnya. Aku juga merasa geli-geli nikmat saat rudalnya yang keras dan licin menggeser klitorisku.
+
+Lama-lama Leo tidak kuat menahan rangsangan. Dia bangkit dan memeluk tubuhku. Kami berciuman. Tanpa mempedulikan bau cairan serambi lempitku di mulutnya, aku terus menggoyangkan pinggulku maju mundur. Kemaluanku yang basah semakin memudahkan rudal Leo bergesekan diantar bibir kemaluanku. Gerakan kami makin lama makin liar, sampai akhirnya pertahananku runtuh!
+
+rudal Leo mengoyak keperawananku! Kepala rudalnya selip dan masuk ke serambi lempitku. Aku menjerit kaget dan gerakanku terhenti. Untuk sesaat aku merasa sakit karena ada benda sebesar itu masuk ke serambi lempitku. Leo juga berhenti dan hendak mencabut rudalnya dari serambi lempitku. Namun aku mencegahnya. Aku benar-benar terhanyut dalam fantasiku sendiri akan kenikmatan persetubuhan. Kupeluknya erat-erat tubuhnya. Disamping rasa sakit, aku merasakan suatu kenikmatan yang lain. Aku ingin merasakan lebih lama lagi.
+
+Secara tak sadar aku merendahkan pinggulku perlahan-lahan sampai rudal Leo memenuhi liang serambi lempitku. Rasanya sungguh luar biasa! Aku memeluk Leo sekuat tenaga dengan napas terputus-putus. Kucengkeram punggungnya dengan kuku jariku tanpa peduli dia kesakitan atau tidak. Tak terlukiskan perasaanku saat itu. Aku mengerang-erang. Rasanya seluruh sarafku terputus dan terpusat di kemaluanku saja. Leo membiarkanku sesaat menikmati moment ini. Dia pasti juga sedang menikmati koyaknya selaput daraku.
+
+Perlahan-lahan Leo mulai menggoyangkan pinggulnya. rudalnya bergerak-gerak perlahan dalam kemaluanku. Aku mendesah mengaduh-aduh menahan nikmat dan geli. serambi lempitku masih sangat sensitif sampai sampai aku tidak tahan ketika rudalnya digerak-gerakkan. Aku menatap sayu pada Leo.
+
 “Kenapa aku nggak tahu kalau ML seenak ini? Kalau tahu, aku sudah dari dulu mau making love sama kamu!” kataku parau.
+
 Mendengar perkataanku, sesaat Leo hanya memandangku tanpa ekspresi. Aku tidak dapat menebak apa yang ada dipikirannya. Lalu dengan pandangan yang menyejukkan, dia mencium keningku dan pipiku. Aku menjadi tenang dan damai. Leo, aku sayang padamu, aku sayang padamu, aku sayang padamu. Tak ada lagi Andrew dalam kamusku. Aku hanya sayang padamu kataku dalam hati. bercinta jauh lebih memabukkan daripada extacy! Aku tak bisa berpikir jernih! Yang ada dipikiranku hanya terus dan terus.. tanpa akhir..
-Leo mulai menggerakkan penisnya keluar masuk vaginaku. Mulanya perlahan, lama-lama semakin cepat. Rasanya mau mati saking nikmatnya. Aku tak bisa berkata apa-apa. Hanya erangan dan desahan yang keluar dari mulutku. Dorongan penisnya yang menghujam keluar masuk ke dalam vaginaku membuatku tak berdaya.
+
+Leo mulai menggerakkan rudalnya keluar masuk serambi lempitku. Mulanya perlahan, lama-lama semakin cepat. Rasanya mau mati saking nikmatnya. Aku tak bisa berkata apa-apa. Hanya erangan dan desahan yang keluar dari mulutku. Dorongan rudalnya yang menghujam keluar masuk ke dalam serambi lempitku membuatku tak berdaya.
+
 Malam itu aku orgasme empat kali. Leo menumpahkan spermanya di perutku dan terkapar disebelahku. Aku juga terkapar kelelahan. Saking lelahnya aku sampai tidak kuat untuk bergerak mengambil tissue untuk membersihkan spermanya yang tumpah di perutku. Ternyata orgasme saat ML jauh lebih nikmat daripada dengan oral bercinta. Sungguh berbeda..
+
 Setelah terkapar beberapa saat, Leo membopongku ke kamar mandi dan memandikan aku. Aku terus menerus memandang wajahnya dan mencari-cari sinar apa yang terpancar di wajahnya. Apakah dia benar mencintaiku atau aku hanya salah satu perempuan koleksinya? Aku terus memeluknya saat dia membasuh tubuhku dengan air hangat dan membersihkan kemaluanku. Kemudian setelah membersihkan diri, kami tidur kelelahan.
+
 Besoknya saat aku bangun, Leo sudah tidak ada di sebelahku. Kulihat jam dinding menunjukkan pukul sembilan. Detik berikutnya aku baru sadar kalau tidur telanjang bulat dan hanya ditutupi selimut. Perlahan-lahan memoriku memutar balik kejadian tadi malam. Agak susah mengingat kejadian semalam setelah pakai ineks dan minum minuman beralkohol.
+
 Setelah ingat semua, dengan lunglai aku bangkit dan melihat kemaluanku. Kuraba dan kupegang kemaluanku. Rasa nikmat dan geli semalam masih terbayang di pikiranku. Pikiran jelek mulai menggangguku. Aku sudah tidak perawan! Aku sudah kehilangan keperawananku di usia ke 16 dengan cowoq yang bukan pacarku maupun suamiku! Edan! Aku lepas kendali!
+
 Kata-kata Ling mulai teringat kembali. Saat dia kehilangan keperawanannya pertama kali, dia menangis menjadi-jadi semalaman. Namun sekarang dia sudah biasa dan malah sering making love. Aku teringat saat Ling mengenalkan Leo padaku, dia memperingatkan Leo agar jangan macam-macam padaku. Berbagai macam kejadian dari awal aku kenal kehidupan malam sampai saat ini lalu lalang dalam pikiranku seakan-akan menyindirku. Sekarang semuanya telah terjadi! Aku tak percaya! Aku jadi seperti Ling!
+
 Aku ingin menangis menyesali semuanya! Namun sudah terlambat! Apalagi saat aku melihat setitik noda hitam pada sprei. Aku langsung menangis menjadi-jadi. Aku merasa berdosa! Bayangan wajah Papa Mamaku berkelebat berganti-ganti dalam benakku. Aku merasa berdosa pada Papaku, pada Mamaku, pada kakakku, pada seluruh keluargaku!
+
 Aku ke kamar mandi untuk membersihkan diriku! Aku merasa kotor dan hina! Aku bukan Lina yang dulu lagi! Masa depanku hancur! Siapa yang mau sama aku! Cowoq mana yang mau menerima ceweq seperti aku! Ceweq yang sudah tidak utuh lagi! Ceweq murahan! Aku benci diriku sendiri! Aku benci semua orang! Aku menangis lama sekali di kamar mandi. Kutumpahkan semua perasaanku dalam air mata yang segera tersapu guyuran air hangat. Hingga akhirnya aku tergeletak lemas di lantai kamar mandi.
+
 Setelah bosan menangis, aku segera beranjak dari kamar mandi dan mengenakan pakaian. Kuambil ponselku dan kukirim SMS pada Ling. Aku minta dia menjemputku di rumah Leo. Ling menyanggupi dan berjanji akan menjemput aku sepulang sekolah pukul 13.00
+
 Pukul sebelas Leo pulang ke rumah. Tiba-tiba perasanku jadi campur aduk saat kudengar suara mobil Leo memasuki rumah. Ada perasaan jengkel yang menggebu-gebu padanya.
+
 “Kok berani-beraninya orang segede dia menjerumuskan anak kecil! Dasar hidung belang!” pikirku jengkel.
+
 &nbsp;
 
 &nbsp;
+
 Aku duduk di ranjang menghadap pintu sambil menunggu dia masuk. Kusiapkan wajah sesuram mungkin agar dia tahu kalau aku marah padanya. Aku sudah mempersiapkan diri untuk mendiamkannya selamanya. Pokoknya dia harus tahu kalau aku marah!
+
 Leo yang sepuluh tahun lebih dewasa tahu bagaimana harus bertindak menghadapi aku. Dia diam saja saat aku mendiamkannya. Lalu mulai mengajakku makan. Aku menolak. Dia terus mengajakku bicara dan bercerita kalau dia bangun kesiangan sehingga terlambat kerja. Dia pura-pura tidak tahu aku marah padanya. Sejurus kemudian dia mulai memelukku dan mengatakan kalau dia segera pulang karena khawatir aku belum makan atau kesepian di rumah.
+
 Lama-lama aku kasihan juga padanya. Dia baik padaku. Sebenarnya yang salah aku. Aku yang memaksanya melakukan itu. Padahal kemarin dia sudah mau tidur, aku malah merangsangnya habis-habisan. Yah, aku yang salah. Seperti membangkitkan macan tidur. Aku pun mulai melunak. Aku mulai menjawab pertanyaannya sepatah-sepatah sampai akhirnya suasana mulai cair.
+
 Mengerti umpannya mengena, Leo mulai merayuku dan menggodaku. Aku tidak tahan digoda dan mulai membalas godaannya.
+
 “Leo, kamu harus bertanggung jawab! Kamu harus kawin sama aku!” serangku.
+
 “Jangan kuatir sayang! Aku ini dari dulu juga suka sama kamu. Cuma aku takut kamu yang nggak mau sama aku karena aku terlalu tua. Hahahaha..” balasnya.
+
 Aku tidak peduli pikirku. Toh aku juga merasa cocok dengan Leo. Dia begitu dewasa. Dia bisa momong aku. Masalahnya, dia sepuluh tahun lebih tua dari aku. Apa orang tuaku setuju aku menikah dengannya?
+
 Pikiranku sudah jauh lebih baik sekarang. Leo memelukku erat-erat dan menghiburku. Aku jadi makin sayang padanya.
+
 Akibat kejadian malam itu, hampir tiap hari aku making love dengannya. Kami melakukan di rumahnya, di hotel, di kamar mandi, di mobil dan dimanapun kami mau! Berbagai posisi kami lakukan. Aku benar-benar ketagihan bersenggama! Bahkan kami pernah menginap seharian di hotel dan tidak keluar kamar sama sekali. Saat itu aku sampai orgasme sebelas kali waktu making love dengannya! Benar-benar liar dan tak terkontrol!
+
 Acara tripping selalu dilanjutkan dengan making love. Kesukaan kami adalah triping sambil telanjang bulat berdua di kamar Leo sambil bercumbu. Asyik sekali rasanya! Saat pengaruh ineks menurun, kami bersenggama atau melakukan oral bercinta untuk membuat on lagi. Setelah benar-benar habis, kami lanjutkan dengan minum minuman keras. Edan..
+
 Dua bulan terakhir ini aku jarang kontak dengan Leo. Leo sibuk dengan pekerjaannya, sedangkan aku sibuk diadili oleh keluargaku. Mereka marah besar padaku dan mengawasiku dengan ketat. Ponselku disita sementara. Telepon untukku disortir sama orang tuaku. Kemana-mana selalu diantar sopir ayahku. Pokoknya aku jadi tahanan rumah!
+
 Entah siapa yang salah! Aku tak perlu menyalahkan siapa saja selain diriku sendiri. Aku sendiri pun menyesal menyadari kondisiku sekarang. Orang luar pada bingung melihat tingkahku. Aku hidup di dalam keluarga yang harmonis. Orang tuaku sayang dan perhatian padaku. Tapi kok bisa aku terjerumus jadi seperti ini?
+
 Hahaha.. memang bodoh apa yang kulakukan. Penyesalan sudah tidak ada gunanya lagi. Entah sampai kapan aku bisa berhenti dari dunia gila ini? Aku pun sudah mulai bosan..

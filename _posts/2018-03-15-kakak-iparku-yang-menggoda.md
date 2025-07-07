@@ -3,43 +3,74 @@ layout: post
 title: "Kakak Iparku Yang Menggoda"
 author: "Om Sugeng"
 date: 2018-03-15 11:18:47 +0000
-description: "&nbsp; Kakak Iparku Yang Menggoda &nbsp; Cerita Dewasa &#8211;\u00a0Kisah ini selalu terbayang dalam benakku, hal tersebut berawal ketika aku baru saja mengantar istriku Ine piknik ke Bali bareng-bareng m..."
+description: "&nbsp;  Kakak Iparku Yang Menggoda &nbsp;  Cerita Dewasa &#8211;\u00a0Kisah ini selalu terbayang dalam benakku, hal tersebut berawal ketika aku baru saja mengantar istriku Ine piknik ke Bali bareng-bareng..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Dewasa Hot", "Cerita Ngentot", "Cerita Panas", "Cerita Seks Saudara"]
 ---
 
-
 &nbsp;
+
 Kakak Iparku Yang Menggoda
 &nbsp;
+
 Cerita Dewasa &#8211; Kisah ini selalu terbayang dalam benakku, hal tersebut berawal ketika aku baru saja mengantar istriku Ine piknik ke Bali bareng-bareng murid SMA dan teman-temannya, beberapa istriku berencana menginap di sana, Aku antar sampai bis berangkat menuju Bali diiringi lambakian tangan istriku tercinta.
+
 Sebelum berangkat istriku berpesan agar segera mengembaklikan uang yang dipinjamnya kepada istri kakaknya, yang berarti adalah kakak iparku juga yang bernama Sisil. Walaupun cuaca agak mendung, tetapi kuantarkan juga uang itu kepada kakak ipar istriku. Sampai di sana ternyata sepi, nggak ada orang dan pintu rumah tertutup rapat. Ku ketuk pintu rumah “Dok”dok”dok”..kula nuwun”, siapaku.
+
 Nggak ada jawaban. Berulang*ulang kuketuk pintu juga nggak ada jawaban. Akhirnya iseng-iseng pegangan pintu ku dorong, ehhhh..ternyata pintu nggak terkunci. Teledor benar kakak iparku ini, begitu pikirku. Aku masuk ke kamar tamu, sepi.
+
 Sayup-sayup ku dengar suara gemercik air di kamar mandi belakang. Segera aku ke sana dan menyapa kakak iparku. “Mbakk”mbakk”siapaku agak keras, karena suara air mandipun keras juga. “Siapa itu ?” jawab dari dalam. “Aku.Unang”jawabku. “Ada apa?”tanyanya lagi. ” Ini mbakk aku disuruh Ine mengembaklikan uang yang dipinjam kemarin” jawabku.
+
 ” Ya”tunggu sebentar” jawab mbakk Sisil dari dalam kamar mandi. Akhirnya aku duduk-duduk di depan TV sambil menonton acaranya. Lima menit berlalu, sepuluh menit, limabelas menit sudah aku menunggu, ternyata mbakk Sisil belum juga kelar acara mandinya.
+
 Iseng*iseng aku bangkit menuju kamar mandi dan mencoba melihat dari luar apa yang sedang dilakukan kakak iparku ini. Waah?”ada lubang kunci, itu cukup buatku untuk mengintipnya. Deg..plasss”.jantungku seakan rontok melihat pemandangan yang belum pernah aku saksikan. Kulihat kakak iparku ini sedang menggosok-gosok badannya dengan sabun mandi sambil duduk di pinggir kamar mandi dengan kaki mengangkang,
+
 Terlihat jelas di mataku, karena posisi duduknya menghadap ke pintu kamar mandi. Wajahnya terlihat memerah, Mainkan Game PokerQQ matanya tertutup rapat dan bibirnya menganga sambil sesekali mengeluarkan erangan halus, ahhhhgg”.ahhhhhg”.ssshh. Kulihat payudaranya ranum banget, walaupun agak kecil, putingnya merah dan menegang, indah sekali.
+
 Pandangan ku alihkan ke bawah. Srettt”darahku mendidih seketika, karena pussy-nya terlihat sangat bagus, seperti mawar merah yang sedang merekah, yang sekelilingnya dihiasi dengan bulu-bulu halus membentuk lingkaran di sekitar mulut luar dan sekitar perut. Mbakk Sisil terus menggosok payudara dan pussynya sambil pantatnya bergoyang – goyang.
+
 Diantara keluarga kami, mbakk Sisil ini mempunyai pantat yang paling bagus, padat dan besar, tetapi serasi dengan bentuk tubuhnya. Ohhh. Rupanya kakak iparku ini sedang masturbasi. Aku tak begitu saja menyia-nyiakan kesempatan ini. Kuteruskan kegiatanku mengintip.
+
 Pantat mbak Sisil semakin bergetar keras ketika jarinya menyentuh klitoris yang menyembul di antara pussy-nya. Digosoknya pussy-nya dengan gerakan memutar seirama dengan goyangan pantatnya. Mungkin sudah klimaks, karena kulihat mbakk Sisil mengejang dan meluruskan kakinya sambil menciumi ketiaknya sendiri.
-Khawatir ketahuan aku segera berjingkat-jingkat menuju depan TV dan kembali duduk.Pura-pura membakca Koran yang ada di depanku. Jegleggg”.pintu kamar mandi dibuka. Kakak iparku keluar dari kamar mandi dengan mengenakan daster tipis tembus pandang, hingga membuat tenggorokanku kering menahan gejolak seksku yang kian meninggi. Tetapi aku pura-pura acuh dan bertanya “Mas Dwi pergi ke mana to mbakk”tanyaku basa-basi.
+
+Khawatir ketahuan aku segera berjingkat-jingkat menuju depan TV dan kembali duduk.Pura-pura membakca Koran yang ada di depanku. Jegleggg”.pintu kamar mandi dibuka. Kakak iparku keluar dari kamar mandi dengan mengenakan daster tipis tembus pandang, hingga membuat tenggorokanku kering menahan gejolak bercintaku yang kian meninggi. Tetapi aku pura-pura acuh dan bertanya “Mas Dwi pergi ke mana to mbakk”tanyaku basa-basi.
+
 ” Masmu baru penataran di Ungaran selama 3 hari, tadi siang baru berangkat, mbakk mengantar sampai terminal” sahutnya. Wahhh”duda ketemu janda nich, pikirku. “Ini mbakk titipan dari Ine, mohon maaf karena baru sekarang baru bisa ngembakli”in” kusampaikan permintaan maaf istriku sambil memberikan amplop berisi uang ” Ah..nggak apa-apa ” sahutnya.
+
 Baru berbincang-bincang sebentar, tiba-tiba hujan turun dengan derasnya seakan-akan mengguyur bumi ini. ” Waduh”hujan ” kataku memecah suara hujan yang jatuh di atas genting. ” Ya berteduh dulu to di sini, nggak usah sungkan, wong di rumah saudara aja. Sebentar mbakk buat”in minuman hangat ” sahutnya.
-Mbakk Sisil berjalan ke dapur. Cleguk”.aku menelan ludah karena kulihat pantat mbakk Sisil bergoyang ke kanan dan ke kiri, seakan-akan menantang setiap lelaki untuk menjamahnya. Kulihat terus setiap gerakan tubuhnya dengan seksama. Darahku seakan berhenti ketika kakak iparku ini mengaduk minuman di gelas.
+
+Mbakk Sisil berjalan ke dapur. Cleguk”.aku menelan ludah karena kulihat pantat mbakk Sisil bergoyang ke kanan dan ke kiri, seakan-akan menantang setiap lelaki untuk menjamahnya. Kulihat terus setiap gerakan tubuhnya dengan bercintaama. Darahku seakan berhenti ketika kakak iparku ini mengaduk minuman di gelas.
+
 Seluruh tubuhnya bergoyang, payudaranya, perutnya, pantatnya pokoknya syuur banget. Tiba-tiba dia lari dari dapur menuju ke arahku dan memelukku erat-erat sambil berteriak, ” Dik Unang, kakak jijik lihat kecoa di dekat gelas itu “, katanya sambil menunjuk ke arah dapur.
+
 ” Tenang mbakk, tenang, ayo kita bunuh kecoa itu “, sahutku sambil tetap memeluk kakak iparku itu dan berjalan menuju dapur. Dengan sebuah gagang sapu, kubunuh kecoa itu dan kubuang ditempat sampah, tetapi anehnya kegiatan itu kulakukan dengan tetap berpelukan dengan kakak iparku itu. Jantungku mulai berdetak sembakrangan. Nafsu mulai naik ke ubun-ubun.
+
 Tiba-tiba kedua mata kami beradu pandang, lama sekali sambil nafas kami terengah-engah. Sementara hujan berubah menjadi rintik-rintik, mendukung suasana menjadi dingin dan sepi. Nggak sadar, entah siapa yang memulai, bibir kami saling berpagut, hangat. Kulumat bibir kakak iparku itu dengan penuh nafsu. Sekali-sekali kugigit bibirnya dan kumainkan lidahku di atas langit-langit mulutnya. DominoQiuQiu
+
 Nafsu bercinta sudah mengasai kami berdua. Aku tahu itu tidak boleh, tetapi kami nggak kuasa untuk menghentikannya. Kami semakin tenggelam dalam birahi. Kini leher jenjang kakak iparku menjadi sasaranku berikutnya. Kuciumi dan kujilat sepuasnya.
+
 Hampir saja aku mencipok lehernya itu, kalau tidak ditepis oleh kakak iparku itu dan memprotes, ” Jangan dik”nanti membekas “, larangnya. Kemudian kujilat kuping belakang mbakk Sisil sambil kubisikkan sesuatu. Ia mengangguk. Sambil masih tetap berdiri di pinggir wastafel dapur kulepas pakaiannya satu per satu.
+
 Hingga kini tak selembakr benangpun melilit tubuhnya. Kupandangi tubuh indah itu sampai lama, hingga lidahku tahu-tahu sudah memainkan puting payudara yang sudah memerah tegang itu. Pelan-pelan kaki kanannya ku angkat dan kuletakkan di pinggir wastafel itu. Jemarikupun refleks memainkan bulu-bulu halus di sekitar pussy-nya. Kudengar kakak iparku melenguh-lenguh tanda terangsang.
+
 “Ahhhh”.ouuuhgh?”.sssshhhhhh”..nikkkkmaaaattt. . terussss”..”. Dengan penuh nafsu serangan kuteruskan dengan lidah di bibir pussynya yang sudah basah oleh cairan hangat itu. Kujilat “jilat mesra sambil sesekali menggigit bagian dalam bibir pussy itu.
-Rupanya seranganku membuahkan hasil. Mbakk Sisil bergetar keras dan mengajakku pindah ke sofa. Kami duduk berpangkuan sambil terus melakukan kontak seksual. Kini giliran Mbakk Sisil yang gantian menyerangku. Dicopotinya semua pakaianku. Ia sempat terbelalak begitu melihat peny-ku.
+
+Rupanya seranganku membuahkan hasil. Mbakk Sisil bergetar keras dan mengajakku pindah ke sofa. Kami duduk berpangkuan sambil terus melakukan kontak bercintaual. Kini giliran Mbakk Sisil yang gantian menyerangku. Dicopotinya semua pakaianku. Ia sempat terbelalak begitu melihat peny-ku.
+
 Entah apa yang dirasakannya. Yang jelas ia langsung melahap peny-ku sampai habis. Diisap-isap, dikocok-kocok dan dijilati sampai puas. Gantian aku yang menggelinjang hebat, karena terus terang aku sudah terangsang ketika aku mengintip kakak iparku ini mandi. ”
+
 Mmmmhhhh”..srup”..srup?” peny-ku dihisap-hisap sampai badanku merinding semua. Mainkan Poker Uang Asli Online, Raih uang sebanyak-banyaknya
+
 Ia memandang mataku dan memberi tanda agar pindah ke kamar tidurnya. Kami berbaring dengan ambil posisi 69. Kini didepan wajahku terpampang pussy yang menganga dan memerah.
+
 Tanpa menyia-nyiakan kesempatan, langsung ku serang pussy itu hingga Mbakk Sisil menggelinjang penuh kenikmatan. Tetapi sebaliknya Mbakk Sisilpun semakin gencar menyerang peny-ku dengan tak kalah hebatnya. Tiba*tiba ia bangun dan mendorongku hingga jatuh telentang. Hujan belum juga berhenti.
+
 Dalam hati kunyayikan lagu anak-anak yang kugubah syairnya , TIK”TIK”.TIK BUNYI HUJAN DI ATAS RANJANG. Ia mulai ambil posisi membelakangiku dan membimbing peny-ku masuk ke dalam lobang pussy yang sudah becek itu disertai gerakan naik turun. Pelanpelan”..agak cepat”..sampai seperti kesetanan ia terus menggoyang pantatnya naik turun. Kuimbakngi gerakannya dengan mendorong penyku maju mundur.
+
 Mulutnya menceracau tak karuan. Dengan masih melakukan gerakan tadi kuremas-remas payudara yang kini semakin mengeras itu. Hingga akhirnya ia menjerit kecil ” Ohhhh”aku sudah nggak tahan lagi dik?”Ahhhhssshhhh ” . Segera kuambil posisi konvensional. Kutelentangkan ia, pahanya ku buka lebar-lebar dan tumitnya kuletakkan di bahuku. Kuterobos lubang menganga itu dengan rudalku, dan kuserang habis-habisan.
+
 Permainan ini kami lakukan hampir 1 jam, sampai kakak iparku berdesah hebat sambil berkata ” hhhhgggg?”ouuggghhh”ssshhhhh. Akkkkuuu mmmmaauuu kkkellluuaaaarrrrr dik. Ohhhg “. Kutambakh kecepatan permainanku karena akupun sudah mendekati detik-detik orgasme. Kurasakan darah mengalir dari seluruh tubuh ke peny-ku Kugoyang,kugoyang dan kugoyang terus,sampai masing-masing kami mencapai puncak kenikmatan dengan kusemburkan kenikmatan ku ke dalam pussy kakak iparku itu sambil memeluknya erat-erat.
+
 Sepuluh menit kami berpagut mesra. Hingga akhirnya kami kenakan pakaian kami kembali. ” Mbakkkk?” panggilku. ” Mmhhhhh?” jawabnya manja. ” Aku sebetulnya sudah mengintip waktu mbakk tadi mandi ” godaku. ” Ahhhh”kamu nakal?” sungutnya sambil mencubit lenganku keras-keras.
+
 Senda gurau berakhir sampai aku berpamitan pulang dan kebetulan hujan sudah agak reda. Sebelum pulang kucium mesra pipi dan bibirnya sambil kubisikkan di telinganya ” Mbakk adalah kakak iparku tersayang “

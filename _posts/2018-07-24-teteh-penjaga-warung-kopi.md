@@ -3,15 +3,16 @@ layout: post
 title: "Teteh Penjaga Warung Kopi"
 author: "Om Sugeng"
 date: 2018-07-24 03:57:28 +0000
-description: "Teteh Penjaga Warung Kopi Inilah cerita atau kisah menggenjot dewasa yang menarik untuk anda baca. ini merupakan pengalaman saya pada saat libur akhir pekan, saat hari mulai sore aku pulang kantor, s..."
+description: "Teteh Penjaga Warung Kopi Inilah cerita atau kisah menggenjot dewasa yang menarik untuk anda baca. ini merupakan pengalaman saya pada saat libur akhir pekan, saat hari mulai sore aku pulang kantor, sa..."
 categories: ["Cerita Dewasa"]
 tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
 ---
 
-
 Teteh Penjaga Warung Kopi
-Inilah cerita atau kisah menggenjot dewasa yang menarik untuk anda baca. ini merupakan pengalaman saya pada saat libur akhir pekan, saat hari mulai sore aku pulang kantor, saat itu aku sedah menyelesaikan pekerjaan kantorku yang banyak. Dengan kecapeanku, dalam pikiran pengenya hanya liburan saja. Aku bergegas pulang kantor dengan menaikki mobilku terus beranjak pulang sampai dirumah hanya pengen mandi dan istirahan sebenter. Karena hari pekan aku mau bermai saja ke mall sambil jalanjalan lihat gadis dan cewek yang memiliki tubuh seksi dan payudara montok hetu pikiranku. Tiba2 saja telepon genggamku berbunyi.ah.rupanya bosku.
-Terus aku angkat..oh.rupanya suruh ke bogor ada tugas..ziiitttgak bisa liburan. Langsung saja aku bergegas ke bogor untuk menyeleseaikan tugasku. Aku naik mobilku langsung saja ke bogor. Dalam perjalanku sangat lelah kupikir untuk cari kopi dulu kuparkir mobilku operasional didepan warung kopi yg baru saja dibuka oleh pemiliknya sebut saja namanya cici seorang janda muda yg baru 2 tahun ditinggal kabur suaminya usianya kutaksir sekitar 30tahunan,tanpa sepengetahuannya kuperhatikan dia dari dalam mobilku yg berkaca riben 80%,wajahnya yg manis ditunjang tubuhnya yg proporsional ditambah ukuran toketnya kirakira 36b dan pinggulnya yg sedang membuat mata ini yg tadinya ngantuk jadi segar kembali,lalu kuberanikan diri untuk turun dari mobil dan berkenalan dengannya sebagai alasan aku membeli kopi mix.
+Inilah cerita atau kisah menggenjot dewasa yang menarik untuk anda baca. ini merupakan pengalaman saya pada saat libur akhir pekan, saat hari mulai sore aku pulang kantor, saat itu aku sedah menyelesaikan pekerjaan kantorku yang banyak. Dengan kecapeanku, dalam pikiran pengenya hanya liburan saja. Aku bergegas pulang kantor dengan menaikki mobilku terus beranjak pulang sampai dirumah hanya pengen mandi dan istirahan sebenter. Karena hari pekan aku mau bermai saja ke mall sambil jalanjalan lihat gadis dan cewek yang memiliki tubuh bercintai dan payudara montok hetu pikiranku. Tiba2 saja telepon genggamku berbunyi.ah.rupanya bosku.
+
+Terus aku angkat..oh.rupanya suruh ke bogor ada tugas..ziiitttgak bisa liburan. Langsung saja aku bergegas ke bogor untuk menyeleseaikan tugasku. Aku naik mobilku langsung saja ke bogor. Dalam perjalanku sangat lelah kupikir untuk cari kopi dulu kuparkir mobilku operasional didepan warung kopi yg baru saja dibuka oleh pemiliknya sebut saja namanya cici seorang janda muda yg baru 2 tahun ditinggal kabur suaminya usianya kutaksir sekitar 30tahunan,tanpa sepengetahuannya kuperhatikan dia dari dalam mobilku yg berkaca riben 80%,wajahnya yg kenikmatans ditunjang tubuhnya yg proporsional ditambah ukuran toketnya kirakira 36b dan pinggulnya yg sedang membuat mata ini yg tadinya ngantuk jadi segar kembali,lalu kuberanikan diri untuk turun dari mobil dan berkenalan dengannya sebagai alasan aku membeli kopi mix.
+
 teh,,kopinya hiji..??pesanku
 kopi susu apa kopi hideung a..??sambung cici
 kopi susu tapi susunya dipisah ya teh..??candaku
@@ -33,11 +34,13 @@ waduh..itu klo ibarat sawah alangalangnya udah tinggitinggi secara ga pernah dic
 kulirik kearah toketnya sambil sesekali kuajak ngobrol yg sedikit mengarah porno diapun menanggapinya dengan santai tanpa mempedulikan aku yg dari tadi tak berkedip melihat toketnya yg sedang dikenyot oleh anaknya,tak lama kemudian hpku berbunyi yg ternyata panggilan dari kantor menginstruksikan bahwasanya aku tidak boleh lamalama istirahat karena mobil kami dilengkapi gps jadi para karyawan selalu dipantau didalam operasionalnya dari kantor pusat,sebelum pergi kubayar kopiku dan kuminta no hp nya cici
 boleh khan klo saya telpon kamu ntar malam..sambil mnaruh hpku kekantong safariku
 boleh aja tapi tunggu sikecil tidur dulu ya..sambil tersenyum genit
-Temantemanku yg sedari tadi memantau kegiatanku hanya bisa tertaw sambil mengejekku dengan sebutanPPm=pria pencari memekakupun hanya senyumsenyum aja tak menanggapi ejekan mereka kuhanya sedang mencari cara gimana supaya bisa menggenjot ama cici,terbayang toketnya yg besar saat netekin anaknya tadi.
+Temantemanku yg sedari tadi memantau kegiatanku hanya bisa tertaw sambil mengejekku dengan sebutanPPm=pria pencari serambi lempitakupun hanya senyumsenyum aja tak menanggapi ejekan mereka kuhanya sedang mencari cara gimana supaya bisa menggenjot ama cici,terbayang toketnya yg besar saat netekin anaknya tadi.
 wew..bengong aja lo udh nyampe klien nih masuk sana..hardiknya
 ngagetin aja lo..gue lg mikirin nih caranya bisa menggenjot ama cici..jawabku
 hahaha..klo lo emang playboy sejati lo kasih fotonya kegue lo lg menggenjot ama dia gue kasih lo 300rb,ga mungkin dia mau menggenjot ama lo,lo aja baru banget kenal ama dia..terus menyurutkan semangatku
+
 “Raih Keberuntunganmu dengan bermain Dominobet, games kartu online dengan menggunakan uang asli, terdiri permainan Capsa, Poker, Kiyu-kiyu, Sakong dan lain-lain. Dapatkan Jackpot hingga ratusan juta rupiah.”
+
 ..oklo liat minggu depan gue kasih liat potonya ke lo..akupun menerima tantangannya
 Singkat cerita akupun sudah tiba dirumah pukul 19.30wib lalu mandi dan berpakaian setelah itu kuambil hpku lalu kutlpon cici
 lagi pa teh..??sapaku
@@ -54,7 +57,7 @@ ok..gapapa sampai ketemu hari sabtu ya tehucapk sambil menutup telepon
 Sabtu pagi setelah mandi dan sarapan aku berangkat kebogor,kupacu suzuki swiftku dijalan tol jagorawi yg masih agak sepi,30 mnt kutelah memasuki gerbang tol bogor kemudian berbelok kesalah satu mall yg ada disisi jalan pajajaran,kuparkirkan mobilku kemudian masuk kedalam mall menuju salah satu restoran fast food y terkenal itu,kupesan makanan lalu duduk dibangku yg dekat kaca agar dapat melihat situasi diluar kuambil hp dari tas kecilku kemudian kuhubungi cici
 hallo aku sudah di bogor kamu datang aj kesini di restoran c..
 ya udah tungguin sebentar saya lagi pake baju dulu..
-pake bh ama cd warna hitam ya biar seksi..
+pake bh ama cd warna hitam ya biar bercintai..
 iihh..kamu koq tahu sih klo itu warna pakaian dalam kesukaan saya..
 hahaha..ya udah buruan udah kangen nih..
 ok..
@@ -74,7 +77,7 @@ Kemudian mobil kubelokkan kesalah satu motel yg terletak didaerah tajur,bogor,ku
 ..yg 2 tempat tidur..?
 ..ini pak kuncinya sekalian pinjam ktpnya bapak..oh..iya anaknya dibawa aja dulu ke dalam kasian nyenyak sekali tidurnya..
 ..trima kasih mas..sambil kuserahkan dede kecici yg langsaung berjalan mengikuti petugas motel menuju kamarnya
-Sesampai didalam kamar kurebahkan tubuhku yg lelah keatas ranjang kulihat cici sedang mendampingi anaknya yg tertidur sambil sesekali memberikan asi kepada anaknya,akupun memejamkan mata sebentar mengistirahatkan persendian ditubuhku,namun baru saja akan terlelap kulihat dicermin yg mengarah kekamar mandi cici sedang membuka bajunya,kemudian jeansnya tinggal bra dan cd hitam yg dikenakan ssuai permintaan aku tadi pagi,setelah itu ia mengambil handuk kemudian dililtkan ditubuhnya lalu ia keluar dari kamar mandi dan menghampiriku yg masih tiduran diatas ranjang lalu aku pura2 memejamkan mataku dia mendekatiku kemudian mencium bibirku,mungkin dia pikir aku akan terbangun mendapat ciuman dibibir padahal kontolku sudah tegak waktu kulihat dia sedang membuka baju tadi,kurasakan dia menjauh dari wajahku kubuka mataku akupun tersentak ketika dia sedang mencoba membuka ikat pinggangku lalu kubangun dari ranjangku yg membuat cici pun tersentak
+Sesampai didalam kamar kurebahkan tubuhku yg lelah keatas ranjang kulihat cici sedang mendampingi anaknya yg tertidur sambil sesekali memberikan asi kepada anaknya,akupun memejamkan mata sebentar mengistirahatkan persendian ditubuhku,namun baru saja akan terlelap kulihat dicermin yg mengarah kekamar mandi cici sedang membuka bajunya,kemudian jeansnya tinggal bra dan cd hitam yg dikenakan ssuai permintaan aku tadi pagi,setelah itu ia mengambil handuk kemudian dililtkan ditubuhnya lalu ia keluar dari kamar mandi dan menghampiriku yg masih tiduran diatas ranjang lalu aku pura2 memejamkan mataku dia mendekatiku kemudian mencium bibirku,mungkin dia pikir aku akan terbangun mendapat ciuman dibibir padahal rudalku sudah tegak waktu kulihat dia sedang membuka baju tadi,kurasakan dia menjauh dari wajahku kubuka mataku akupun tersentak ketika dia sedang mencoba membuka ikat pinggangku lalu kubangun dari ranjangku yg membuat cici pun tersentak
 apa yg kamu lakukan teh..??tanyaku
 ..aku ga bisa menahan libidoku waktu kamu tidur tadi,,aku ingin ngewe samaa kamu..jawabnya
 ..teh..memang kamu sudah kepengen banget ngewe,jujur tadi aku jg sempet ngintip kamu lagi ganti baju cuma koq pintunya ga ditutup aku pikir kamu mau mandi makanya aku diam aj..
@@ -86,21 +89,23 @@ Lalu aku beranjak dari ranjangku kemudian berjalan kearah kamar mandi,lumayan ag
 tak lama cici masuk kekamar mandi tanpa sehelai benang ditubuhnya dan langsung masuk kedalam bathtub
 ..teh,,anaknya udah dijagain bantal belum nanti klo jatuh gmn..??
 ..sudah..kamu tenang aja,aku ga tahan mau ngewe sama kamu..
-kemudian cici menyuruhku untuk duduk dipinggiran bathtub lalu menghisap kontolku yg panjang sekitar 18cm,tak ada kesalahan dalam menghisap kontolku semua dilakukan dengan lihainya,akupun mendesah penuh kenikmatan
+kemudian cici menyuruhku untuk duduk dipinggiran bathtub lalu menghisap rudalku yg panjang sekitar 18cm,tak ada kesalahan dalam menghisap rudalku semua dilakukan dengan lihainya,akupun mendesah penuh kenikmatan
 ..oohh..eehmm..enak teh..trus teh..trus teh..trusssaahh..desahku
-sumpah nikmat sekali kulumannya tak ada setiap inchi dari kontolku yg terlewat,kontolku seperti diadukaduk oleh lidahnya tanpa ada rasa nyeri ataupun terkena gigi
+sumpah nikmat sekali kulumannya tak ada setiap inchi dari rudalku yg terlewat,rudalku seperti diadukaduk oleh lidahnya tanpa ada rasa nyeri ataupun terkena gigi
 ..sudah dulu teh,,gantian sini aku jilatin nonok teteh..
-dia pun duduk dipinggiran bathtub kemudian melebarkan kakinya,terlihaat memeknya yg ditumbuhi bulu yg sangat lebat,kusibakkan jembutnya kemudian kujilati itilnya yg membesar tak kupedulikan reaksi wajahnya yg mulai terangsang dengan menggigit bibirnya,kusodok liang nonoknya dgn lidahku,kugigit klentitnya,kuhisap nonoknya beberapa saat kemudian pantatnya dinaikkan membenamkan wajahku kedalam nonoknya sesekali menggeliat dan mendesah dengan nafasnya yg tidak beraturan
+dia pun duduk dipinggiran bathtub kemudian melebarkan kakinya,terlihaat serambi lempitnya yg ditumbuhi bulu yg sangat lebat,kusibakkan jembutnya kemudian kujilati itilnya yg membesar tak kupedulikan reaksi wajahnya yg mulai terangsang dengan menggigit bibirnya,kusodok liang nonoknya dgn lidahku,kugigit klentitnya,kuhisap nonoknya beberapa saat kemudian pantatnya dinaikkan membenamkan wajahku kedalam nonoknya sesekali menggeliat dan mendesah dengan nafasnya yg tidak beraturan
 ..uuhhh..oohhaku keluaaaaarrrrrr..pekiknya sambil merapatkan pahanya dan menekan nonoknya kewajahku
 kujilati cairan nonoknya kusapu dengan lidahku,sungguh nonok yg indah sudah nikmat wangi pula sepertinya dia rajin merawat nonoknya
-masih dalam keadaan bugil kubimbing dia keranjang kusuruh dia menghisap kembali kontolku yg masih berdiri tegak dari tadi
-tak lama cici memberi isyarat untuk meminta nonoknya dimasuki oleh kontolku,dia berdiri menaiki ranjang ku kemudian mengarahkan nonoknya kekontolku dengan posisi w o t dituntunnya kontolku kenonoknya kemudian blleeesss..kontolku telah masuk penuh kedalam nonoknya,digoyangkan pantatnya,lalu menarik tanganku untuk meremasremas toketnya yg besar kupilin2 pentilnya yg sdh mengeras,kemudian aku bangkit namun kontolku masih tertanam didalam nonoknya cici,kuhisap toketnya lalu kugigit pentilnya
+masih dalam keadaan bugil kubimbing dia keranjang kusuruh dia menghisap kembali rudalku yg masih berdiri tegak dari tadi
+tak lama cici memberi isyarat untuk meminta nonoknya dimasuki oleh rudalku,dia berdiri menaiki ranjang ku kemudian mengarahkan nonoknya kerudalku dengan posisi w o t dituntunnya rudalku kenonoknya kemudian blleeesss..rudalku telah masuk penuh kedalam nonoknya,digoyangkan pantatnya,lalu menarik tanganku untuk meremasremas toketnya yg besar kupilin2 pentilnya yg sdh mengeras,kemudian aku bangkit namun rudalku masih tertanam didalam nonoknya cici,kuhisap toketnya lalu kugigit pentilnya
 ..oohhh..oohh..eehmm..enak aa jgn dilepas aa..hisap trus aa..aahhh..uuhh..ngewe enak bangetoohhhaahhhuuhhh..cici pun meracau keenakan
 ..oohhh..aahhhteh,,nonoknya enak tehh..peret bangetahh..
+
 &#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
-kami terus ngewe sesekali merubah posisi kadang doggy style,aku diatas hingga posisi 69 entah sdh beberapa kali cici orgasme,aku masih bertahan karena sebelumnya aku mengusapkan beberapa tetes minyak gambir kekontolku yg berkhasiat membuat lama ngewe namun terasa panas disekitar kepala kontolku,rasa panas itu tak kuhiraukan kalah oleh panasnya permainan aku dan cici,menjelang akhir kucepatkan tempo penetrasiku
-..ahhh..oohhh..aku mau keluar teh,,dibuang dimana nih..??sambil kusodok kontolku dengan cepat dan dalam posisi doggy style pula
+
+kami terus ngewe sesekali merubah posisi kadang doggy style,aku diatas hingga posisi 69 entah sdh beberapa kali cici orgasme,aku masih bertahan karena sebelumnya aku mengusapkan beberapa tetes minyak gambir kerudalku yg berkhasiat membuat lama ngewe namun terasa panas disekitar kepala rudalku,rasa panas itu tak kuhiraukan kalah oleh panasnya permainan aku dan cici,menjelang akhir kucepatkan tempo penetrasiku
+..ahhh..oohhh..aku mau keluar teh,,dibuang dimana nih..??sambil kusodok rudalku dengan cepat dan dalam posisi doggy style pula
 ..buang dinonokku aja..aku jg mau keluar lagi..
 ..kita kluarin bareng aj teh..aahh..uuhh..
 ..crooottzzcrrroottttzzzcrrootsss..crottttz z..nikmatnya eehhmm..
-diraihnya kontolku kemudian dijilati oleh cici sampai bersih dari pejuku yg bercampur cairan nonoknya cici dan belepotan disekitar kontolku,kemudian kami saling membersihkan diri dikamar mandi,sambil menunggu anaknya yg masih tertidur akupun berfotofoto msh dengan keadaan telanjang memperlihatkan alat kelaminnya masing2,yg nantinya foto akan kuperlihatkan ketemanku sebagai bukti taruhan,namun kubilang ke cici akan kujadikan koleksi pribadi dan cici pun menyetujuinya.
+diraihnya rudalku kemudian dijilati oleh cici sampai bersih dari pejuku yg bercampur cairan nonoknya cici dan belepotan disekitar rudalku,kemudian kami saling membersihkan diri dikamar mandi,sambil menunggu anaknya yg masih tertidur akupun berfotofoto msh dengan keadaan telanjang memperlihatkan alat kelaminnya masing2,yg nantinya foto akan kuperlihatkan ketemanku sebagai bukti taruhan,namun kubilang ke cici akan kujadikan koleksi pribadi dan cici pun menyetujuinya.
