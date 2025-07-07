@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: post
 ---
-<h1>Postingan Terbaru</h1>
+<h1>Cerita Dewasa Terbaru</h1>
 
-<ul>
+<ul class="post-list">
   {% for post in paginator.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d %B %Y" }}
+      <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3><span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
     </li>
   {% endfor %}
 </ul>
