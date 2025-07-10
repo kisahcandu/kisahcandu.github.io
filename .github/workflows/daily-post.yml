@@ -22,6 +22,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Create empty published_posts.json if it doesn't exist
+        # Ini akan memastikan file published_posts.json ada saat git add jika belum ada
         run: |
           touch published_posts.json
 
@@ -37,9 +38,12 @@ jobs:
       - name: Run Python script to generate Jekyll posts
         env:
           WORDPRESS_BLOG_ID: ${{ secrets.WORDPRESS_BLOG_ID }}
+          # Pastikan Anda telah mengonfigurasi GEMINI_API_KEY di GitHub Secrets
+          # walaupun skrip Python Anda saat ini tidak menggunakannya
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} 
         run: |
           # Jalankan skrip Anda yang akan membuat folder _posts dan isinya
-          python wordpress_importer.py
+          python wordpress_importer.py # Pastikan nama file Python Anda sudah benar
 
       - name: Persist published_posts.json
         # Unggah file state sebagai artifact agar bisa dipertahankan antar eksekusi workflow
@@ -48,7 +52,7 @@ jobs:
         with:
           name: published-posts-state
           path: published_posts.json
-          overwrite: true
+          overwrite: true # Penting untuk menimpa artifact lama
 
       - name: Upload Jekyll posts as artifact
         # Unggah folder _posts sebagai artifact untuk job build Jekyll berikutnya
@@ -66,10 +70,11 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        # Penting: Checkout repositori Anda lagi karena ini job terpisah
+        # Penting: Checkout repositori Anda lagi karena ini job terpisah.
+        # Ini akan memastikan semua file Jekyll dasar Anda (layout, _config.yml, Gemfile) tersedia.
 
       - name: Download published_posts.json
-        # Download file state agar tersedia di lingkungan ini jika Anda membutuhkannya
+        # Download file state agar tersedia di lingkungan ini untuk push kembali
         uses: actions/download-artifact@v4
         with:
           name: published-posts-state
@@ -80,6 +85,10 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
+          
+          # Lakukan git pull sebelum push untuk menghindari error rejected push
+          git pull origin main || true 
+
           git add published_posts.json
           git commit -m "Update published posts state" || true
           git push
@@ -97,7 +106,9 @@ jobs:
         # Perlu setup Ruby untuk Jekyll
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3' # Atau versi Ruby yang spesifik, misal '3.2'
+          # Ganti '3.x' dengan versi spesifik yang tersedia (misal: '3.3' atau '3.2')
+          # Berdasarkan error sebelumnya, '3.3' adalah pilihan yang baik.
+          ruby-version: '3.3' 
           bundler-cache: true # Menginstal gem dependencies dari Gemfile.lock
 
       - name: Build Jekyll site
