@@ -97,7 +97,7 @@ jobs:
         # Perlu setup Ruby untuk Jekyll
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.x' # Atau versi Ruby yang spesifik, misal '3.2'
+          ruby-version: '3.3' # Atau versi Ruby yang spesifik, misal '3.2'
           bundler-cache: true # Menginstal gem dependencies dari Gemfile.lock
 
       - name: Build Jekyll site
