@@ -24,7 +24,7 @@ if not GEMINI_API_KEY:
 
 genai.configure(api_key=GEMINI_API_KEY)
 # Menggunakan model 'gemini-pro' untuk teks
-gemini_model = genai.GenerativeModel('gemini-pro')
+gemini_model = genai.GenerativeModel()
 
 os.makedirs(POST_DIR, exist_ok=True)
 
