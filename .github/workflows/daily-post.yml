@@ -1,4 +1,4 @@
-name: Generate Jekyll Posts from WordPress
+name: Generate Jekyll Posts and Deploy
 
 on:
   workflow_dispatch: # Mengizinkan trigger manual dari UI GitHub Actions
@@ -10,19 +10,32 @@ on:
 
 # Berikan izin yang diperlukan untuk GITHUB_TOKEN
 permissions:
-  contents: write # Diperlukan untuk push published_posts.json jika berubah
+  contents: read # Hanya perlu membaca kode sumber (tidak push ke repo)
   pages: write    # Untuk mendeploy ke GitHub Pages
   id-token: write # Untuk OIDC (diperlukan oleh actions/deploy-pages)
 
 jobs:
-  generate_posts:
+  generate_and_deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Create empty published_posts.json if it doesn't exist
-        # Ini akan memastikan file published_posts.json ada saat git add jika belum ada
+      # --- Lanjutkan state published_posts.json antar runs ---
+      # Ini akan mencoba mengunduh published_posts.json dari run sebelumnya
+      # Jika tidak ada, itu akan menjadi file kosong, yang akan diatasi oleh skrip Python Anda
+      - name: Download previous published_posts.json state
+        uses: actions/download-artifact@v4
+        with:
+          name: published-posts-state
+          path: . # Download ke root direktori kerja
+
+      - name: Create empty published_posts.json if download failed (first run)
+        # Pastikan file published_posts.json ada untuk skrip Python jika belum diunduh
         run: |
           touch published_posts.json
 
@@ -38,90 +51,39 @@ jobs:
       - name: Run Python script to generate Jekyll posts
         env:
           WORDPRESS_BLOG_ID: ${{ secrets.WORDPRESS_BLOG_ID }}
-          # Pastikan Anda telah mengonfigurasi GEMINI_API_KEY di GitHub Secrets
-          # walaupun skrip Python Anda saat ini tidak menggunakannya
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} 
         run: |
-          # Jalankan skrip Anda yang akan membuat folder _posts dan isinya
-          python wordpress_importer.py # Pastikan nama file Python Anda sudah benar
+          # Skrip Python Anda akan membuat _posts dan memperbarui published_posts.json
+          python wordpress_importer.py 
 
-      - name: Persist published_posts.json
-        # Unggah file state sebagai artifact agar bisa dipertahankan antar eksekusi workflow
-        # Ini penting agar script bisa melacak post mana yang sudah diproses
+      # --- Simpan published_posts.json untuk run berikutnya ---
+      - name: Upload current published_posts.json state for next run
         uses: actions/upload-artifact@v4
         with:
           name: published-posts-state
           path: published_posts.json
-          overwrite: true # Penting untuk menimpa artifact lama
+          overwrite: true # Penting untuk menimpa state lama
 
-      - name: Upload Jekyll posts as artifact
-        # Unggah folder _posts sebagai artifact untuk job build Jekyll berikutnya
-        uses: actions/upload-artifact@v4
-        with:
-          name: jekyll-posts # Nama artifact
-          path: _posts/ # Path ke folder _posts yang dibuat oleh script Python
-
-  build_and_deploy_jekyll:
-    needs: generate_posts # Pastikan job generate_posts selesai
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        # Penting: Checkout repositori Anda lagi karena ini job terpisah.
-        # Ini akan memastikan semua file Jekyll dasar Anda (layout, _config.yml, Gemfile) tersedia.
-
-      - name: Download published_posts.json
-        # Download file state agar tersedia di lingkungan ini untuk push kembali
-        uses: actions/download-artifact@v4
-        with:
-          name: published-posts-state
-          path: . # Download ke root repo
-
-      - name: Commit and push updated published_posts.json
-        # Hanya commit dan push file state, bukan _posts
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          
-          # Lakukan git pull sebelum push untuk menghindari error rejected push
-          git pull origin main || true 
-
-          git add published_posts.json
-          git commit -m "Update published posts state" || true
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Download Jekyll posts
-        # Download _posts artifact yang dibuat di job sebelumnya
-        uses: actions/download-artifact@v4
-        with:
-          name: jekyll-posts
-          path: _posts/ # Pastikan path ini sesuai dengan struktur Jekyll
-
+      # --- Set up Ruby untuk Jekyll ---
       - name: Setup Ruby
-        # Perlu setup Ruby untuk Jekyll
         uses: ruby/setup-ruby@v1
         with:
-          # Ganti '3.x' dengan versi spesifik yang tersedia (misal: '3.3' atau '3.2')
-          # Berdasarkan error sebelumnya, '3.3' adalah pilihan yang baik.
-          ruby-version: '3.3' 
-          bundler-cache: true # Menginstal gem dependencies dari Gemfile.lock
+          ruby-version: '3.3' # Versi Ruby yang spesifik dan stabil
+          bundler-cache: true 
 
+      # --- Build Jekyll site ---
+      # Jekyll akan membaca _posts yang baru saja dibuat oleh skrip Python di lingkungan ini
       - name: Build Jekyll site
-        # Jalankan build Jekyll
         run: |
           bundle exec jekyll build
 
+      # --- Upload _site artifact untuk GitHub Pages ---
       - name: Upload artifact for GitHub Pages
-        # Unggah folder _site (output dari Jekyll)
         uses: actions/upload-pages-artifact@v3
         with:
           path: './_site' # Ini adalah folder output Jekyll
 
+      # --- Deploy ke GitHub Pages ---
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 # Action resmi untuk deployment GitHub Pages
+        uses: actions/deploy-pages@v4
