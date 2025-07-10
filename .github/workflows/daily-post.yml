@@ -79,7 +79,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.6.9' # Sesuaikan dengan versi Ruby yang Anda gunakan (misal: '3.2' atau '3.3')
+          ruby-version: '3.2' # Sesuaikan dengan versi Ruby yang Anda gunakan (misal: '3.2' atau '3.3')
           bundler-cache: true # Menginstal gem dari Gemfile.lock
 
       - name: Install Jekyll and dependencies
