@@ -27,17 +27,24 @@ jobs:
 
       # --- Lanjutkan state published_posts.json antar runs ---
       # Ini akan mencoba mengunduh published_posts.json dari run sebelumnya
-      # Jika tidak ada, itu akan menjadi file kosong, yang akan diatasi oleh skrip Python Anda
+      # Jika tidak ada (misal, pertama kali dijalankan), langkah ini tidak akan menyebabkan error fatal
       - name: Download previous published_posts.json state
         uses: actions/download-artifact@v4
         with:
           name: published-posts-state
           path: . # Download ke root direktori kerja
+        continue-on-error: true # <--- Tambahan PENTING: Lanjutkan meskipun error
 
-      - name: Create empty published_posts.json if download failed (first run)
-        # Pastikan file published_posts.json ada untuk skrip Python jika belum diunduh
+      - name: Create empty published_posts.json if not downloaded
+        # Langkah ini akan memastikan file published_posts.json ada
+        # Jika artifact berhasil diunduh, file sudah ada. Jika tidak, akan dibuat kosong.
         run: |
-          touch published_posts.json
+          if [ ! -f published_posts.json ]; then
+            echo "published_posts.json not found from artifact, creating empty file."
+            echo "{}" > published_posts.json # Pastikan isinya adalah JSON kosong yang valid
+          else
+            echo "published_posts.json found from artifact."
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v5
