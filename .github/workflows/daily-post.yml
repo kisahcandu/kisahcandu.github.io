@@ -37,7 +37,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # Mengambil API Key dari GitHub Secrets
           WORDPRESS_BLOG_ID: ${{ secrets.WORDPRESS_BLOG_ID }} # Sebaiknya gunakan secret juga untuk ID blog
         run: |
-          python wordpress_importer.py # Pastikan nama file Python Anda sudah benar
+          python pentil_payudara.py # Pastikan nama file Python Anda sudah benar
 
       - name: Commit and push generated _posts and state file
         run: |
