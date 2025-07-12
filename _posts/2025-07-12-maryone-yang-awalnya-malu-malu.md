@@ -4,7 +4,7 @@ title: "Maryone Yang Awalnya Malu-Malu"
 author: "Om Sugeng"
 date: 2025-07-12 13:00:11 +0000
 description: "&nbsp;  Maryone Yang Awalnya Malu-Malu &nbsp;  Cerita Dewasa &#8211; Bekerja sebagai auditor di perusahaan swasta memang sangat melelahkan. Tenaga, pikiran, semuanya terkuras. Apalagi kalau ada masala..."
-image: "https://ceritaajib.wordpress.com/wp-content/uploads/2018/09/34143600_2030409190554647_459867645940858880_n.jpg"
+thumbnail: "https://ceritaajib.wordpress.com/wp-content/uploads/2018/09/34143600_2030409190554647_459867645940858880_n.jpg"
 categories: ["Cerita Dewasa"]
 tags: ["Cerita 18", "Cerita Basah", "Cerita Bokep", "Cerita Dewasa", "Cerita Ngentot"]
 ---
