@@ -46,7 +46,7 @@ jobs:
       - name: Setup Ruby and Jekyll
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Sesuaikan dengan versi Ruby yang dibutuhkan Jekyll Anda
+          ruby-version: '3.2' # Sesuaikan dengan versi Ruby yang dibutuhkan Jekyll Anda
           bundler-cache: true # Menginstall dependensi Gemfile secara otomatis
 
       - name: Build Jekyll Site
