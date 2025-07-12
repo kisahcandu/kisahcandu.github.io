@@ -4,8 +4,8 @@ on:
   workflow_dispatch: # Mengizinkan trigger manual dari UI GitHub Actions
   schedule:
     - cron: '0 0 * * *' # Aktifkan ini untuk jadwal harian (setiap hari jam 00:00 UTC)
-  # push:
-  #   branches:
+  push:
+     branches: gh-pages
   #     - main # Anda tidak perlu memicu dari push ke main jika _posts tidak di-commit di sana
 
 jobs:
