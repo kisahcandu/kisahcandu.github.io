@@ -7,7 +7,10 @@ layout: default
   {% for post in paginator.posts %}
   
     <li>
-      <img src="{{ page.image | relative_url }}"/>
+      {% if page.thumbnail %}
+  <img src="{{ page.thumbnail }}" alt="Thumbnail" />
+{% endif %}
+
       <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
       <span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
       <p>{{ post.excerpt | truncatewords: 14 }}</p>
