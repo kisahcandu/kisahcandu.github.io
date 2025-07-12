@@ -83,28 +83,47 @@ def replace_custom_words(text):
 def edit_first_300_words_with_gemini(post_id, post_title, full_text_content):
     """
     Mengirim 300 kata pertama ke Gemini AI untuk diedit,
-    dan menggabungkannya kembali dengan sisa artikel.
+    dan menggabungkannya kembali dengan sisa artikel,
+    mempertahankan format paragraf sisa artikel.
     """
-    words = full_text_content.split()
+    words = full_text_content.split() # Masih perlu ini untuk menghitung kata
 
     if len(words) < 50:
         print(f"[{post_id}] Artikel terlalu pendek (<50 kata) untuk diedit oleh Gemini AI. Melewati pengeditan.")
         return full_text_content
 
-    first_300_words_list = words[:300]
-    rest_of_article_list = words[300:]
+    # Hitung jumlah karakter untuk 300 kata pertama untuk menentukan titik potong
+    # Ini adalah cara yang lebih andal untuk menjaga pemisah paragraf di sisa teks
+    char_count_for_300_words = 0
+    word_count = 0
+    
+    # Iterasi untuk menghitung karakter yang membentuk 300 kata pertama
+    for i, word in enumerate(words):
+        if word_count < 300:
+            char_count_for_300_words += len(word)
+            if i < len(words) - 1: # Tambah spasi hanya jika bukan kata terakhir
+                char_count_for_300_words += 1 
+            word_count += 1
+        else:
+            break
+            
+    # Pastikan char_count_for_300_words tidak melebihi panjang string sebenarnya
+    # dan jika melebihi, potong saja sampai panjang string
+    char_count_for_300_words = min(char_count_for_300_words, len(full_text_content))
 
-    first_300_words_text = " ".join(first_300_words_list)
-    rest_of_article_text = " ".join(rest_of_article_list)
+    # Ambil 300 kata pertama sebagai string asli (dengan pemisah paragraf jika ada)
+    first_300_words_original_string = full_text_content[:char_count_for_300_words].strip()
+    
+    # Sisa artikel adalah bagian setelah 300 kata pertama
+    rest_of_article_text = full_text_content[char_count_for_300_words:].strip()
 
-    print(f"🤖 Memulai pengeditan Gemini AI untuk artikel ID: {post_id} - '{post_title}' ({len(first_300_words_list)} kata pertama)...")
+    print(f"🤖 Memulai pengeditan Gemini AI untuk artikel ID: {post_id} - '{post_title}' ({len(first_300_words_original_string.split())} kata pertama)...")
 
     try:
-        # Instruksi prompt yang lebih baik untuk menjaga paragraf
         prompt = (
             f"Cerita Berikut adalah cuplikan dari 300 kata pertama dari cerita utuhnya, Perbaiki tata bahasa, ejaan, dan tingkatkan keterbacaan paragraf berikut. "
-            f"pharaprse signikatif setiap kata, dan buat agar lebih mengalir sehingga 300 kata pertama ini beda dari aslinya:\n\n"
-            f"{first_300_words_text}"
+            f"Paraphrase signifikan setiap kata, dan buat agar lebih mengalir sehingga 300 kata pertama ini beda dari aslinya:\n\n"
+            f"{first_300_words_original_string}" # Gunakan string yang asli dengan paragraf utuh
         )
 
         response = gemini_model.generate_content(prompt)
@@ -116,6 +135,8 @@ def edit_first_300_words_with_gemini(post_id, post_title, full_text_content):
         cleaned_edited_text = strip_html_and_divs(edited_text_from_gemini)
 
         # Gabungkan bagian yang diedit dengan sisa artikel.
+        # Penting: Pastikan ada pemisah paragraf yang kuat di antara kedua bagian
+        # dan sisa artikel tetap mempertahankan format paragraf aslinya
         final_combined_text = cleaned_edited_text.strip() + "\n\n" + rest_of_article_text.strip()
 
         # Final cleanup untuk seluruh teks setelah penggabungan
