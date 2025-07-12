@@ -5,12 +5,10 @@ layout: default
 <div class="home">
 <ul class="post-list">
   {% for post in paginator.posts %}
-  
     <li>
-      {% if page.thumbnail %}
-  <img src="{{ page.thumbnail }}" alt="Thumbnail" />
-{% endif %}
-
+      {% if post.thumbnail %}
+        <img src="{{ post.thumbnail }}" alt="Thumbnail {{ post.title }}" />
+      {% endif %}
       <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
       <span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
       <p>{{ post.excerpt | truncatewords: 14 }}</p>
