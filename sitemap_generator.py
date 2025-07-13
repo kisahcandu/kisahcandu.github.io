@@ -20,13 +20,13 @@ def extract_front_matter(markdown_content):
     match = re.match(r'---\s*\n(.*?)\n---\s*\n', markdown_content, re.DOTALL)
     if match:
         front_matter_str = match.group(1)
-        
+
         title_match = re.search(r'title:\s*(.*)', front_matter_str)
         date_match = re.search(r'date:\s*([\d-]+)', front_matter_str)
-        
+
         title = title_match.group(1).strip().strip('"\'') if title_match else 'No Title'
         date_str = date_match.group(1).strip() if date_match else None
-        
+
         lastmod = None
         if date_str:
             try:
@@ -73,7 +73,9 @@ def generate_sitemap_content():
 
 
 def write_sitemap_file(path, content):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
+    dirpath = os.path.dirname(path)
+    if dirpath:  # hanya buat folder jika ada direktori
+        os.makedirs(dirpath, exist_ok=True)
     with open(path, 'w', encoding='utf-8') as f:
         f.write(content)
     print(f"✅ Sitemap berhasil dibuat: {path}")
