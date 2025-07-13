@@ -3,10 +3,11 @@ name: Generate Sitemap XML
 on:
   push:
     branches:
-      - main # Ganti dengan nama branch utama kamu (misal: master atau gh-pages)
+      - main
     paths:
-      - '_posts/**' # Trigger jika ada perubahan di folder _posts
-      - 'sitemap_generator.py' # Trigger jika skrip generator berubah
+      - '_posts/**'
+      - 'sitemap_generator.py'
+  workflow_dispatch: # ← ini yang bikin tombol muncul
 
 jobs:
   build:
@@ -28,7 +29,7 @@ jobs:
       run: |
         git config user.name github-actions[bot]
         git config user.email github-actions[bot]@users.noreply.github.com
-        git add sitemap.xml # Hanya sitemap.xml yang di-commit
+        git add sitemap.xml
         git commit -m "chore: Regenerate sitemap.xml" || echo "No changes to commit"
         git push
       env:
