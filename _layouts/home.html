@@ -3,93 +3,70 @@ layout: default
 ---
 
 <style>
-/* Gaya dasar untuk semua ukuran layar */
 .post-list {
   list-style: none;
   padding: 0;
 }
 
 .post-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
   margin-bottom: 1.5rem;
   border-bottom: 1px solid #ddd;
   padding-bottom: 1rem;
-  overflow: hidden; /* Penting untuk "clearfloat" jika konten di dalamnya float */
 }
 
 .post-item img {
-  float: left; /* Gambar akan mengambang di kiri */
   width: 120px;
   height: 80px;
   object-fit: cover;
-  margin-right: 1rem; /* Jarak antara gambar dan teks */
   border-radius: 4px;
+  margin-right: 1rem;
+  flex-shrink: 0;
 }
 
-.post-content-wrapper {
-  /* Ini adalah wadah untuk judul, tanggal, dan snippet */
-  /* Kita tidak akan float ini, biarkan dia mengisi sisa ruang */
-  overflow: hidden; /* Penting untuk clearfix jika ada float di dalamnya */
+.post-header {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
 }
 
-.post-title-wrapper {
-  /* Ini akan menampung judul */
-  /* Agar judul bisa di kanan gambar */
-  margin-left: 10px; /* Geser ke kanan sejauh lebar gambar + margin-right gambar (120px + 16px) */
-  margin-bottom: 0.3rem;
-}
-
-.post-meta-wrapper {
-  /* Ini akan menampung tanggal dan snippet */
-  /* Posisinya akan kita atur di bawah gambar */
-}
-
-.post-content h3 {
-  margin: 0; /* Hapus margin default */
+.post-title {
   font-size: 1.1rem;
+  margin: 0;
+  font-weight: bold;
 }
 
-.post-content .post-meta {
-  font-size: 0.85rem;
-  color: #888;
-  display: block;
-  margin-bottom: 0.3rem; /* Jarak antara tanggal dan snippet */
+.post-footer {
+  flex-basis: 100%;
+  margin-top: 0.3rem;
+  font-size: 0.9rem;
+  color: #555;
 }
 
-.post-content p {
-  margin: 0; /* Hapus margin default */
-  color: #333;
-  font-size: 0.95rem;
+.post-footer p {
+  margin: 0.3rem 0 0;
 }
 
-/* Media Query untuk layar dengan lebar MAKSIMAL 640px */
+/* 🔻 Responsive ≤ 640px */
 @media (max-width: 640px) {
-  .post-item img {
-    float: left; /* Pastikan gambar tetap di kiri */
-    width: 120px;
-    height: 80px;
-    margin-right: 1rem;
+  .post-item {
+    flex-direction: row;
   }
 
-  .post-title-wrapper {
-    /* Judul akan berada di samping kanan gambar */
-    overflow: hidden; /* Untuk memastikan judul mengisi sisa ruang setelah float gambar */
-    margin-left: 0; /* Hapus margin-left dari gaya dasar */
+  .post-header {
+    flex: 1;
+    display: flex;
+    align-items: flex-start;
   }
 
-  .post-meta-wrapper {
-    /* Ini adalah bagian kunci: membuat tanggal & snippet di bawah gambar */
-    clear: left; /* Ini akan "membersihkan" float dari gambar */
-    /* Jadi, post-meta-wrapper akan dimulai di baris baru, di bawah gambar */
-    margin-top: 0.5rem; /* Beri sedikit jarak dari gambar */
-    margin-left: 0; /* Pastikan tidak ada margin-left sisa */
+  .post-title {
+    font-size: 1rem;
   }
 
-  /* Jika teks di dalam post-meta-wrapper masih terlalu lebar, sesuaikan */
-  .post-meta-wrapper .post-meta,
-  .post-meta-wrapper p {
-    /* Jika perlu, tambahkan padding-left atau margin-left di sini
-       untuk menyelaraskan dengan gambar, tetapi biasanya tidak perlu
-       karena post-meta-wrapper sudah clear:left. */
+  .post-footer {
+    padding-left: calc(120px + 1rem); /* sejajar dengan gambar kiri */
   }
 }
 </style>
@@ -101,14 +78,16 @@ layout: default
         {% if post.image %}
           <img src="{{ post.image }}" alt="Thumbnail {{ post.title }}" />
         {% endif %}
-        <div class="post-content-wrapper">
-          <div class="post-title-wrapper">
-            <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
-          </div>
-          <div class="post-meta-wrapper">
-            <span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
-            <p>{{ post.excerpt | truncatewords: 14 }}</p>
-          </div>
+        
+        <div class="post-header">
+          <h3 class="post-title">
+            <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+          </h3>
+        </div>
+
+        <div class="post-footer">
+          <p>{{ post.excerpt | truncatewords: 16 }} <a href="{{ post.url }}">Read more »</a></p>
+          <p>Ditulis Admin - {{ post.date | date: "%d %B %Y" }}</p>
         </div>
       </li>
     {% endfor %}
