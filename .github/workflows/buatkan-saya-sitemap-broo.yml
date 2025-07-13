@@ -1,0 +1,43 @@
+name: Generate Sitemap XML
+
+on:
+  push:
+    branches:
+      - main # Ganti dengan nama branch utama kamu (misal: master atau gh-pages)
+    paths:
+      - '_posts/**' # Trigger jika ada perubahan di folder _posts
+      - 'sitemap_generator.py' # Trigger jika skrip generator berubah
+  
+  # Tambahkan bagian ini untuk otomatisasi harian
+  schedule:
+    # Jalankan setiap hari pada pukul 00:00 UTC (tengah malam)
+    # Sesuaikan jadwal ini sesuai kebutuhanmu.
+    # Contoh: '0 0 * * *' berarti jam 00:00 setiap hari.
+    # Kamu bisa cek crontab guru untuk sintaksnya: https://crontab.guru/
+    - cron: '0 0 * * *' 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run sitemap generator
+      run: python sitemap_generator.py
+
+    - name: Commit and push sitemap.xml
+      run: |
+        git config user.name github-actions[bot]
+        git config user.email github-actions[bot]@users.noreply.github.com
+        git add sitemap.xml # Hanya sitemap.xml yang di-commit
+        git commit -m "chore: Regenerate sitemap.xml (scheduled)" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
