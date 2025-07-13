@@ -1,0 +1,6 @@
+# robots.txt for my test site User-agent: 
+Bingbot Allow: / 
+User-agent: * 
+Allow: /
+
+Sitemap: https://kisahcandu.github.io/sitemap.xml
