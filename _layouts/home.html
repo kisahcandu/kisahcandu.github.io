@@ -2,29 +2,77 @@
 layout: default
 ---
 
+<style>
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 1rem;
+}
+
+.post-item img {
+  width: 120px;
+  height: 80px;
+  object-fit: cover;
+  margin-right: 1rem;
+  flex-shrink: 0;
+  border-radius: 4px;
+}
+
+.post-content {
+  flex: 1;
+}
+
+.post-content h3 {
+  margin: 0 0 0.3rem;
+  font-size: 1.1rem;
+}
+
+.post-content .post-meta {
+  font-size: 0.85rem;
+  color: #888;
+  margin-bottom: 0.3rem;
+  display: block;
+}
+
+.post-content p {
+  margin: 0.2rem 0 0;
+  color: #333;
+  font-size: 0.95rem;
+}
+</style>
+
 <div class="home">
-<ul class="post-list">
-  {% for post in paginator.posts %}
-    <li>
-      {% if post.image %}
-        <img src="{{ post.image }}" alt="Thumbnail {{ post.title }}" />
-      {% endif %}
-      <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
-      <span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
-      <p>{{ post.excerpt | truncatewords: 14 }}</p>
-    </li>
-  {% endfor %}
-</ul>
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li class="post-item">
+        {% if post.image %}
+          <img src="{{ post.image }}" alt="Thumbnail {{ post.title }}" />
+        {% endif %}
+        <div class="post-content">
+          <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
+          <span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
+          <p>{{ post.excerpt | truncatewords: 14 }}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
 
-<p style="text-align:center">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">« Sebelumnya</a>
-  {% endif %}
+  <p style="text-align:center">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}">« Sebelumnya</a>
+    {% endif %}
 
-  Halaman {{ paginator.page }} dari {{ paginator.total_pages }}
+    Halaman {{ paginator.page }} dari {{ paginator.total_pages }}
 
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Berikutnya »</a>
-  {% endif %}
-</p>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}">Berikutnya »</a>
+    {% endif %}
+  </p>
 </div>
