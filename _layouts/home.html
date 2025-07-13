@@ -6,8 +6,8 @@ layout: default
 <ul class="post-list">
   {% for post in paginator.posts %}
     <li>
-      {% if post.thumbnail %}
-        <img src="{{ post.thumbnail }}" alt="Thumbnail {{ post.title }}" />
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="Thumbnail {{ post.title }}" />
       {% endif %}
       <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
       <span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
