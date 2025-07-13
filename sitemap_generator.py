@@ -57,7 +57,7 @@ def generate_sitemap_xml():
                     day = parts[2]
                     slug = parts[3].replace('.md', '')
                     
-                    post_url = f"{BASE_URL}{year}/{month}/{day}/{slug}/"
+                    post_url = f"{BASE_URL}/{slug}/"
                     
                     xml_content.append('    <url>')
                     xml_content.append(f'        <loc>{post_url}</loc>')
