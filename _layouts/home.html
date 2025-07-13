@@ -3,30 +3,31 @@ layout: default
 ---
 
 <style>
+/* Gaya dasar: Ini akan diterapkan untuk layar DARI 641px ke atas (layar besar) */
 .post-list {
   list-style: none;
   padding: 0;
 }
 
 .post-item {
-  display: flex;
-  align-items: flex-start;
+  display: flex; /* Menggunakan flexbox untuk tata letak horizontal */
+  align-items: flex-start; /* Sejajarkan konten ke bagian atas */
   margin-bottom: 1.5rem;
   border-bottom: 1px solid #ddd;
   padding-bottom: 1rem;
 }
 
 .post-item img {
-  width: 120px;
+  width: 120px; /* Ukuran gambar seperti di contoh */
   height: 80px;
   object-fit: cover;
-  margin-right: 1rem;
-  flex-shrink: 0;
+  margin-right: 1rem; /* Jarak antara gambar dan teks */
+  flex-shrink: 0; /* Pastikan gambar tidak mengecil */
   border-radius: 4px;
 }
 
 .post-content {
-  flex: 1;
+  flex: 1; /* Konten teks akan mengisi sisa ruang */
 }
 
 .post-content h3 {
@@ -47,35 +48,26 @@ layout: default
   font-size: 0.95rem;
 }
 
-  @media (max-width: 640px) {
+/* Media Query untuk layar dengan lebar MAKSIMAL 640px (untuk tampilan ponsel/tablet kecil) */
+@media (max-width: 640px) {
   .post-item {
-    flex-direction: row;
-    align-items: flex-start;
+    flex-direction: column; /* Ubah arah flex menjadi kolom (gambar di atas teks) */
+    align-items: center; /* Pusatkan gambar dan teks */
+    text-align: center; /* Pusatkan teks */
+  }
+
+  .post-item img {
+    width: 100%; /* Gambar mengisi lebar penuh */
+    max-width: 300px; /* Batasi lebar maksimum gambar agar tidak terlalu besar di ponsel */
+    height: auto; /* Sesuaikan tinggi secara proporsional */
+    margin-right: 0; /* Hapus margin kanan */
+    margin-bottom: 0.8rem; /* Tambahkan margin bawah untuk jarak ke teks */
   }
 
   .post-content {
     display: flex;
     flex-direction: column;
-  }
-
-  .post-title {
-    margin-bottom: 0.5rem;
-  }
-.post-item img {
-  width: 120px;
-  height: 80px;
-  object-fit: cover;
-  margin-right: 1rem;
-  flex-shrink: 0;
-  border-radius: 4px;
-  order: 1;
-}
-  .post-info {
-    order: 2;
-  }
-
-  .post-excerpt {
-    order: 3;
+    align-items: center; /* Pusatkan elemen di dalam post-content */
   }
 }
 </style>
