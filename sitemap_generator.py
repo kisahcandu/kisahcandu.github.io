@@ -8,7 +8,7 @@ POSTS_DIR = '_posts'
 SITEMAP_XML_FILE = 'sitemap.xml'
 SITEMAP_XSL_FILE = 'wp-sitemap.xsl' # Ini akan menjadi file XSL manual yang kamu buat
 # URL dasar situs kamu (ganti dengan URL GitHub Pages kamu)
-BASE_URL = 'https://kisahcandu.github.io/' # Contoh: 'https://your-username.github.io/your-repo/'
+BASE_URL = 'https://kisahcandu.github.io' # Contoh: 'https://your-username.github.io/your-repo/'
 
 def extract_front_matter(markdown_content):
     """Mengekstrak front matter YAML dari konten Markdown."""
