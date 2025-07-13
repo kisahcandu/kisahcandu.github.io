@@ -46,6 +46,30 @@ layout: default
   color: #333;
   font-size: 0.95rem;
 }
+
+  @media (max-width: 640px) {
+  .post-item {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .post-content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .post-title {
+    margin-bottom: 0.5rem;
+  }
+
+  .post-info {
+    order: 2;
+  }
+
+  .post-excerpt {
+    order: 3;
+  }
+}
 </style>
 
 <div class="home">
