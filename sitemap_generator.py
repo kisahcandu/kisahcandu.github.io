@@ -59,6 +59,7 @@ def generate_sitemap_xml():
                     
                     post_url = f"{BASE_URL}{slug}/"
                     
+                    # Perubahan di sini: Menggunakan spasi standar untuk indentasi
                     xml_content.append('    <url>')
                     xml_content.append(f'        <loc>{post_url}</loc>')
                     if front_matter['lastmod']:
