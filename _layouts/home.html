@@ -6,6 +6,7 @@ layout: default
 .post-list {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 
 .post-item {
@@ -17,7 +18,7 @@ layout: default
   padding-bottom: 1rem;
 }
 
-.post-item img {
+.post-thumbnail {
   width: 120px;
   height: 80px;
   object-fit: cover;
@@ -26,47 +27,51 @@ layout: default
   flex-shrink: 0;
 }
 
-.post-header {
+.post-title-wrapper {
   flex: 1;
   display: flex;
-  justify-content: space-between;
+  align-items: flex-start;
 }
 
 .post-title {
   font-size: 1.1rem;
   margin: 0;
   font-weight: bold;
+  line-height: 1.3;
 }
 
-.post-footer {
+.post-body {
   flex-basis: 100%;
-  margin-top: 0.3rem;
   font-size: 0.9rem;
   color: #555;
+  margin-top: 0.4rem;
 }
 
-.post-footer p {
-  margin: 0.3rem 0 0;
+.post-body p {
+  margin: 0.2rem 0;
 }
 
-/* 🔻 Responsive ≤ 640px */
+/* 🔻 Responsive khusus Mobile (≤640px) */
 @media (max-width: 640px) {
   .post-item {
     flex-direction: row;
   }
 
-  .post-header {
+  .post-thumbnail {
+    margin-right: 1rem;
+  }
+
+  .post-title-wrapper {
     flex: 1;
-    display: flex;
-    align-items: flex-start;
   }
 
-  .post-title {
-    font-size: 1rem;
+  .post-body {
+    padding-left: 0;
+    margin-top: 0.5rem;
   }
 
-  .post-footer {
-    padding-left: calc(120px + 1rem); /* sejajar dengan gambar kiri */
+  .post-body p {
+    margin-left: calc(120px + 1rem); /* Geser agar sejajar bawah gambar */
   }
 }
 </style>
@@ -76,17 +81,19 @@ layout: default
     {% for post in paginator.posts %}
       <li class="post-item">
         {% if post.image %}
-          <img src="{{ post.image }}" alt="Thumbnail {{ post.title }}" />
+          <img class="post-thumbnail" src="{{ post.image }}" alt="Thumbnail {{ post.title }}" />
         {% endif %}
-        
-        <div class="post-header">
+
+        <!-- Judul tetap di kanan -->
+        <div class="post-title-wrapper">
           <h3 class="post-title">
             <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
           </h3>
         </div>
 
-        <div class="post-footer">
-          <p>{{ post.excerpt | truncatewords: 16 }} <a href="{{ post.url }}">Read more »</a></p>
+        <!-- Snippet + tanggal pindah ke bawah gambar -->
+        <div class="post-body">
+          <p>{{ post.excerpt | truncatewords: 20 }} <a href="{{ post.url }}">Read more »</a></p>
           <p>Ditulis Admin - {{ post.date | date: "%d %B %Y" }}</p>
         </div>
       </li>
@@ -97,9 +104,7 @@ layout: default
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}">« Sebelumnya</a>
     {% endif %}
-
     Halaman {{ paginator.page }} dari {{ paginator.total_pages }}
-
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path }}">Berikutnya »</a>
     {% endif %}
