@@ -10,113 +10,86 @@ layout: default
 }
 
 .post-item {
-  display: flex;
-  align-items: flex-start; /* Gambar dan konten sejajar ke atas */
   margin-bottom: 1.5rem;
   border-bottom: 1px solid #ddd;
   padding-bottom: 1rem;
+  overflow: hidden; /* Penting untuk "clearfloat" jika konten di dalamnya float */
 }
 
 .post-item img {
+  float: left; /* Gambar akan mengambang di kiri */
   width: 120px;
   height: 80px;
   object-fit: cover;
-  margin-right: 1rem; /* Jarak antara gambar dan blok teks */
-  flex-shrink: 0;
+  margin-right: 1rem; /* Jarak antara gambar dan teks */
   border-radius: 4px;
 }
 
-.post-content {
-  flex: 1; /* Konten teks mengisi sisa ruang horizontal */
-  display: flex; /* Jadikan post-content flex container */
-  flex-direction: column; /* Susun elemen di dalamnya secara vertikal */
+.post-content-wrapper {
+  /* Ini adalah wadah untuk judul, tanggal, dan snippet */
+  /* Kita tidak akan float ini, biarkan dia mengisi sisa ruang */
+  overflow: hidden; /* Penting untuk clearfix jika ada float di dalamnya */
 }
 
-/* Bagian atas: Judul */
-.post-top {
-  display: flex; /* Untuk menempatkan judul di samping kanan gambar */
-  flex-direction: column; /* Judul sendiri mungkin ingin satu baris */
+.post-title-wrapper {
+  /* Ini akan menampung judul */
+  /* Agar judul bisa di kanan gambar */
+  margin-left: 136px; /* Geser ke kanan sejauh lebar gambar + margin-right gambar (120px + 16px) */
+  margin-bottom: 0.3rem;
+}
+
+.post-meta-wrapper {
+  /* Ini akan menampung tanggal dan snippet */
+  /* Posisinya akan kita atur di bawah gambar */
 }
 
 .post-content h3 {
-  margin: 0 0 0.3rem;
+  margin: 0; /* Hapus margin default */
   font-size: 1.1rem;
 }
-
-/* Bagian bawah: Tanggal dan snippet */
-.post-bottom {
-  margin-top: -80px; /* Tarik ke atas sejajar dengan gambar */
-  margin-left: 136px; /* Geser ke kanan selebar gambar + margin-right */
-  /* (120px lebar gambar + 16px (1rem) margin-right = 136px) */
-  width: calc(100% - 136px); /* Sesuaikan lebar agar tidak melebihi container */
-}
-
 
 .post-content .post-meta {
   font-size: 0.85rem;
   color: #888;
-  margin-bottom: 0.3rem;
   display: block;
+  margin-bottom: 0.3rem; /* Jarak antara tanggal dan snippet */
 }
 
 .post-content p {
-  margin: 0.2rem 0 0;
+  margin: 0; /* Hapus margin default */
   color: #333;
   font-size: 0.95rem;
 }
 
-/* Media Query untuk tampilan min-width: 641px (jika ada tampilan berbeda untuk desktop) */
-@media (min-width: 641px) {
-  .post-top {
-    flex-direction: row; /* Biarkan judul tetap di samping gambar untuk layar besar */
-  }
-
-  .post-bottom {
-    margin-top: -80px; /* Sesuaikan ini jika tinggi gambar berubah di desktop */
-    margin-left: 136px;
-    width: calc(100% - 136px);
-  }
-}
-
-
 /* Media Query untuk layar dengan lebar MAKSIMAL 640px */
 @media (max-width: 640px) {
-  .post-item {
-    flex-direction: row; /* Tetap susun horizontal: gambar di kiri, teks di kanan */
-    align-items: flex-start;
-  }
-
   .post-item img {
+    float: left; /* Pastikan gambar tetap di kiri */
     width: 120px;
     height: 80px;
     margin-right: 1rem;
-    margin-bottom: 0;
   }
 
-  /* Mengatur ulang posisi untuk max-width 640px agar sesuai dengan permintaan */
-  .post-content {
-    flex-direction: column; /* Konten teks disusun vertikal */
-    align-items: flex-start; /* Rata kiri */
-    text-align: left;
+  .post-title-wrapper {
+    /* Judul akan berada di samping kanan gambar */
+    overflow: hidden; /* Untuk memastikan judul mengisi sisa ruang setelah float gambar */
+    margin-left: 0; /* Hapus margin-left dari gaya dasar */
   }
 
-  .post-top {
-    width: 100%; /* Biarkan judul mengambil lebar penuh di atas */
-    order: 1; /* Pastikan judul di bagian atas */
-    margin-left: -136px; /* Geser ke kiri untuk menimpa margin-left dari post-bottom */
+  .post-meta-wrapper {
+    /* Ini adalah bagian kunci: membuat tanggal & snippet di bawah gambar */
+    clear: left; /* Ini akan "membersihkan" float dari gambar */
+    /* Jadi, post-meta-wrapper akan dimulai di baris baru, di bawah gambar */
+    margin-top: 0.5rem; /* Beri sedikit jarak dari gambar */
+    margin-left: 0; /* Pastikan tidak ada margin-left sisa */
   }
 
-  .post-bottom {
-    order: 2; /* Pastikan tanggal dan snippet di bawah gambar */
-    margin-top: -80px; /* Tarik ke atas sejumlah tinggi gambar */
-    margin-left: 136px; /* Dorong ke kanan sejumlah lebar gambar + margin */
-    width: calc(100% - 136px); /* Sesuaikan lebar */
-  }
-
-  .post-content h3,
-  .post-content .post-meta,
-  .post-content p {
-    text-align: left;
+  /* Jika teks di dalam post-meta-wrapper masih terlalu lebar, sesuaikan */
+  .post-meta-wrapper .post-meta,
+  .post-meta-wrapper p {
+    /* Jika perlu, tambahkan padding-left atau margin-left di sini
+       untuk menyelaraskan dengan gambar, tetapi biasanya tidak perlu
+       karena post-meta-wrapper sudah clear:left. */
   }
 }
 </style>
@@ -128,11 +101,11 @@ layout: default
         {% if post.image %}
           <img src="{{ post.image }}" alt="Thumbnail {{ post.title }}" />
         {% endif %}
-        <div class="post-content">
-          <div class="post-top">
+        <div class="post-content-wrapper">
+          <div class="post-title-wrapper">
             <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
           </div>
-          <div class="post-bottom">
+          <div class="post-meta-wrapper">
             <span class="post-meta">{{ post.date | date: "%d %B %Y" }}</span>
             <p>{{ post.excerpt | truncatewords: 14 }}</p>
           </div>
