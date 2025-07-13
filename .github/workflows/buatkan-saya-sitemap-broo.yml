@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - '_posts/**'
-      - 'sitemap_generator.py'
+      - 'sitemap_generator.py' # Pastikan nama file Python-mu benar, apakah sitemap_generator.py atau generate_sitemap.py?
   workflow_dispatch: # ← ini yang bikin tombol muncul
 
 jobs:
@@ -16,6 +16,10 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        # Tambahkan ini untuk memastikan push kembali berjalan lancar
+        persist-credentials: false
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -23,14 +27,14 @@ jobs:
         python-version: '3.x'
 
     - name: Run sitemap generator
-      run: python sitemap_generator.py
+      run: python sitemap_generator.py # Pastikan nama file Python-mu benar
 
-    - name: Commit and push sitemap.xml
+    - name: Commit and push sitemaps
       run: |
-        git config user.name github-actions[bot]
-        git config user.email github-actions[bot]@users.noreply.github.com
-        git add sitemap.xml
-        git commit -m "chore: Regenerate sitemap.xml" || echo "No changes to commit"
+        git config user.name 'github-actions[bot]' # Gunakan kutip tunggal untuk amannya
+        git config user.email 'github-actions[bot]@users.noreply.github.com'
+        git add sitemap.xml public/sitemap.xml # <--- INI PERBAIKANNYA! Tambahkan kedua path
+        git commit -m "chore: Regenerate sitemaps [skip ci]" || echo "No changes to commit"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
