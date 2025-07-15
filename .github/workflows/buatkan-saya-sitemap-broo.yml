@@ -8,6 +8,10 @@ on:
       - '_posts/**'
       - 'sitemap_generator.py'
   workflow_dispatch:
+  schedule:
+    # Jalankan setiap hari pada pukul 00:00 UTC
+    # (Ini setara dengan pukul 07:00 WIB, karena WIB = UTC+7)
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -17,9 +21,9 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }} # Pastikan token digunakan di sini
-        persist-credentials: true         # Ini yang utama: harus true agar Git bisa menggunakan kredensial
-        fetch-depth: 0                    # Tetap bagus untuk riwayat Git lengkap
+        token: ${{ secrets.GITHUB_TOKEN }}
+        persist-credentials: true
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -33,7 +37,7 @@ jobs:
       run: |
         git config user.name 'github-actions[bot]'
         git config user.email 'github-actions[bot]@users.noreply.github.com'
-        git add sitemap.xml public/sitemap.xml
+        # HANYA tambahkan sitemap.xml di root
+        git add sitemap.xml
         git commit -m "chore: Regenerate sitemaps [skip ci]" || echo "No changes to commit"
         git push
-      # Tidak perlu lagi env: GITHUB_TOKEN di sini karena sudah diatur di checkout step
