@@ -4,3 +4,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://kisahcandu.github.io/sitemap.xml
+https://kisahcandu.github.io/sitemap.txt
