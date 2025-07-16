@@ -1,0 +1,38 @@
+# .github/workflows/generate-sitemap.yml
+
+name: Generate Sitemap.txt on Post Update
+
+on:
+  push:
+    branches:
+      - main # Ganti 'main' jika branch utama lo adalah 'master'
+    paths:
+      - '_posts/**' # Trigger jika ada perubahan di dalam folder _posts
+      - 'buat_sitemap.py' # Trigger juga jika skrip sitemap diubah
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x' # Bisa diganti versi Python yang lo inginkan
+
+    - name: Generate sitemap.txt
+      run: |
+        python buat_sitemap.py # Pastikan nama file skrip Python lo sama
+
+    - name: Commit and push sitemap.txt
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add sitemap.txt
+        git diff --quiet --exit-code sitemap.txt || git commit -m "Update sitemap.txt (Automated)"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token otomatis dari GitHub
