@@ -9,7 +9,11 @@ on:
     paths:
       - '_posts/**' # Trigger jika ada perubahan di dalam folder _posts
       - 'buat_sitemap.py' # Trigger juga jika skrip sitemap diubah
-  workflow_dispatch: # <--- INI YANG PERLU DITAMBAHKAN!
+  workflow_dispatch:
+
+# Tambahkan baris permissions ini di sini, di bawah 'on:' dan sejajar dengan 'jobs:'
+permissions:
+  contents: write # Ini memberikan izin untuk menulis (commit & push) ke repositori
 
 jobs:
   build:
@@ -22,11 +26,11 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.x' # Bisa diganti versi Python yang lo inginkan
+        python-version: '3.x'
 
     - name: Generate sitemap.txt
       run: |
-        python buat_sitemap.py # Pastikan nama file skrip Python lo sama
+        python buat_sitemap.py
 
     - name: Commit and push sitemap.txt
       run: |
@@ -37,4 +41,4 @@ jobs:
         git diff --quiet --exit-code sitemap.txt || git commit -m "Update sitemap.txt (Automated)"
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token otomatis dari GitHub
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
