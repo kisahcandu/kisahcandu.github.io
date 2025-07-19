@@ -22,7 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
+  - jekyll-paginate
 # File dan folder yang tidak perlu diproses
 exclude:
   - README.md
