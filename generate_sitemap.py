@@ -38,7 +38,7 @@ def get_post_urls_and_lastmod():
 
             # Buat URL postingan
             # Untuk Jekyll, postingan biasanya berada di /YYYY/MM/DD/title.html
-            post_url = f"https://{WEBSITE_HOST}/{year}/{month}/{day}/{post_slug}.html"
+            post_url = f"https://{WEBSITE_HOST}/{post_slug}/"
 
             # Dapatkan waktu modifikasi terakhir file
             last_mod_timestamp = os.path.getmtime(filepath)
