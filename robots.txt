@@ -1,5 +1,0 @@
-# robots.txt untuk kisahcandu.github.io
-User-agent: *
-Allow: /
-
-Sitemap: https://kisahcandu.github.io/sitemap.xml
