@@ -52,14 +52,14 @@
     {% if paginator.page == paginator.total_pages %}
       <li><strong class="current-page">{{ paginator.page }}</strong></li>
     {% else %}
-      <li><a href="{{ site.url }}/page{{ paginator.total_pages }}/">{{ paginator.total_pages }}</a></li>
+      <li><a href="{{ site.url }}/page/{{ paginator.total_pages }}/">{{ paginator.total_pages }}</a></li>
     {% endif %}
 
     {% comment %}
       Link next page
     {% endcomment %}
     {% if paginator.next_page %}
-      <li><a href="{{ site.url }}/page{{ paginator.next_page }}/" class="btn">Next</a></li>
+      <li><a href="{{ site.url }}/page/{{ paginator.next_page }}/" class="btn">Next</a></li>
     {% endif %}
   </ul>
 </div>
