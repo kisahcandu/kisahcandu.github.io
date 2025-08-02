@@ -55,25 +55,25 @@ layout: default
 
 </style>
 
-<div class="home">
-  <ul class="post-list">
+<div id="page" class="home hfeed">
+  <ul class="post-list hentry">
     {% for post in paginator.posts %}
       <li class="post-item">
         {% if post.image %}
-          <img class="post-thumbnail" src="{{ post.image }}" alt="Thumbnail {{ post.title }}" />
+          <img class="post-thumbnail image" src="{{ post.image }}" alt="Thumbnail {{ post.title }}" />
         {% endif %}
 
         <!-- Judul tetap di kanan -->
         <div class="post-title-wrapper">
-          <h2 class="post-title">
-            <a class="post-link" href="https://kisahcandu.github.io{{ post.url }}">{{ post.title }}</a>
-          </h3>
+          <h2 class="post-title entry-title">
+            <a class="post-link url" href="https://kisahcandu.github.io{{ post.url }}">{{ post.title }}</a>
+          </h2>
         </div>
 
         <!-- Snippet + tanggal pindah ke bawah gambar -->
         <div class="post-body">
-          <p>{{ post.excerpt | truncatewords: 20 }} <a href="{{ post.url }}">Read more »</a></p>
-          <p>Ditulis Admin - {{ post.date | date: "%d %B %Y" }}</p>
+          <p class="entry-summary">{{ post.excerpt | truncatewords: 20 }} <a href="{{ post.url }}">Read more »</a></p>
+          <p>Ditulis <span class="author">Admin</span> - <span class="published">{{ post.date | date: "%d %B %Y" }}</span></p>
         </div>
       </li>
     {% endfor %}
