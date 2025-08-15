@@ -32,12 +32,9 @@ os.makedirs(POST_DIR, exist_ok=True)
 REPLACEMENT_MAP = {
     "memek": "serambi lempit",
     "kontol": "rudal",
-    "ngentot": "menggenjot",
+    "ngentot": "menyetubuhi",
     "vagina": "serambi lempit",
     "penis": "rudal",
-    "seks": "bercinta",
-    "mani": "kenikmatan",
-    "sex": "bercinta"
 }
 
 # === Utilitas ===
@@ -90,61 +87,35 @@ def replace_custom_words(text):
         processed_text = pattern.sub(new_word, processed_text)
     return processed_text
 
-# --- Fungsi Edit 300 Kata Pertama dengan Gemini AI ---
-def edit_first_300_words_with_gemini(post_id, post_title, full_text_content):
+# --- Fungsi Edit Seluruh Artikel dengan Gemini AI (VERSI BARU) ---
+def edit_full_article_with_gemini(post_id, post_title, full_text_content):
     """
-    Mengirim 300 kata pertama ke Gemini AI untuk diedit,
-    dan menggabungkannya kembali dengan sisa artikel,
-    mempertahankan format paragraf sisa artikel.
+    Mengirim seluruh konten artikel ke Gemini AI untuk diedit.
     """
-    words = full_text_content.split()
-
-    if len(words) < 50:
+    if len(full_text_content.split()) < 50:
         print(f"[{post_id}] Artikel terlalu pendek (<50 kata) untuk diedit oleh Gemini AI. Melewati pengeditan.")
         return full_text_content
 
-    # Hitung jumlah karakter untuk 300 kata pertama
-    char_count_for_300_words = 0
-    word_count = 0
-    
-    for i, word in enumerate(words):
-        if word_count < 300:
-            char_count_for_300_words += len(word)
-            if i < len(words) - 1:
-                char_count_for_300_words += 1 
-            word_count += 1
-        else:
-            break
-            
-    char_count_for_300_words = min(char_count_for_300_words, len(full_text_content))
-
-    first_300_words_original_string = full_text_content[:char_count_for_300_words].strip()
-    rest_of_article_text = full_text_content[char_count_for_300_words:].strip()
-
-    print(f"🤖 Memulai pengeditan Gemini AI untuk artikel ID: {post_id} - '{post_title}' ({len(first_300_words_original_string.split())} kata pertama)...")
+    print(f"🤖 Memulai pengeditan Gemini AI untuk seluruh artikel ID: {post_id} - '{post_title}'...")
 
     try:
         prompt = (
-            f"Cerita Berikut adalah cuplikan dari 300 kata pertama dari cerita utuhnya, Perbaiki tata bahasa, ejaan, dan tingkatkan keterbacaan paragraf berikut. "
-            f"Paraphrase signifikan setiap kata, dan buat agar lebih mengalir sehingga 300 kata pertama ini beda dari aslinya:\n\n"
-            f"{first_300_words_original_string}"
+            f"Cerita berikut hasil copas, silahkan Tulis ulang menggunakan bahasa indonesia sehari hari paling sederhana dan mudah di pahami tanpa menggunakan perumpamaan sehingga terhindar dari duplikat google bot. "
+            f"Jika ada kata terlalu vulgar sensor saja atau ganti dengan kata yang lebih umum namun tetap Pertahankan alur tanpa mengurangi sedikitpun:\n\n"
+            f"{full_text_content}"
         )
 
         response = gemini_model.generate_content(prompt)
         edited_text_from_gemini = response.text
 
-        print(f"✅ Gemini AI selesai mengedit bagian pertama artikel ID: {post_id}.")
+        print(f"✅ Gemini AI selesai mengedit seluruh artikel ID: {post_id}.")
 
+        # Cukup bersihkan teks yang sudah diedit Gemini
         cleaned_edited_text = strip_html_and_divs(edited_text_from_gemini)
-
-        # Gabungkan bagian yang diedit dengan sisa artikel.
-        final_combined_text = cleaned_edited_text.strip() + "\n\n" + rest_of_article_text.strip()
-
-        # Final cleanup untuk seluruh teks setelah penggabungan
-        return strip_html_and_divs(final_combined_text)
+        return cleaned_edited_text
 
     except Exception as e:
-        print(f"❌ Error saat mengedit dengan Gemini AI untuk artikel ID: {post_id} - {e}. Menggunakan teks asli untuk bagian ini.")
+        print(f"❌ Error saat mengedit dengan Gemini AI untuk artikel ID: {post_id} - {e}. Menggunakan teks asli.")
         return full_text_content
 
 # --- Fungsi untuk memuat dan menyimpan status postingan yang sudah diterbitkan ---
@@ -304,7 +275,7 @@ def generate_jekyll_markdown_post(post):
 if __name__ == '__main__':
     print(f"[{datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}] Starting Jekyll post generation process...")
     print("🚀 Mengambil semua artikel WordPress.")
-    print("🤖 Fitur Pengeditan 300 Kata Pertama oleh Gemini AI DIAKTIFKAN.")
+    print("🤖 Fitur Pengeditan SELURUH ARTIKEL oleh Gemini AI DIAKTIFKAN.")
     print("🖼️ Mencoba mengambil gambar unggulan dari API. Jika tidak ada, mencoba mengambil gambar pertama dari konten artikel.")
 
     try:
@@ -333,7 +304,7 @@ if __name__ == '__main__':
         print(f"🌟 Menerbitkan artikel berikutnya: '{post_to_publish.get('processed_title')}' (ID: {post_to_publish.get('ID')})")
 
         # LAKUKAN PENGEDITAN AI
-        final_processed_content = edit_first_300_words_with_gemini(
+        final_processed_content = edit_full_article_with_gemini(
             post_to_publish['ID'],
             post_to_publish['processed_title'],
             post_to_publish['raw_cleaned_content']
