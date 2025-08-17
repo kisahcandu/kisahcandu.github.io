@@ -85,6 +85,9 @@ def edit_full_article_with_gemini(post_id, post_title, full_text_content):
     f"Buat cerita ini jadi sangat panjang, minimal 2000 kata, dengan dialog yang hidup. "
     f"Pastikan narasi mengalir dengan lancar dan mudah dipahami. "
     f"Pertahankan esensi dan adegan intim. "
+    f"tulis langsung cerita, tanpa prolog atau konfirmasi dari anda, contoh '<p>Baik, saya akan menulis ulang cerita ini dengan fokus pada ketegangan yang dibangun, interaksi karakter yang intens, detail emosi yang kuat, dan pengembangan alur cerita yang signifikan. Target 2000 kata akan saya penuhi dengan memperpanjang adegan yang ada dan menambahkan adegan baru.</p>
+
+<hr />'. "
     f"Berikut adalah cerita aslinya:\n\n"
     f"{full_text_content}"
 )
