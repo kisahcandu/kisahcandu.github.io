@@ -94,6 +94,14 @@ def edit_full_article_with_gemini(post_id, post_title, full_text_content):
             generation_config=generation_config
         )
         edited_text_from_gemini = response.text
+        
+        # --- Bagian yang aku tambahin, bro! ---
+        # Ini buat bersihin teks awal yang gak penting
+        # Kita cari judulnya, terus ambil semua teks setelah judul
+        clean_text_start_index = edited_text_from_gemini.find(post_title)
+        if clean_text_start_index != -1:
+            edited_text_from_gemini = edited_text_from_gemini[clean_text_start_index:]
+
         print(f"✅ Gemini AI selesai mengedit seluruh artikel ID: {post_id}.")
         cleaned_edited_text = strip_html_and_divs(edited_text_from_gemini)
         return cleaned_edited_text
