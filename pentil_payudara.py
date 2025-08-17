@@ -78,18 +78,16 @@ def edit_full_article_with_gemini(post_id, post_title, full_text_content):
 
     # Prompt yang udah kita sesuaikan
     prompt = (
-        f"Langsung tulis cerita tanpa respon jawaban perintah melaksanakan. "
-f"Kamu adalah penulis cerita dewasa profesional yang paham selera pasar lokal. "
-        f"Tugasmu adalah menulis ulang cerita berikut. "
-        f"Tuliskan dengan gaya bahasa yang vulgar, blak-blakan, dan sederhana seperti percakapan sehari-hari. "
-        f"Tambahkan adegan baru yang eksplisit dan detail. "
-        f"Buat cerita ini jadi sangat panjang, minimal 2000 kata, dengan dialog yang hidup dan onomatope yang relevan seperti 'ahhh', 'euhh', 'desah', 'crot'. "
-        f"Gunakan 'aku' dan 'bro' sebagai sudut pandang utama. "
-        f"Ganti kata 'memek' dengan 'serambi lempit', 'kontol' dengan 'rudal', 'vagina' dengan 'serambi lempit', 'penis' dengan 'rudal' dan 'ngentot' dengan 'menyetubuhi'. "
-        f"Berikut adalah cerita aslinya:\n\n"
-        f"{full_text_content}"
-    )
-
+    f"Kamu adalah penulis cerita yang ahli dalam membangun ketegangan dan adegan romansa. "
+    f"Tugasmu adalah menulis ulang cerita berikut. "
+    f"Fokus pada interaksi karakter yang intens dan detail emosi yang kuat. "
+    f"Tambahkan adegan-adegan baru untuk memperpanjang alur cerita. "
+    f"Buat cerita ini jadi sangat panjang, minimal 2000 kata, dengan dialog yang hidup. "
+    f"Pastikan narasi mengalir dengan lancar dan mudah dipahami. "
+    f"Pertahankan esensi dan adegan intim. "
+    f"Berikut adalah cerita aslinya:\n\n"
+    f"{full_text_content}"
+)
     try:
         response = gemini_model.generate_content(
             prompt,
