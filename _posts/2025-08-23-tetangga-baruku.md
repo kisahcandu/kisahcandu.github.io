@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Tetangga Baruku"
+author: "Om Sugeng"
+date: 2025-08-23 00:57:29 +0000
+description: "Tetangga Baruku Cerita Dewasa &#8211; Dalam kisah ini aku ingin menceritakan kisahku sendiri, dimana aku tidak mampu untuk untuk memendam sendiri. Sebagai sorang wanita yang telah sepantasnya di usiak..."
+image: "https://ceritaajib.wordpress.com/wp-content/uploads/2018/07/tetangga-baruku.jpg?w=555&#038;h=820"
+categories: ["Cerita Dewasa"]
+tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
+---
+
+Tetangga Baruku
+Cerita Dewasa &#8211; Dalam kisah ini aku ingin menceritakan kisahku sendiri, dimana aku tidak mampu untuk untuk memendam sendiri. Sebagai sorang wanita yang telah sepantasnya di usiaku yang sudah menginjak 30 tahun sudah menikah atau setidaknya sudah menikmati hubungan intim seperti dalam cerita sex, namul hal terebut belu pernah aku lakukan karena aku begitu pemalu dan juga begitu dingin saat pria yang mencoba mendekati ku.
+
+Aku memang merasa kurang pede dengan bobot tubuhku, yang beratnya 55 kg sedangkan tinggiku berkisar 155 cm. Sebenarnya banyak yang bilang kalau tubuhku terlihat sintal dengan berat seperti itu, namun aku merasa kegemukan dan merasa kurang percaya diri. Bahkan temanku bilang kalau aku memiliki wajah yang begitu cantik dia menyuruhku untuk membuang rasa kurang percaya diriku.
+
+Hingga datang seorang tetangga baru, dia seorang duda dengan anaknya yang masih balita. Namanya Hendri Baskoro karena dia kelihatan masih muda akupun memanggilnya mas Hendri, akupun mendengar dari mama kalau usianya memang masih 37 tahun. Dan di tinggal mati istrinya serta memilih pindah untuk tidak berlarut-larut mengenang dan memilih untuk tinggal di tempat yang baru.
+
+“Raih Keberuntunganmu dengan bermain Dominobet, games kartu online dengan menggunakan uang asli, terdiri permainan Capsa, Poker, Kiyu-kiyu, Sakong dan lain-lain. Dapatkan Jackpot hingga ratusan juta rupiah.”
+
+Hingga diapun membeli rumah yang sebelumnya memang di huni keluarga Hermanto tetangga lamaku, karena mamaku memang sebagai RT di komlek ini mas Hendripun sering bolak balik rumahku untuk mengurus kepindahannya hingga akhirnya kamipun saling mengenal. Ketika aku main ke rumahnya untuk mengantar berkas yang disuruh oleh mama akupun mengenal putri kecilnya yang begitu manis dan lucu.
+
+Aira namanya masih 4 tahun tapi dia begitu menggemaskan, aku yang memang tidak memiliki adik ataupun keponakan yang masih kecil. Akhirnya sering main dengan Aira walaupun awalnya aku tidak menyangka sama sekali kalau akhirnya aku akan melakukan adega seperti dalam cerita ajib dengan papanya mas Hendri, padahal di antara kami tidak pernah terucap kata cinta sama sekali.
+
+Hari itu kami baru datang dari jalan-jalan di sebuah pantai karena kami memang pergi bertiga, sampai di rumah mas Hendri akupun merasa kecapean dan tertidur disana. Awalnya aku tertidur di sofa ruang tengahnya tapi ketika aku membuka mataku ternyata aku sudah berada di dalam kamarnya, aku kaget segera aku bangun dan hendak meninggalkan kamarnya mas Hendri.
+
+Tiba-tiba dia datang ke dalam kamarnya &#8220;Hei sudah bangun&#8230;&#8221; katanya padaku akupun menjawab &#8220;iyaa.. mas&#8221; kataku singkat dan segera menuju pintu kamar, tapi kakiku kesandung kaki mas Hendri mungkin karena aku gugup belum pernah di dalam kamar seorang pria, berdua pula untungnya mas Hendri begitu sigap langsung memegang tubuhku hingga aku tidak terjatuh.
+
+Namun saat itu juga mata kami saling beradu dan dengan jarak yang begitu dekat. Tanpa aku duga sebelumnya mas Hendri kemudian mencium bibirku yang langsung bergetar hebat kala itu, tapi mas Hendri mungkin tahu kalau aku tidak ada pengalaman sama sekali tentang hal itu karena itu dia perlahan mencium lalu melumat bibirku. Sedangkan aku seperti patung yang tidak mampu berkutik.
+
+Sampai akhirnya akupun tidak sadar kalau mas Hendri sudah mengangkat tubuhku lalu membaringkannya di atas tempat tidur. Dia berbisik padaku &#8220;Sayang mau tidak kamu menjadi mama dari anaku..?&#8221; Sebagai wanita dewasa yang belum pernah mendapat perlakuan seperti ini dari seorang pria akupun menjadi tersipu malu tapi aku juga begitu senang mendengar kata-kata mas Hendri tadi.
+
+Diapun kembali mendaratkan bibirnya pada bibirku sambil tanganya menyentuh bagian sensitifku &#8220;ooouughhhhh&#8230; eeummmchhhh&#8230;&#8221; Kataku padahal baru bagian leher saja yang di sentuh mas Hendri dengan bibirnya tapi aku sudah tidak kuat menahannya apalagi kini bibir mas Hendri semakin kebawah.
+
+Begitu sampai di depan buah dadaku dia perlahan mendaratkan bibirnya pada gundukan dadaku itu &#8220;ouwwww&#8230;arggghhhh..arghhhhh&#8230; massss.. ahhhhhh&#8230;.&#8221; Mas Hendri akhirnya melakukan inti dari permainan ini ia lepas bajuku dan aku hanya bisa melihatnya bahkan aku memang mengharapkan hal ini, karena nikmat yang kurasa baru kali ini aku tahu.
+
+Perlahan namun pasti mas Hendri mengacungkan rudalnya pada serambi lempitu &#8220;owwww&#8230; pelaannn massss&#8230; belummmm pernahhhhh&#8230; aahhhh&#8230; ahhhhhhh&#8230;.ahhhhhh&#8230;.&#8221; Akhirnya akupun tidak dapat berkata apa-apa lagi yang ada hanya kenikmatan dan kenikmatan yang tiada tara, mas Hendri tersenyum kemudian dia kembali memeluku sambil terus menghentakan rudalnya.
+
+Hingga tidak lama kemudian akupun mendengar dia mengerang keras bahkan sampai mendongakan kepalanya &#8220;Oouuhhhhh&#8230; uuhhhh&#8230;..Sayanggg&#8230;.ahhhhh&#8230;.. ahhhhhhh&#8230;.. ahhhhh&#8230;..&#8221; Diapun mencium wajahku berulang kali dan akupun tahu kalau dia sudah mencapai klimaks sedangkan aku sendri tidak tahu kapan mencapai puncak kenikmatan itu.
+
+&#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
+
+Karena daritadi aku sudah merasakan kenikmatan yang begitu tidak dapat aku ungkap pada kata-kata. Mas Hendri memeluk tubuhku dan aku tidak malu lagi untuk melakukan hal yang sama padanya, sejak saat itu kami menjalin hubungan bahkan mas Hendri berencana segera menikahiku karena dia takut kalau sampai aku hamil. Karena kami sering melakukan hal itu.
