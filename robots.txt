@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /sitemap.xml
+Disallow:
+
+Sitemap: https://kisahcandu.github.io/sitemap.xml
