@@ -3,8 +3,8 @@ email: "your-email@example.com"
 description: >
   Baca Kumpulan Cerita Dewasa 2025 Menarik Dan Bikin Tegang Cerita Ini.
 
-baseurl: "" # jangan dikasih slash
-url: "/"
+baseurl: "/" # jangan dikasih slash
+url: "https://kisahcandu.github.io"
 
 permalink: "/:title/"
 
