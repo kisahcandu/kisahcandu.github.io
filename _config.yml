@@ -4,9 +4,9 @@ description: >
   Baca Kumpulan Cerita Dewasa 2025 Menarik Dan Bikin Tegang Cerita Ini.
 
 baseurl: "/" # jangan dikasih slash
-url: "https://kisahcandu.github.io"
+url: "https://kisahcandu.github.io/"
 
-permalink: "/:title/"
+permalink: ":doc.url"
 
 # Sosial Media
 twitter_username: ""
