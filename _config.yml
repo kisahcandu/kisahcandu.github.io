@@ -6,7 +6,7 @@ description: >
 baseurl: "/" # jangan dikasih slash
 url: "https://kisahcandu.github.io/"
 
-permalink: ":doc.url"
+permalink: ":title"
 
 # Sosial Media
 twitter_username: ""
