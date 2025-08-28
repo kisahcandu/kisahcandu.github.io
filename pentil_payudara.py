@@ -32,6 +32,14 @@ REPLACEMENT_MAP = {
     "penis": "rudal",
 }
 
+# --- Konfigurasi Safety Settings untuk mengurangi pemblokiran ---
+safety_settings = [
+    {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+    {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+    {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
+    {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
+]
+
 # === Utilitas ===
 def extract_first_image_url(html_content):
     match = re.search(r'<img[^>]+src="([^"]+)"', html_content, re.IGNORECASE)
@@ -73,7 +81,7 @@ def edit_full_article_with_gemini(post_id, post_title, full_text_content):
     # Set parameter yang akan membuat hasil lebih mirip gaya kita
     generation_config = {
         "temperature": 1.0, 
-        "max_output_tokens": 8192 # Setting ini penting biar ceritanya panjang
+        "max_output_tokens": 8192
     }
 
     # Prompt yang udah kita sesuaikan
@@ -92,13 +100,11 @@ def edit_full_article_with_gemini(post_id, post_title, full_text_content):
     try:
         response = gemini_model.generate_content(
             prompt,
-            generation_config=generation_config
+            generation_config=generation_config,
+            safety_settings=safety_settings # Terapkan safety_settings di sini
         )
         edited_text_from_gemini = response.text
         
-        # --- Bagian yang aku tambahin, bro! ---
-        # Ini buat bersihin teks awal yang gak penting
-        # Kita cari judulnya, terus ambil semua teks setelah judul
         clean_text_start_index = edited_text_from_gemini.find(post_title)
         if clean_text_start_index != -1:
             edited_text_from_gemini = edited_text_from_gemini[clean_text_start_index:]
@@ -115,7 +121,6 @@ def edit_full_article_with_gemini(post_id, post_title, full_text_content):
 def edit_title_with_gemini(original_title, edited_content):
     print(f"🤖 Memulai pengeditan judul dengan Gemini AI...")
     
-    # Prompt yang fokus buat bikin judul baru yang 'brengsek'
     prompt_title = (
         f"Dari konten cerita dewasa berikut, buatkan judul baru yang lebih provokatif, "
         f"vulgar, dan menarik untuk pembaca Indonesia. "
@@ -124,13 +129,14 @@ def edit_title_with_gemini(original_title, edited_content):
         f"Contoh judul yang bagus: 'Janda Depan Rumah Gila Banget di Ranjang' atau 'Nona Kantoran Jago Main Lidah'. "
         f"Berikan hanya judulnya saja, tanpa ada kata-kata lain seperti 'Judul:' atau 'Judul yang direkomendasikan:'. "
         f"Berikut adalah konten artikelnya:\n\n"
-        f"{edited_content[:1500]}..." # Kita ambil sebagian aja biar hemat token
+        f"{edited_content[:1500]}..."
     )
 
     try:
         response = gemini_model.generate_content(
             prompt_title,
-            generation_config={"temperature": 1.2} # Suhu agak tinggi biar hasilnya makin 'nakal'
+            generation_config={"temperature": 1.2},
+            safety_settings=safety_settings # Terapkan safety_settings di sini juga
         )
         new_title = response.text.strip().replace('"', '')
         print(f"✅ Gemini AI selesai mengedit judul.")
