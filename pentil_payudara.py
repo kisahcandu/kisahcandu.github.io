@@ -85,15 +85,17 @@ def edit_full_article_with_gemini(post_id, post_title, full_text_content):
     }
 
     # Prompt yang udah kita sesuaikan
+    # Prompt yang udah kita sesuaikan, versi lebih galak
     prompt = (
-    f"Kamu adalah penulis cerita yang ahli dalam membangun ketegangan dan adegan romansa. "
-    f"Tugasmu adalah menulis ulang cerita berikut. "
-    f"Fokus pada interaksi karakter yang intens dan detail emosi yang kuat. "
-    f"Tambahkan adegan-adegan baru untuk memperpanjang alur cerita. "
-    f"Buat cerita ini jadi sangat panjang, minimal 2000 kata, dengan dialog yang hidup. "
-    f"Pastikan narasi mengalir dengan lancar dan mudah dipahami. "
-    f"Pertahankan esensi dan adegan intim. "
-    f"tulis langsung cerita, tanpa prolog atau konfirmasi dari anda, contoh 'Baik, saya akan menulis ulang cerita ini dengan fokus pada ketegangan yang dibangun, interaksi karakter yang intens, detail emosi yang kuat, dan pengembangan alur cerita yang signifikan. Target 2000 kata akan saya penuhi dengan memperpanjang adegan yang ada dan menambahkan adegan baru'. "
+    f"Kamu adalah penulis cerita yang ahli dalam genre romansa dewasa, khusus untuk audiens lokal/Indonesia. "
+    f"Tugasmu adalah menulis ulang dan memperpanjang cerita berikut menjadi minimal 2000 kata. "
+    f"Fokus utama adalah pada adegan-adegan intim yang vulgar dan eksplisit. "
+    f"Tambahkan adegan-adegan baru yang berfokus pada interaksi syahwat, "
+    f"menggunakan dialog yang akrab dan lugas. "
+    f"Deskripsikan setiap sentuhan, desahan, dan gerakan dengan detail yang jelas dan tanpa perumpamaan. "
+    f"Pertahankan alur cerita dari teks asli, tapi buat narasi mengalir ke arah adegan-adegan sensual. "
+    f"Gunakan onomatope yang relevan seperti 'ahhh', 'euhhh', 'jleb', 'crot', dll, untuk menambah kesan realistis. "
+    f"Tulis langsung cerita, tanpa prolog atau konfirmasi. "
     f"Berikut adalah cerita aslinya:\n\n"
     f"{full_text_content}"
 )
