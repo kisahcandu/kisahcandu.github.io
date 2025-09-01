@@ -1,4 +1,4 @@
-{% if paginator.total_pages > 1 %}
+<!-- {% if paginator.total_pages > 1 %}
 <div class="pagination">
   <ul class="inline-list">
     {% comment %} Link for previous page {% endcomment %}
@@ -63,4 +63,27 @@
     {% endif %}
   </ul>
 </div>
+{% endif %} -->
+{% if paginator.total_pages > 1 %}
+  <ul class='page-numbers'>
+    {% comment %} Link for previous page {% endcomment %}
+    {% if paginator.previous_page %}
+      <li><a class="prev page-numbers" href="{% if paginator.previous_page == 1 %}{{ site.url }}{% else %}{{ site.url }}/page{{ paginator.previous_page }}/{% endif %}">Previous</a></li>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <li><span aria-current="page" class="page-numbers current">{{ page }}</span></li>
+      {% elsif page == 1 %}
+        <li><a class="page-numbers" href="{{ site.url }}">{{ page }}</a></li>
+      {% else %}
+        <li><a class="page-numbers" href="{{ site.url }}/page{{ page }}/">{{ page }}</a></li>
+      {% endif %}
+    {% endfor %}
+
+    {% comment %} Link for next page {% endcomment %}
+    {% if paginator.next_page %}
+      <li><a class="next page-numbers" href="{{ site.url }}/page{{ paginator.next_page }}/">Next</a></li>
+    {% endif %}
+  </ul>
 {% endif %}
