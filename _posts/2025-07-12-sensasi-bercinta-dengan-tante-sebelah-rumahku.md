@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: https://gudangcerita1000.blogspot.com/
+permalink: amp=https://gudangcerita1000.blogspot.com/
 title: "Sensasi Bercinta Dengan Tante Sebelah Rumahku"
 author: "Om Sugeng"
 date: 2025-07-12 14:52:52 +0000
