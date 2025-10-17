@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Kasarnya Cewek Satu Kosanku"
+author: "Om Sugeng"
+date: 2025-10-17 00:58:09 +0000
+description: "Kasarnya Cewek Satu Kosanku Cerita Dewasa &#8211; Aku masih berusia 18 tahun. Ketika itu aku baru saja lulus dari SMK di Pekalongan dan merantau ke Jakarta untuk mencari Duit banyak. Sejak saat itu ak..."
+image: "https://ceritaajib.wordpress.com/wp-content/uploads/2018/05/teman-kosanku-cantik.jpg?w=444&#038;h=475"
+categories: ["Pelajar Nakal"]
+tags: ["Cerita Dewasa", "Cerita Hot", "Cerita Mantap", "Cerita Sex", "Cinta Hanya Nafsu", "Cinta Terlarang"]
+---
+
+Kasarnya Cewek Satu Kosanku
+Cerita Dewasa &#8211; Aku masih berusia 18 tahun. Ketika itu aku baru saja lulus dari SMK di Pekalongan dan merantau ke Jakarta untuk mencari Duit banyak. Sejak saat itu aku diterima bekerja di salah satu pembuatan motor diaderah Bekasi. Hari pertama aku tiba di Bekasi aku gunakan untuk mencari sebuah kosan yang nyaman untuk istirahat. Disuatu jalan raya saat aku mencari kosan tidak ketemu yang kosong , muter2 gak ketemu aku bertemu seorang laki laki yang sama umurnya dengan aku, ternyata dia baru saja menemukan sebuah kosan dan mengajak ku tinggal bersama biarlah untuk 1 bulan kedepan, saat kutanya dia asli Batang wah tetangga kota jadi aku langsung akrab karena mungking kedekatan daeraah.
+
+Kemudian aku masuk ke kamarnya dan sebelumnya menemui ibu kos untuk bilang kalau kita mau kos berdua. Setelah admistrasi selesai akupun istirahat dikamar. Didalam kamar kami saling bercerita ngalor ngidul sampae temune cerita cerita seks. Memang aku akui aku sudah menjebol perawan wanita saat aku SMA. Dari pembicaraan tersebut ternyta temanku ini namanya Hadi masih mau coba coba untuk menjebol peran. “ Weh .. piye ben ngejak cewe ben gelem kicik.? Tanya Hadi. “ Wah penak wae asal seneng yo main !” jawabku. “setelah itu magrib aku segera mandi karena sudah bau keringat. Dan ternyata yang ngantri banyak sekali hahaha maklum kosan murah . kamar mandi Cuma 2 sementara penghuninya 21 wkwkwkw. Melihat antrian itu aku kembali ke kamar, di kamar aku membuka baju ku , karena sangat panas dan sambil menyalakan rokok. namun temanku itu selalu memperhatikan bentuk banadanku, padahal yah biasa biasa saja namun berootot, waktu itu aku biarkan saja cuek.
+
+&#8220;Raih keberuntunganmu dengan bermain Dominobet, permainan kartu online dengan menggunakan uang asli. Dapatkan jackpot hingga ratusan juta rupiah&#8221;.
+
+Setelah 2 minggu aku tinggal bersama dia keanehan mulai muncul, dia selalu menyuruhku tidul telanjang dada dan menggunakan celana boxer , lah namun aku turutu kan cuaca memnag sangat panas. Malam itu tiba2 tangan dia meraba rudalku, dan meremas2. Aku segera memukul tangannya, kemudian dia malah kembali menyerangku. Karena dia adalah bekas pemain silat aku kalah telak dengan dia, tanganku diikat. Celana boxer ku digunting mulutku dilakban aku sungguh ora iso opo opo. Angel kabeh. Iki Isih celana dalam mung nempel. Tapi kemudian dating 3 orang temannya dan segera membuka celana dalamku dan menelanjangiku . wah begitu rasanya tidak enak sekali namun lama kelamaan rasanya enak mungkin aku kebawa nafsu juga, rudalku kemudian disemprot spray tahan lama mungkin (embuh dak tau merknya) lama lama rudalku semakin membesar. Dan ketiga orang bangsat itu termasuk si hadi tertawa terbahak bahak, melihat itu salah satu dari mereka langsung mengulum rudalku, yang satu jilati telorku dan sementara hadi menyiumi putingku. Wah rasanya enak campur jengkel. Namun lama lama aku menikmatinya waalau tubuhku terikat. Setelah itu pitingku dijepit pakai jepitan baju, wah sunngguh sakit sekali, kemudian si hadi megarahkan rudalku kea rah bokongnya wah aku tidak menyangka, baru kali ini aku mengetot laki,laki, namun rasanya tetap saja lebih enak punya cewe. 1 malam pul aku digilir mereka, aku dipecut juga
+
+&#8220;Mau Dapat Uang Dengan Main Kartu Online Seperti Poker, Kiyu-kiyu,ceme, Capsa? Buruan Daftar Diri Anda di Domino QiuQiu dan Dapatkan Jackpot Dari Game Ini&#8221;
+
+Di beberapa bagian tubuhku masih ada bekas lecet atau parut bekas luka,sebagai kenang-kenangan atau &#8220;tanda-tangan&#8221; para steman baru yang sadis-sadis
+itu. Semua siksaan selama malam yang luar biasa sadisnya aku hadapidengan gembira penuh ketabahan.
+
+Esok paginya aku dibangunkan dengan tamparan . wah kali ini aku digilir kembali . wah rasanya capek lapar dan kesakitan jadi satu.. hari itu aku gak masuk kerja gara gara aku masih disekap.. didalam kamar kos.. setelah dzuhur aku berhasil membuka tali ikatanku dan berhasil keluar kamar, aku kabur hanya mengenakan celana boxer, saja dan pergi ke rumah temanku, tanpa membawa pakaian ku sama sekali. Hanya boxer yang ku ambil milik hadi smertara HP ku diambil oleh hadi. Sunggu kejadian sangat tragis eng rak pernah kulupake.. namun sejak kejadian kui aku dadi ketagihan pengen main sama laki-laki, meskipun aku juga bebrapa kali sering main sam wanita. Dan kalau tidak ada wanita aku puaskan birahiku marang wong lanang
